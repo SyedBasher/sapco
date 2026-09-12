@@ -195,3 +195,46 @@ Doreen and Baraka were also examined. Doreen reports plant-level revenue and
 units but does not separate the capacity component; Baraka does not disclose
 the split at all. Coverage of the anchor is therefore uneven across sponsors,
 which is itself worth recording.
+
+## Imposing the ceiling inside the estimator (12 September 2026)
+
+The disclosures are now a constraint rather than an after-the-fact check. The
+same specification is solved as a bounded least-squares problem,
+
+    min  sum_it ( P_it - CP_i - v_{f(i),t} E_it )^2
+    s.t. 0 <= CP_i <= R^elec_i   where the accounts disclose the ceiling
+         0 <= CP_i               otherwise
+         0 <= v_{f,t}
+
+so that the five plants with known ceilings bind the fuel-year rates they share
+with every other plant of the same fuel, and the non-negativity restriction
+stops any intercept absorbing payment as a negative number.
+
+The fit is essentially unchanged at an R-squared of 0.981, and the fleet total
+of fixed payments moves from Tk 7,690 crore to Tk 7,851 crore. Only one of the
+five ceilings binds — Jangalia, which falls from Tk 44 crore to its ceiling of
+Tk 7 crore — and one non-negativity restriction binds, Haripur, whose intercept
+was minus Tk 56 crore and is now zero.
+
+Two of those small movements have a larger consequence than their size
+suggests. Both bound plants burn gas, so correcting them pulls the gas energy
+rate down across the series, from 1.69 to 1.51 taka per kWh in FY2019-20 and
+from 5.10 to 4.94 in FY2024-25, and every gas plant's intercept rises to
+compensate: Summit Meghnaghat from Tk 471 crore to 499, Bibiyana II from 176 to
+226, Meghnaghat Power from 156 to 210. Five observed ceilings and one sign
+restriction therefore reach plants whose accounts disclose nothing, which was
+the point of putting them inside the estimator rather than beside it.
+
+The stability question that opened this line of work is now answered. Across
+the 46 plants estimated both ways, the ratio of constrained to unconstrained
+estimates has a median of 1.000, a tenth percentile of 1.000 and a ninetieth of
+1.19. The comparison that prompted the worry — per-plant against fuel-controlled
+panel — ran 0.46 to 2.88 over the same kind of range. The specification, not the
+constraint, was doing the damage; with the specification settled, the estimates
+are no longer sensitive to how the restrictions are applied.
+
+What this does not establish is the level. Every ceiling is an upper bound, so
+they can rule an estimate out but never confirm one, and four of the five do not
+bind at all. Tk 7,851 crore remains a figure resting on 47 plants of a larger
+fleet, and confirming the level rather than bounding it still requires a
+disclosed capacity rate, which none of the four sponsors examined publishes.
