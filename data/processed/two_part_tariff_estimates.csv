@@ -1,0 +1,119 @@
+producer,purchase_class,n_obs,energy_rate_bdt_kwh,fixed_payment_bdt,r_squared,flag
+Sembcorp NWPC Ltd. - Sirajgonj (282MW),ipp,6,-5.3593,27988301684.0,0.0472,sign_implausible
+Summit Meghnaghat Power Ltd.,ipp,6,-7.8845,19023294639.0,0.3414,sign_implausible
+HDFC SinPower Ltd. (50MW),ipp,3,-180.6922,18096788262.0,0.7272,sign_implausible
+APSCL (450 MW) North,public,6,-3.9012,16854255463.0,0.0565,sign_implausible
+Summit Bibiyana II Power Company Ltd.,ipp,6,-3.1433,16359226778.0,0.0134,sign_implausible
+APSCL (450 MW) South,public,6,-0.528,10520938239.0,0.0067,sign_implausible
+North West Power Gen (NWPGCL)- Sirajgonj (Unit - 2),public,4,-1.3216,10436755906.0,0.0076,sign_implausible
+North West Power Gen (NWPGCL)- Sirajgonj (Unit - 3),public,4,-3.9146,9662934413.0,0.929,sign_implausible
+North West Power Gen (NWPGCL)- Bheramara,public,4,0.8537,6958772720.0,0.0718,
+Summit Gazipur II Power Ltd. - Kodda (300MW),ipp,6,10.7779,6912253428.0,0.5344,
+United - Anawara (300MW),ipp,6,10.9806,6001122322.0,0.6616,
+United Mymensingh Power Ltd. (200MW),ipp,6,9.8217,5813117797.0,0.298,
+RPC LTD. Mymensingh (210 MW),ipp,6,-1.0219,5400102748.0,0.2436,sign_implausible
+Manikgonj Power Generations Limited (162MW),ipp,4,10.8175,5253085174.0,0.9751,
+United Jamalpur 200MW,ipp,6,7.956,4855147503.0,0.1093,
+North West Power Gen (NWPGCL)- Khulna,public,3,18.2716,4837131212.0,0.8128,
+Confidence Power Ltd. - Rangpur (113MW),ipp,4,8.6878,4824027279.0,0.9024,
+ACE Alliance Power Ltd. (149MW) (Summit Gazipur),ipp,6,9.3526,4598811841.0,0.2032,
+Barisal Electric Power Company Ltd.,ipp,3,10.692,4117051728.0,0.9452,
+Acron Infracture Service Ltd. (Unit-3),ipp,6,5.4646,4080069646.0,0.2798,
+Confidence Power Ltd. (Unit-1) - Bogra,ipp,4,10.4139,3880611008.0,0.9857,
+Anlima Energy Limited (116MW),ipp,4,11.7309,3278031328.0,0.9775,
+Summit Barishal Power Ltd.,ipp,6,1.0235,3262536620.0,0.0055,
+EGCB Ltd. (210X2) MW,public,4,-0.1266,2845290052.0,0.0016,sign_implausible
+HF Power Company Limited,ipp,6,9.4412,2842373556.0,0.5015,
+Confidence Power Ltd. (Unit-2) - Bogra,ipp,6,11.6746,2680278145.0,0.6376,
+Acron Infrastructure Services Ltd. Unit-2,ipp,6,8.3381,2645809340.0,0.498,
+Midland East Power Company Ltd.,ipp,6,12.9734,2523172051.0,0.7833,
+Summit Narayangonj Power Ltd.,rental,5,3.3953,2391276785.0,0.1806,
+NVVN Ltd. - India 160 MW (Tripura),india,6,5.7518,2330379980.0,0.7775,
+Kushiara Power Company Ltd.,ipp,6,2.0633,2310887631.0,0.1168,
+Paramount BTrac Energy Ltd. - Sirajgonj,ipp,6,39.5566,2257298442.0,0.7907,
+Orion Power Sonargaon Ltd.,ipp,6,10.9673,2127576846.0,0.6109,
+United Ashugang Energy Ltd.,ipp,6,6.4495,2072314119.0,0.8272,
+Banco Energy Generation Ltd.,ipp,4,10.7118,1936492555.0,0.9613,
+North West Power Gen (NWPGCL)- Sirajgonj,public,3,3.3144,1911986046.0,0.8121,
+Orion Power Rupsha Ltd. - Khulna (105MW),ipp,6,11.657,1900383174.0,0.7701,
+Bhairab Power Limited (54.50MW),ipp,4,9.5217,1887779136.0,0.7296,
+APSCL (225 MW),public,6,3.407,1796071240.0,0.0244,
+Karnaphuli Power Ltd.,ipp,6,14.2915,1739700516.0,0.9437,
+North West Power Gen (NWPGCL)- Madhumati,public,4,16.3078,1687427222.0,0.9572,
+Digital Power & Associates Ltd.,ipp,6,11.3997,1644374300.0,0.5463,
+Kpcl -Unit-2,rental,5,8.3131,1597519507.0,0.8649,
+Baraka Shikalbaha Power Ltd. (105MW),ipp,6,14.2184,1584182190.0,0.9049,
+Dhaka Northern Power Limited,ipp,3,11.5596,1574495761.0,0.9089,
+BPDB RPCL Power Gen Ltd.,ipp,3,22.5611,1495009352.0,0.952,
+Regent Energy & Power Ltd.,ipp,6,0.8763,1387273029.0,0.2214,
+Shahjibazar Power Co. Ltd.,rental,6,2.1458,1363574285.0,0.2172,
+Dhaka Southern Power Limited,ipp,3,13.6899,1358662056.0,0.9829,
+Zodiac Power Ctg. Ltd.,ipp,6,10.6046,1346439285.0,0.7058,
+Dutch Bangla Power & Associates Ltd.,rental,5,10.6993,1336830572.0,0.6907,
+EGCB Ltd.(210X2)MW,public,4,5.7547,1312666661.0,0.8513,
+Kanchan Purbachal Power Generation Limited (55MW),ipp,3,13.0387,1285901534.0,0.9687,
+Summit Narayangonj Power Unit II Ltd.,ipp,6,12.1567,1171297016.0,0.5374,
+Baraka Patenga Power Limited,ipp,6,9.4219,1136794609.0,0.5771,
+Desh Energy Chandpur Power Company Ltd.,ipp,6,17.5475,1119643046.0,0.5849,
+ECPV Power Ltd.,ipp,5,13.2759,1107939888.0,0.8065,
+Aggreko Energy Solution Ltd. - Bhahmangoan (100MW),ipp,5,32.0988,926096874.0,0.9079,
+Tangail Palli Power Generation Ltd. (22MW),ipp,4,9.7727,915790679.0,0.9411,
+Power Pac Mutiara Keranigonj,rental,6,7.6308,769044163.0,0.3706,
+Lakdhanvi Bangla Power Ltd.,ipp,6,14.4907,768857489.0,0.6321,
+Haripur Power Ltd.,ipp,6,1.6741,692019512.0,0.6756,
+Aggreko Energy Solution Ltd. - Aorahati (100MW),ipp,6,34.5174,616962377.0,0.9195,
+Regent Power Ltd.,ipp,5,-0.3697,519543236.0,0.1093,sign_implausible
+Precision Energy Ltd.,rental,6,3.0897,503513429.0,0.5094,
+Orion Power Meghnaghat Ltd.,rental,3,17.5329,500737526.0,0.9998,
+Chandpur Power Generation Lttd. (115MW),ipp,4,18.6815,455843682.0,0.8812,
+Shahjanullah Power Generation Co. Ltd.,ipp,6,0.179,442348113.0,0.0003,
+Raj Lanka Power Limited,ipp,6,12.6876,438840513.0,0.9261,
+Sinha People Energy Ltd.,ipp,3,10.126,426256951.0,0.8151,
+Doreen Power Generation & System Ltd.-Feni,ipp,5,0.4565,414102428.0,0.0371,
+United Power Generation & Distribution,ipp,6,2.0501,404123047.0,0.012,
+"Venture Energy, Bhola",rental,6,2.5041,376720084.0,0.3067,
+Baraka Power Co. Ltd.,rental,4,3.8403,343537323.0,0.5657,
+Bangla Track Power Company Ltd. (Unit-2),ipp,5,34.1813,305233876.0,0.8774,
+RPCL - Gazipur (105MW),ipp,6,17.7984,278378381.0,0.6624,
+Doreen Power Generation & System Ltd.- Tangail,ipp,5,1.2706,274758743.0,0.447,
+North West Power Gen (NWPGCL)- 6.55MW Solar PV,public,4,-12.1132,259389329.0,0.3537,sign_implausible
+RPCL 52MW Gazipur,ipp,6,18.4298,258368693.0,0.8771,
+Khanjahan Ali Power Ltd.,rental,5,12.9866,256491373.0,0.9363,
+Acron Infrastructure Service Ltd.,rental,5,19.4764,162105716.0,0.8217,
+RPCL 25MW Rawjan,ipp,6,18.355,158151751.0,0.8569,
+"Desh Cambridge, Kumergoan",rental,5,2.3703,142032491.0,0.0879,
+APR Energy 300MW,ipp,3,41.6264,130877848.0,0.9999,
+Power Pac Motiara - Jamalpur,ipp,3,11.3691,125368513.0,0.995,
+Amnura(Sinha Power Generation),rental,3,11.4576,106219189.0,0.9384,
+"Energyprima, Fenchugonj",rental,6,4.1418,81471707.0,0.7006,
+Doreen Southern Power Limited,ipp,4,15.2147,81261993.0,0.7049,
+NVVN Ltd. - India 300 MW,india,6,6.9317,47675752.0,0.399,
+Bangla Track Power Company Ltd.,ipp,3,42.3155,2962713.0,1.0,
+Desh Energy Hatiya Power Company Limited (5MW),ipp,3,24.4625,-337556.0,0.9991,sign_implausible
+Engreen Solar,ipp,6,31.725,-51561545.0,0.0858,sign_implausible
+B-R Powergen Ltd. (Mirersarai),ipp,3,25.816,-159471939.0,0.888,sign_implausible
+Northern Power,rental,5,23.8425,-172737922.0,0.9639,sign_implausible
+Lanka Power Limited - Feni,ipp,6,22.6628,-182141142.0,0.8717,sign_implausible
+Summit Purbachal Power Ltd.-Jangalia,ipp,5,5.3205,-198078804.0,0.1273,sign_implausible
+United Payra (150MW),ipp,4,35.5348,-202708807.0,0.9929,sign_implausible
+Sympa Solar Power Limited,ipp,6,34.4507,-260896241.0,0.7852,sign_implausible
+Teesta Solar Ltd. (200MW),ipp,3,18.6117,-415195827.0,0.984,sign_implausible
+Technaf Solartech Energy Ltd. (20MW),ipp,6,26.5181,-465769198.0,0.3206,sign_implausible
+Intraco Solar Power Ltd. (30MW),ipp,3,26.942,-499010447.0,0.9408,sign_implausible
+Energon Renewables (BD) Limited 100MW - Mongla,ipp,4,18.8698,-612749796.0,0.9488,sign_implausible
+APSCL (New 50 MW),public,6,7.6624,-976468005.0,0.5368,sign_implausible
+Spectra Solar Park,ipp,4,31.6997,-1002492147.0,0.7783,sign_implausible
+Doreen Northern Power Limited,ipp,4,19.7066,-1065102250.0,0.7498,sign_implausible
+EPV Thakurgoan Limited (115MW),ipp,4,26.3411,-1130953643.0,0.909,sign_implausible
+PTC India Ltd. 200 MW,india,4,10.2121,-1194198355.0,0.9818,sign_implausible
+Adani Power Limited (Jharkhand),india,3,15.0726,-1675416499.0,1.0,sign_implausible
+EGCB Ltd. (360) MW,public,4,6.5124,-1800152244.0,0.8439,sign_implausible
+Nutan Bidyut (Bangladesh) Ltd. (220MW),ipp,4,6.2529,-1822438552.0,0.3679,sign_implausible
+Midland Power Company Ltd.,ipp,6,11.0108,-2110288844.0,0.3861,sign_implausible
+EGCB Ltd. (412) MW,public,4,4.4774,-3484160377.0,0.5368,sign_implausible
+Meghnaghat Power Ltd.,ipp,6,6.0598,-6118597681.0,0.4662,sign_implausible
+EGCB Ltd.(412)MW,public,4,7.2313,-9818770505.0,0.8313,sign_implausible
+Sembcrop Energy India Ltd. 250MW,india,6,15.84,-12807193254.0,0.5701,sign_implausible
+Bangladsh -China Power Company (Pvt.) Ltd. 1320MW,ipp,5,15.6254,-13760972395.0,0.9248,sign_implausible
+NVVN Ltd. - India 250 MW,india,6,18.7146,-26932000650.0,0.7411,sign_implausible
+Total Import,india,4,14.2762,-61133176243.0,0.9383,sign_implausible

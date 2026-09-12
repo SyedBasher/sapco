@@ -1,0 +1,768 @@
+producer_key,producer,purchase_class,fy,kwh,bdt,audited_column,source_doc
+"13 shikalbaha power station (dual fuel) 150 0% (946,612) - - 29,449,649 -","13 Shikalbaha Power Station (Dual Fuel) 150 0% (946,612) - - 29,449,649 -",india,FY2021-22,0.0,0.0,,BPDB 2022-23.pdf
+"13 shikalbaha power station (dual fuel) 150 0% (946,612) - - 29,449,649 -","13 Shikalbaha Power Station (Dual Fuel) 150 0% (946,612) - - 29,449,649 -",india,FY2022-23,566334055.0,595783703.0,Y,BPDB 2022-23.pdf
+"13 tongi power station 105.00 0% (200,350) - - 3,357,916 -","13 Tongi Power Station 105.00 0% (200,350) - - 3,357,916 -",rental,FY2019-20,0.0,0.0,,BPDB 2020-21.pdf
+"13 tongi power station 105.00 0% (200,350) - - 3,357,916 -","13 Tongi Power Station 105.00 0% (200,350) - - 3,357,916 -",rental,FY2020-21,228681818.0,232039734.0,Y,BPDB 2020-21.pdf
+"14 siddirgonj power station 115.00 0% (1,287,000) - - 101,068,157 -","14 Siddirgonj Power Station 115.00 0% (1,287,000) - - 101,068,157 -",rental,FY2019-20,0.0,0.0,,BPDB 2020-21.pdf
+"14 siddirgonj power station 115.00 0% (1,287,000) - - 101,068,157 -","14 Siddirgonj Power Station 115.00 0% (1,287,000) - - 101,068,157 -",rental,FY2020-21,727660368.0,828728526.0,Y,BPDB 2020-21.pdf
+"19 siddirgonj power station 115 0% (634,281) - - 20,293,127 -","19 Siddirgonj Power Station 115 0% (634,281) - - 20,293,127 -",india,FY2021-22,0.0,0.0,,BPDB 2022-23.pdf
+"19 siddirgonj power station 115 0% (634,281) - - 20,293,127 -","19 Siddirgonj Power Station 115 0% (634,281) - - 20,293,127 -",india,FY2022-23,1143023591.0,1163316717.0,Y,BPDB 2022-23.pdf
+"2 wind base power station, sonagazi 900kw 1 0% - - - 40,040 -","2 Wind Base Power Station, Sonagazi 900KW 1 0% - - - 40,040 -",india,FY2021-22,0.0,0.0,,BPDB 2022-23.pdf
+"2 wind base power station, sonagazi 900kw 1 0% - - - 40,040 -","2 Wind Base Power Station, Sonagazi 900KW 1 0% - - - 40,040 -",india,FY2022-23,3595171.0,3635211.0,Y,BPDB 2022-23.pdf
+"22 shahjibazar 330 ccpp 330 0% (971,772) 793,136 229,219,097 -","22 Shahjibazar 330 CCPP 330 0% (971,772) 793,136 229,219,097 -",india,FY2021-22,0.0,0.0,,BPDB 2022-23.pdf
+"22 shahjibazar 330 ccpp 330 0% (971,772) 793,136 229,219,097 -","22 Shahjibazar 330 CCPP 330 0% (971,772) 793,136 229,219,097 -",india,FY2022-23,4050734120.0,4280746353.0,Y,BPDB 2022-23.pdf
+"24 khulna power station 170.00 0% - - - 6,974,916 -","24 Khulna Power Station 170.00 0% - - - 6,974,916 -",rental,FY2019-20,0.0,0.0,,BPDB 2020-21.pdf
+"24 khulna power station 170.00 0% - - - 6,974,916 -","24 Khulna Power Station 170.00 0% - - - 6,974,916 -",rental,FY2020-21,341453242.0,348428157.0,Y,BPDB 2020-21.pdf
+"24 shahjibazar 100 p/s 100 0% (996,402) - - 11,301,382 -","24 Shahjibazar 100 P/S 100 0% (996,402) - - 11,301,382 -",india,FY2021-22,0.0,0.0,,BPDB 2022-23.pdf
+"24 shahjibazar 100 p/s 100 0% (996,402) - - 11,301,382 -","24 Shahjibazar 100 P/S 100 0% (996,402) - - 11,301,382 -",india,FY2022-23,566887019.0,578188401.0,Y,BPDB 2022-23.pdf
+"27 hathazari peacking power plant 98.00 0% (856,680) 68,955,110 - 111,838,566 -","27 Hathazari Peacking Power Plant 98.00 0% (856,680) 68,955,110 - 111,838,566 -",rental,FY2019-20,0.0,0.0,,BPDB 2020-21.pdf
+"27 hathazari peacking power plant 98.00 0% (856,680) 68,955,110 - 111,838,566 -","27 Hathazari Peacking Power Plant 98.00 0% (856,680) 68,955,110 - 111,838,566 -",rental,FY2020-21,176238639.0,357032315.0,Y,BPDB 2020-21.pdf
+"35 bheramara power station - - (153,245) 33,693 - 3,090,483 -","35 Bheramara Power Station - - (153,245) 33,693 - 3,090,483 -",rental,FY2019-20,0.0,0.0,,BPDB 2020-21.pdf
+"35 bheramara power station - - (153,245) 33,693 - 3,090,483 -","35 Bheramara Power Station - - (153,245) 33,693 - 3,090,483 -",rental,FY2020-21,212175243.0,215299420.0,Y,BPDB 2020-21.pdf
+"36 barishal gas turbine power station - - (230,555) - - 15,382,270 -","36 Barishal Gas Turbine Power Station - - (230,555) - - 15,382,270 -",rental,FY2019-20,0.0,0.0,,BPDB 2020-21.pdf
+"36 barishal gas turbine power station - - (230,555) - - 15,382,270 -","36 Barishal Gas Turbine Power Station - - (230,555) - - 15,382,270 -",rental,FY2020-21,89741304.0,105123574.0,Y,BPDB 2020-21.pdf
+"37 bhola diesel power station (closed) - - - - - 1,955 -","37 Bhola Diesel Power Station (Closed) - - - - - 1,955 -",rental,FY2019-20,0.0,0.0,,BPDB 2020-21.pdf
+"37 bhola diesel power station (closed) - - - - - 1,955 -","37 Bhola Diesel Power Station (Closed) - - - - - 1,955 -",rental,FY2020-21,30156042.0,30157997.0,Y,BPDB 2020-21.pdf
+"39 bheramara power station - (73,609) 111,924 - 551,754 -","39 Bheramara Power Station - (73,609) 111,924 - 551,754 -",india,FY2021-22,0.0,0.0,,BPDB 2022-23.pdf
+"39 bheramara power station - (73,609) 111,924 - 551,754 -","39 Bheramara Power Station - (73,609) 111,924 - 551,754 -",india,FY2022-23,200352040.0,201015718.0,Y,BPDB 2022-23.pdf
+"4 wind base power station, sirajgonj 2 mw 2 0% (25,317) - - - -","4 Wind Base Power Station, Sirajgonj 2 MW 2 0% (25,317) - - - -",india,FY2021-22,0.0,0.0,,BPDB 2022-23.pdf
+"4 wind base power station, sirajgonj 2 mw 2 0% (25,317) - - - -","4 Wind Base Power Station, Sirajgonj 2 MW 2 0% (25,317) - - - -",india,FY2022-23,14940497.0,14939888.0,Y,BPDB 2022-23.pdf
+"40 barishal gas turbine power station - (178,607) - - 3,358,266 -","40 Barishal Gas Turbine Power Station - (178,607) - - 3,358,266 -",india,FY2021-22,0.0,0.0,,BPDB 2022-23.pdf
+"40 barishal gas turbine power station - (178,607) - - 3,358,266 -","40 Barishal Gas Turbine Power Station - (178,607) - - 3,358,266 -",india,FY2022-23,78157892.0,81516158.0,Y,BPDB 2022-23.pdf
+"40 kutubdia diesel generator 1.50 0% - 11,826,541 - 3,027,769 -","40 Kutubdia Diesel Generator 1.50 0% - 11,826,541 - 3,027,769 -",rental,FY2019-20,0.0,0.0,,BPDB 2020-21.pdf
+"40 kutubdia diesel generator 1.50 0% - 11,826,541 - 3,027,769 -","40 Kutubdia Diesel Generator 1.50 0% - 11,826,541 - 3,027,769 -",rental,FY2020-21,137229521.0,152083831.0,Y,BPDB 2020-21.pdf
+41 sandip diesel generator 2.64 0% - - - - -,41 Sandip Diesel Generator 2.64 0% - - - - -,rental,FY2019-20,0.0,0.0,,BPDB 2020-21.pdf
+41 sandip diesel generator 2.64 0% - - - - -,41 Sandip Diesel Generator 2.64 0% - - - - -,rental,FY2020-21,236079639.0,236079639.0,Y,BPDB 2020-21.pdf
+"43 dgd, dhaka - - - 522,305 - 70,757,188 -","43 Dgd, Dhaka - - - 522,305 - 70,757,188 -",rental,FY2019-20,0.0,0.0,,BPDB 2020-21.pdf
+"43 dgd, dhaka - - - 522,305 - 70,757,188 -","43 Dgd, Dhaka - - - 522,305 - 70,757,188 -",rental,FY2020-21,47222384.0,118501877.0,Y,BPDB 2020-21.pdf
+"44 kutubdia diesel generator - - 20,016,904 - 2,154,311 -","44 Kutubdia Diesel Generator - - 20,016,904 - 2,154,311 -",india,FY2021-22,0.0,0.0,,BPDB 2022-23.pdf
+"44 kutubdia diesel generator - - 20,016,904 - 2,154,311 -","44 Kutubdia Diesel Generator - - 20,016,904 - 2,154,311 -",india,FY2022-23,27788079.0,49959294.0,Y,BPDB 2022-23.pdf
+"45 sandip diesel generator - - - - 4,355,468 -","45 Sandip Diesel Generator - - - - 4,355,468 -",india,FY2021-22,0.0,0.0,,BPDB 2022-23.pdf
+"45 sandip diesel generator - - - - 4,355,468 -","45 Sandip Diesel Generator - - - - 4,355,468 -",india,FY2022-23,12736.0,4368204.0,Y,BPDB 2022-23.pdf
+47 shikalbaha power station (dual fuel) - - - - - -,47 Shikalbaha Power Station (Dual Fuel) - - - - - -,india,FY2021-22,0.0,0.0,,BPDB 2022-23.pdf
+47 shikalbaha power station (dual fuel) - - - - - -,47 Shikalbaha Power Station (Dual Fuel) - - - - - -,india,FY2022-23,172791268.0,172791268.0,Y,BPDB 2022-23.pdf
+"50 dgd, dhaka - - 1,163,080 - 993,270 -","50 DGD, Dhaka - - 1,163,080 - 993,270 -",india,FY2021-22,0.0,0.0,,BPDB 2022-23.pdf
+"50 dgd, dhaka - - 1,163,080 - 993,270 -","50 DGD, Dhaka - - 1,163,080 - 993,270 -",india,FY2022-23,54019708.0,56176058.0,Y,BPDB 2022-23.pdf
+"51 sbu haripur 20 0% (279,851) - - - 0.02","51 SBU Haripur 20 0% (279,851) - - - 0.02",india,FY2021-22,0.0,0.0,,BPDB 2022-23.pdf
+"51 sbu haripur 20 0% (279,851) - - - 0.02","51 SBU Haripur 20 0% (279,851) - - - 0.02",india,FY2022-23,250948130.0,250941401.0,Y,BPDB 2022-23.pdf
+"7 ghorashal power station (unit 1&2) 110 0% - - - 59,818,626 -","7 Ghorashal Power Station (Unit 1&2) 110 0% - - - 59,818,626 -",india,FY2021-22,0.0,0.0,,BPDB 2022-23.pdf
+"7 ghorashal power station (unit 1&2) 110 0% - - - 59,818,626 -","7 Ghorashal Power Station (Unit 1&2) 110 0% - - - 59,818,626 -",india,FY2022-23,1639179496.0,1698998122.0,Y,BPDB 2022-23.pdf
+"8 ghorashal power station (unit 3) 260 0% (862,500) - - 12,827,868 -","8 Ghorashal Power Station (Unit 3) 260 0% (862,500) - - 12,827,868 -",india,FY2021-22,0.0,0.0,,BPDB 2022-23.pdf
+"8 ghorashal power station (unit 3) 260 0% (862,500) - - 12,827,868 -","8 Ghorashal Power Station (Unit 3) 260 0% (862,500) - - 12,827,868 -",india,FY2022-23,4184007608.0,4196835476.0,Y,BPDB 2022-23.pdf
+ace alliance power ltd (149mw) (summit gazipur),ACE Alliance Power Ltd. (149MW) (Summit Gazipur),ipp,FY2019-20,404137440.0,4095794531.0,,BPDB 2020-21.pdf
+ace alliance power ltd (149mw) (summit gazipur),ACE Alliance Power Ltd. (149MW) (Summit Gazipur),ipp,FY2020-21,791750046.0,8370704611.0,Y,BPDB 2020-21.pdf
+ace alliance power ltd (149mw) (summit gazipur),ACE Alliance Power Ltd. (149MW) (Summit Gazipur),ipp,FY2021-22,809133408.0,13339615719.0,,BPDB 2022-23.pdf
+ace alliance power ltd (149mw) (summit gazipur),ACE Alliance Power Ltd. (149MW) (Summit Gazipur),ipp,FY2022-23,606898512.0,11595940386.0,Y,BPDB 2022-23.pdf
+ace alliance power ltd (149mw) (summit gazipur),ACE Alliance Power Ltd. (149MW) (Summit Gazipur),ipp,FY2023-24,414870912.0,9846377877.0,Y,BPDC 2023-24.pdf
+ace alliance power ltd (149mw) (summit gazipur),ACE Alliance Power Ltd. (149MW) (Summit Gazipur),ipp,FY2024-25,564591888.0,13933068773.0,Y,BPDB 2024-25.pdf
+acron infracture service ltd (unit-3),Acron Infracture Service Ltd. (Unit-3),ipp,FY2019-20,329174995.0,3710075142.0,,BPDB 2020-21.pdf
+acron infracture service ltd (unit-3),Acron Infracture Service Ltd. (Unit-3),ipp,FY2020-21,610561267.0,6065069101.0,Y,BPDB 2020-21.pdf
+acron infracture service ltd (unit-3),Acron Infracture Service Ltd. (Unit-3),ipp,FY2021-22,586327094.0,8847932285.0,,BPDB 2022-23.pdf
+acron infracture service ltd (unit-3),Acron Infracture Service Ltd. (Unit-3),ipp,FY2022-23,316925750.0,6722884515.0,Y,BPDB 2022-23.pdf
+acron infracture service ltd (unit-3),Acron Infracture Service Ltd. (Unit-3),ipp,FY2023-24,174014774.0,4694186768.0,Y,BPDC 2023-24.pdf
+acron infracture service ltd (unit-3),Acron Infracture Service Ltd. (Unit-3),ipp,FY2024-25,283623974.0,7012206130.0,Y,BPDB 2024-25.pdf
+acron infrastructure service ltd,ACRON INFRASTRUCTURE SERVICE LTD.,rental,FY2019-20,90292560.0,2246199780.0,,BPDB 2020-21.pdf
+acron infrastructure service ltd,ACRON INFRASTRUCTURE SERVICE LTD.,rental,FY2020-21,189942210.0,3132864948.0,Y,BPDB 2020-21.pdf
+acron infrastructure service ltd,Acron Infrastructure Service Ltd.,rental,FY2021-22,222839580.0,4110168523.0,,BPDB 2022-23.pdf
+acron infrastructure service ltd,Acron Infrastructure Service Ltd.,rental,FY2022-23,243804336.0,5725552044.0,Y,BPDB 2022-23.pdf
+acron infrastructure service ltd,Acron Infrastructure Service Ltd.,rental,FY2023-24,117680520.0,2434215271.0,Y,BPDC 2023-24.pdf
+acron infrastructure service ltd,Acron Infrastructure Service Ltd.,rental,FY2024-25,0.0,0.0,Y,BPDB 2024-25.pdf
+acron infrastructure services ltd unit-2,Acron Infrastructure Services Ltd. Unit-2,ipp,FY2019-20,186554976.0,1003595519.0,,BPDB 2020-21.pdf
+acron infrastructure services ltd unit-2,Acron Infrastructure Services Ltd. Unit-2,ipp,FY2020-21,687711168.0,7359103192.0,Y,BPDB 2020-21.pdf
+acron infrastructure services ltd unit-2,Acron Infrastructure Services Ltd. Unit-2,ipp,FY2021-22,512083584.0,8055322054.0,,BPDB 2022-23.pdf
+acron infrastructure services ltd unit-2,Acron Infrastructure Services Ltd. Unit-2,ipp,FY2022-23,298338048.0,6500036770.0,Y,BPDB 2022-23.pdf
+acron infrastructure services ltd unit-2,Acron Infrastructure Services Ltd. Unit-2,ipp,FY2023-24,176770080.0,4814229408.0,Y,BPDC 2023-24.pdf
+acron infrastructure services ltd unit-2,Acron Infrastructure Services Ltd. Unit-2,ipp,FY2024-25,181301184.0,5175291563.0,Y,BPDB 2024-25.pdf
+adani power ltd (jharkhand),Adani Power Limited (Jharkhand),india,FY2022-23,1598156822.0,22414117308.0,,BPDC 2023-24.pdf
+adani power ltd (jharkhand),Adani Power Limited (Jharkhand),india,FY2023-24,8166677622.0,121469628545.0,Y,BPDC 2023-24.pdf
+adani power ltd (jharkhand),Adani Power Limited (Jharkhand),india,FY2024-25,8031930869.0,119334360562.0,Y,BPDB 2024-25.pdf
+aggreko energy solution ltd - aorahati (100mw),Aggreko Energy Solution Ltd. - Aorahati (100MW),ipp,FY2019-20,6040888.0,1881430202.0,,BPDB 2020-21.pdf
+aggreko energy solution ltd - aorahati (100mw),Aggreko Energy Solution Ltd. - Aorahati (100MW),ipp,FY2020-21,37076045.0,2377751737.0,Y,BPDB 2020-21.pdf
+aggreko energy solution ltd - aorahati (100mw),Aggreko Energy Solution Ltd. - Aorahati (100MW),ipp,FY2021-22,131526563.0,4417000846.0,,BPDB 2022-23.pdf
+aggreko energy solution ltd - aorahati (100mw),Aggreko Energy Solution Ltd. - Aorahati (100MW),ipp,FY2022-23,167533969.0,6836163416.0,Y,BPDB 2022-23.pdf
+aggreko energy solution ltd - aorahati (100mw),Aggreko Energy Solution Ltd. - Aorahati (100MW),ipp,FY2023-24,0.0,1725.0,Y,BPDC 2023-24.pdf
+aggreko energy solution ltd - aorahati (100mw),Aggreko Energy Solution Ltd. - Aorahati (100MW),ipp,FY2024-25,0.0,505341.0,Y,BPDB 2024-25.pdf
+aggreko energy solution ltd - bhahmangoan (100mw),Aggreko Energy Solution Ltd. - Bhahmangoan (100MW),ipp,FY2019-20,4676090.0,1844846730.0,,BPDB 2020-21.pdf
+aggreko energy solution ltd - bhahmangoan (100mw),Aggreko Energy Solution Ltd. - Bhahmangoan (100MW),ipp,FY2020-21,28478637.0,2164581074.0,Y,BPDB 2020-21.pdf
+aggreko energy solution ltd - bhahmangoan (100mw),Aggreko Energy Solution Ltd. - Bhahmangoan (100MW),ipp,FY2021-22,120485001.0,4245841612.0,,BPDB 2022-23.pdf
+aggreko energy solution ltd - bhahmangoan (100mw),Aggreko Energy Solution Ltd. - Bhahmangoan (100MW),ipp,FY2022-23,146037206.0,5977709811.0,Y,BPDB 2022-23.pdf
+aggreko energy solution ltd - bhahmangoan (100mw),Aggreko Energy Solution Ltd. - Bhahmangoan (100MW),ipp,FY2023-24,0.0,0.0,Y,BPDC 2023-24.pdf
+aggreko energy solution ltd - bhahmangoan (100mw),Aggreko Energy Solution Ltd. - Bhahmangoan (100MW),ipp,FY2024-25,0.0,16783046.0,Y,BPDB 2024-25.pdf
+aggreko energy solution ltd - bhola (95mw) - -,Aggreko Energy Solution Ltd - Bhola (95MW) - -,ipp,FY2019-20,0.0,0.0,,BPDB 2020-21.pdf
+aggreko energy solution ltd - bhola (95mw) - -,Aggreko Energy Solution Ltd - Bhola (95MW) - -,ipp,FY2020-21,0.0,0.0,Y,BPDB 2020-21.pdf
+aggreko international ltd.-bhola (95 mw),AGGREKO INTERNATIONAL LTD.-BHOLA (95 MW),rental,FY2019-20,445528501.0,2207102989.0,,BPDB 2020-21.pdf
+aggreko international ltd.-bhola (95 mw),AGGREKO INTERNATIONAL LTD.-BHOLA (95 MW),rental,FY2020-21,559103805.0,2310334606.0,Y,BPDB 2020-21.pdf
+amnura(sinha power generation),Amnura(Sinha Power Generation),rental,FY2021-22,20839351.0,274117988.0,,BPDB 2022-23.pdf
+amnura(sinha power generation),Amnura(Sinha Power Generation),rental,FY2022-23,18118836.0,380076109.0,Y,BPDB 2022-23.pdf
+amnura(sinha power generation),Amnura(Sinha Power Generation),rental,FY2023-24,59930035.0,797484319.0,Y,BPDC 2023-24.pdf
+amnura(sinha power generation),Amnura(Sinha Power Generation),rental,FY2024-25,0.0,0.0,Y,BPDB 2024-25.pdf
+anlima energy ltd (116mw),Anlima Energy Limited (116MW),ipp,FY2021-22,755550326.0,11468258410.0,,BPDB 2022-23.pdf
+anlima energy ltd (116mw),Anlima Energy Limited (116MW),ipp,FY2022-23,713222138.0,12383457318.0,Y,BPDB 2022-23.pdf
+anlima energy ltd (116mw),Anlima Energy Limited (116MW),ipp,FY2023-24,199088723.0,5464422190.0,Y,BPDC 2023-24.pdf
+anlima energy ltd (116mw),Anlima Energy Limited (116MW),ipp,FY2024-25,135833801.0,4954899408.0,Y,BPDB 2024-25.pdf
+apr energy 300mw,APR Energy 300MW,ipp,FY2021-22,259472196.0,10835439637.0,,BPDB 2022-23.pdf
+apr energy 300mw,APR Energy 300MW,ipp,FY2022-23,471396498.0,19801984728.0,Y,BPDB 2022-23.pdf
+apr energy 300mw,APR Energy 300MW,ipp,FY2023-24,43968055.0,2008871669.0,Y,BPDC 2023-24.pdf
+apr energy 300mw,APR Energy 300MW,ipp,FY2024-25,0.0,0.0,Y,BPDB 2024-25.pdf
+apscl (225 mw),APSCL (225 MW),public,FY2019-20,1480504353.0,5104811743.0,,BPDB 2020-21.pdf
+apscl (225 mw),APSCL (225 MW),public,FY2020-21,1574330675.0,5139666301.0,Y,BPDB 2020-21.pdf
+apscl (225 mw),APSCL (225 MW),public,FY2021-22,1579703499.0,5245040830.0,,BPDB 2022-23.pdf
+apscl (225 mw),APSCL (225 MW),public,FY2022-23,1587315617.0,7466980186.0,Y,BPDB 2022-23.pdf
+apscl (225 mw),APSCL (225 MW),public,FY2023-24,1381974892.0,9042636144.0,Y,BPDC 2023-24.pdf
+apscl (225 mw),APSCL (225 MW),public,FY2024-25,1689428667.0,10439740648.0,Y,BPDB 2024-25.pdf
+apscl (400 mw) east,APSCL (400 MW) East,public,FY2023-24,2002935049.0,10486288898.0,,BPDB 2024-25.pdf
+apscl (400 mw) east,APSCL (400 MW) East,public,FY2024-25,901772800.0,7386643402.0,Y,BPDB 2024-25.pdf
+"apscl (400 mw) east 1,178,943,416 4,849,965,131","APSCL (400 MW) East 1,178,943,416 4,849,965,131",public,FY2021-22,0.0,0.0,,BPDB 2022-23.pdf
+"apscl (400 mw) east 1,178,943,416 4,849,965,131","APSCL (400 MW) East 1,178,943,416 4,849,965,131",public,FY2022-23,0.0,0.0,Y,BPDB 2022-23.pdf
+apscl (450 mw) east,APSCL (450 MW) East,public,FY2022-23,1178943416.0,4849965132.0,,BPDC 2023-24.pdf
+apscl (450 mw) east,APSCL (450 MW) East,public,FY2023-24,2002935049.0,10486288898.0,Y,BPDC 2023-24.pdf
+apscl (450 mw) north,APSCL (450 MW) North,public,FY2019-20,2458470544.0,6666202866.0,,BPDB 2020-21.pdf
+apscl (450 mw) north,APSCL (450 MW) North,public,FY2020-21,2088923729.0,5900126978.0,Y,BPDB 2020-21.pdf
+apscl (450 mw) north,APSCL (450 MW) North,public,FY2021-22,2017615091.0,5960985814.0,,BPDB 2022-23.pdf
+apscl (450 mw) north,APSCL (450 MW) North,public,FY2022-23,2196407090.0,9188887471.0,Y,BPDB 2022-23.pdf
+apscl (450 mw) north,APSCL (450 MW) North,public,FY2023-24,2050896272.0,11384626089.0,Y,BPDC 2023-24.pdf
+apscl (450 mw) north,APSCL (450 MW) North,public,FY2024-25,2090377818.0,11689196228.0,Y,BPDB 2024-25.pdf
+apscl (450 mw) south,APSCL (450 MW) South,public,FY2019-20,2350523007.0,8671643247.0,,BPDB 2020-21.pdf
+apscl (450 mw) south,APSCL (450 MW) South,public,FY2020-21,1955572989.0,7571323434.0,Y,BPDB 2020-21.pdf
+apscl (450 mw) south,APSCL (450 MW) South,public,FY2021-22,2135112449.0,8036514579.0,,BPDB 2022-23.pdf
+apscl (450 mw) south,APSCL (450 MW) South,public,FY2022-23,1679751824.0,9981002544.0,Y,BPDB 2022-23.pdf
+apscl (450 mw) south,APSCL (450 MW) South,public,FY2023-24,1963818821.0,13894762854.0,Y,BPDC 2023-24.pdf
+apscl (450 mw) south,APSCL (450 MW) South,public,FY2024-25,1335049331.0,8940644917.0,Y,BPDB 2024-25.pdf
+apscl (except new 573 mw),APSCL (Except New 573 MW),public,FY2019-20,871733180.0,3992507875.0,,BPDB 2020-21.pdf
+apscl (except new 573 mw),APSCL (Except New 573 MW),public,FY2020-21,711938656.0,3725662841.0,Y,BPDB 2020-21.pdf
+apscl (except new 573 mw),APSCL (Except New 573 MW),public,FY2023-24,0.0,0.0,,BPDB 2024-25.pdf
+apscl (except new 573 mw),APSCL (Except New 573 MW),public,FY2024-25,0.0,0.0,Y,BPDB 2024-25.pdf
+apscl (new 50 mw),APSCL (New 50 MW),public,FY2019-20,244146276.0,533228573.0,,BPDB 2020-21.pdf
+apscl (new 50 mw),APSCL (New 50 MW),public,FY2020-21,184795542.0,439275908.0,Y,BPDB 2020-21.pdf
+apscl (new 50 mw),APSCL (New 50 MW),public,FY2021-22,194969682.0,417729941.0,,BPDB 2022-23.pdf
+apscl (new 50 mw),APSCL (New 50 MW),public,FY2022-23,283700898.0,950285214.0,Y,BPDB 2022-23.pdf
+apscl (new 50 mw),APSCL (New 50 MW),public,FY2023-24,225465822.0,1146309599.0,Y,BPDC 2023-24.pdf
+apscl (new 50 mw),APSCL (New 50 MW),public,FY2024-25,283243580.0,1506826870.0,Y,BPDB 2024-25.pdf
+b-r powergen ltd (mirersarai),B-R Powergen Ltd. (Mirersarai),ipp,FY2022-23,84325132.0,1444470473.0,,BPDC 2023-24.pdf
+b-r powergen ltd (mirersarai),B-R Powergen Ltd. (Mirersarai),ipp,FY2023-24,236491855.0,5713480196.0,Y,BPDC 2023-24.pdf
+b-r powergen ltd (mirersarai),B-R Powergen Ltd. (Mirersarai),ipp,FY2024-25,128221905.0,3956005000.0,Y,BPDB 2024-25.pdf
+b-r powergen ltd (sreepur)(160mw),B-R Powergen Ltd. (Sreepur)(160MW),ipp,FY2023-24,0.0,0.0,,BPDB 2024-25.pdf
+b-r powergen ltd (sreepur)(160mw),B-R Powergen Ltd. (Sreepur)(160MW),ipp,FY2024-25,238730280.0,5425026950.0,Y,BPDB 2024-25.pdf
+b-r powergen ltd(brpl),B-R Powergen Ltd.(BRPL),ipp,FY2021-22,480557237.0,9535028277.0,,BPDB 2022-23.pdf
+b-r powergen ltd(brpl),B-R Powergen Ltd.(BRPL),ipp,FY2022-23,426410813.0,10857191501.0,Y,BPDB 2022-23.pdf
+banco energy generation ltd,Banco Energy Generation Ltd.,ipp,FY2021-22,376975008.0,5969027473.0,,BPDB 2022-23.pdf
+banco energy generation ltd,Banco Energy Generation Ltd.,ipp,FY2022-23,157741560.0,3420808059.0,Y,BPDB 2022-23.pdf
+banco energy generation ltd,Banco Energy Generation Ltd.,ipp,FY2023-24,92280024.0,2745703155.0,Y,BPDC 2023-24.pdf
+banco energy generation ltd,Banco Energy Generation Ltd.,ipp,FY2024-25,130769928.0,3727437389.0,Y,BPDB 2024-25.pdf
+bangla track power company ltd,Bangla Track Power Company Ltd.,ipp,FY2021-22,159163968.0,6736713233.0,,BPDB 2022-23.pdf
+bangla track power company ltd,Bangla Track Power Company Ltd.,ipp,FY2022-23,219334080.0,9285172468.0,Y,BPDB 2022-23.pdf
+bangla track power company ltd,Bangla Track Power Company Ltd.,ipp,FY2023-24,0.0,0.0,Y,BPDC 2023-24.pdf
+bangla track power company ltd,Bangla Track Power Company Ltd.,ipp,FY2024-25,0.0,3333334.0,Y,BPDB 2024-25.pdf
+bangla track power company ltd (unit-2),Bangla Track Power Company Ltd. (Unit-2),ipp,FY2019-20,78702240.0,3093031604.0,,BPDB 2020-21.pdf
+bangla track power company ltd (unit-2),Bangla Track Power Company Ltd. (Unit-2),ipp,FY2020-21,122851008.0,3855255637.0,Y,BPDB 2020-21.pdf
+bangla track power company ltd (unit-2),Bangla Track Power Company Ltd. (Unit-2),ipp,FY2021-22,102068064.0,3703225481.0,,BPDB 2022-23.pdf
+bangla track power company ltd (unit-2),Bangla Track Power Company Ltd. (Unit-2),ipp,FY2022-23,85970400.0,4189929615.0,Y,BPDB 2022-23.pdf
+bangla track power company ltd (unit-2),Bangla Track Power Company Ltd. (Unit-2),ipp,FY2023-24,0.0,0.0,Y,BPDC 2023-24.pdf
+bangla track power company ltd (unit-2),Bangla Track Power Company Ltd. (Unit-2),ipp,FY2024-25,0.0,1475986.0,Y,BPDB 2024-25.pdf
+bangladesh -china power company ltd 1320mw,Bangladsh -China Power Company (Pvt.) Ltd. 1320MW,ipp,FY2019-20,831938472.0,5215734878.0,,BPDB 2020-21.pdf
+bangladesh -china power company ltd 1320mw,Bangladsh -China Power Company (Pvt.) Ltd. 1320MW,ipp,FY2020-21,3811921991.0,32764848584.0,Y,BPDB 2020-21.pdf
+bangladesh -china power company ltd 1320mw,Bangladsh -China Power Company (Pvt.) Ltd. 1320MW,ipp,FY2022-23,6900361855.0,110538940965.0,,BPDC 2023-24.pdf
+bangladesh -china power company ltd 1320mw,Bangladsh -China Power Company (Pvt.) Ltd. 1320MW,ipp,FY2023-24,7548736927.0,89317338419.0,Y,BPDC 2023-24.pdf
+bangladesh -china power company ltd 1320mw,Bangladsh -China Power Company (Pvt.) Ltd. 1320MW,ipp,FY2024-25,7936894988.0,115709855539.0,Y,BPDB 2024-25.pdf
+bangladesh china renewable energy company ltd,Bangladesh China Renewable Energy company Ltd,ipp,FY2023-24,0.0,0.0,,BPDB 2024-25.pdf
+bangladesh china renewable energy company ltd,Bangladesh China Renewable Energy company Ltd,ipp,FY2024-25,104833998.0,1295579088.0,Y,BPDB 2024-25.pdf
+bangladesh india friendship power company ltd 1320mw,Bangladsh India Friendship Power Company (Pvt.) Ltd. 1320MW,ipp,FY2023-24,2811554199.0,42982734639.0,,BPDB 2024-25.pdf
+bangladesh india friendship power company ltd 1320mw,Bangladsh India Friendship Power Company (Pvt.) Ltd. 1320MW,ipp,FY2024-25,5033610920.0,63511941069.0,Y,BPDB 2024-25.pdf
+baraka patenga power ltd,Baraka Patenga Power Limited,ipp,FY2019-20,133215792.0,1738349397.0,,BPDB 2020-21.pdf
+baraka patenga power ltd,Baraka Patenga Power Limited,ipp,FY2020-21,198921600.0,2363521802.0,Y,BPDB 2020-21.pdf
+baraka patenga power ltd,Baraka Patenga Power Limited,ipp,FY2021-22,232871760.0,3620246651.0,,BPDB 2022-23.pdf
+baraka patenga power ltd,Baraka Patenga Power Limited,ipp,FY2022-23,186282624.0,3547873329.0,Y,BPDB 2022-23.pdf
+baraka patenga power ltd,Baraka Patenga Power Limited,ipp,FY2023-24,81470976.0,2028222850.0,Y,BPDC 2023-24.pdf
+baraka patenga power ltd,Baraka Patenga Power Limited,ipp,FY2024-25,69889728.0,2027298901.0,Y,BPDB 2024-25.pdf
+baraka power co. ltd,Baraka Power Co. Ltd.,rental,FY2021-22,349663734.0,1120522242.0,,BPDB 2022-23.pdf
+baraka power co. ltd,Baraka Power Co. Ltd.,rental,FY2022-23,243066276.0,1402047454.0,Y,BPDB 2022-23.pdf
+baraka power co. ltd,Baraka Power Co. Ltd.,rental,FY2023-24,301789638.0,2070107819.0,Y,BPDC 2023-24.pdf
+baraka power co. ltd,Baraka Power Co. Ltd.,rental,FY2024-25,30277212.0,332993538.0,Y,BPDB 2024-25.pdf
+baraka shikalbaha power ltd (105mw),Baraka Shikalbaha Power Ltd. (105MW),ipp,FY2019-20,99169409.0,2184396966.0,,BPDB 2020-21.pdf
+baraka shikalbaha power ltd (105mw),Baraka Shikalbaha Power Ltd. (105MW),ipp,FY2020-21,159651421.0,2774600010.0,Y,BPDB 2020-21.pdf
+baraka shikalbaha power ltd (105mw),Baraka Shikalbaha Power Ltd. (105MW),ipp,FY2021-22,610898228.0,9816459440.0,,BPDB 2022-23.pdf
+baraka shikalbaha power ltd (105mw),Baraka Shikalbaha Power Ltd. (105MW),ipp,FY2022-23,454346839.0,8325453923.0,Y,BPDB 2022-23.pdf
+baraka shikalbaha power ltd (105mw),Baraka Shikalbaha Power Ltd. (105MW),ipp,FY2023-24,199870107.0,5313189953.0,Y,BPDC 2023-24.pdf
+baraka shikalbaha power ltd (105mw),Baraka Shikalbaha Power Ltd. (105MW),ipp,FY2024-25,191317077.0,5479075601.0,Y,BPDB 2024-25.pdf
+barisal electric power company ltd,Barisal Electric Power Company Ltd.,ipp,FY2022-23,604148910.0,11486275016.0,,BPDC 2023-24.pdf
+barisal electric power company ltd,Barisal Electric Power Company Ltd.,ipp,FY2023-24,1250109917.0,15612924229.0,Y,BPDC 2023-24.pdf
+barisal electric power company ltd,Barisal Electric Power Company Ltd.,ipp,FY2024-25,1861828704.0,24984280055.0,Y,BPDB 2024-25.pdf
+barkatullah electro dynamics ltd,BARKATULLAH ELECTRO DYNAMICS LTD.,rental,FY2019-20,284768958.0,952112505.0,,BPDB 2020-21.pdf
+barkatullah electro dynamics ltd,BARKATULLAH ELECTRO DYNAMICS LTD.,rental,FY2020-21,353071710.0,1101899564.0,Y,BPDB 2020-21.pdf
+bhairab power ltd (54.50mw),Bhairab Power Limited (54.50MW),ipp,FY2021-22,198278640.0,3361477855.0,,BPDB 2022-23.pdf
+bhairab power ltd (54.50mw),Bhairab Power Limited (54.50MW),ipp,FY2022-23,208651680.0,4199821774.0,Y,BPDB 2022-23.pdf
+bhairab power ltd (54.50mw),Bhairab Power Limited (54.50MW),ipp,FY2023-24,133941600.0,3309421466.0,Y,BPDC 2023-24.pdf
+bhairab power ltd (54.50mw),Bhairab Power Limited (54.50MW),ipp,FY2024-25,92991150.0,2715879017.0,Y,BPDB 2024-25.pdf
+bpdb rpcl power gen ltd,BPDB RPCL Power Gen Ltd.,ipp,FY2022-23,426410813.0,10857191501.0,,BPDC 2023-24.pdf
+bpdb rpcl power gen ltd,BPDB RPCL Power Gen Ltd.,ipp,FY2023-24,363875770.0,9779698515.0,Y,BPDC 2023-24.pdf
+bpdb rpcl power gen ltd,BPDB RPCL Power Gen Ltd.,ipp,FY2024-25,452134660.0,11878583013.0,Y,BPDB 2024-25.pdf
+bpdb rpcl powergen ltd,BPDB RPCL PowerGen Ltd.,public,FY2019-20,175337452.0,4032187505.0,,BPDB 2020-21.pdf
+bpdb rpcl powergen ltd,BPDB RPCL PowerGen Ltd.,public,FY2020-21,387788703.0,5857190239.0,Y,BPDB 2020-21.pdf
+chandpur power generation lttd. (115mw),Chandpur Power Generation Lttd. (115MW),ipp,FY2021-22,205345603.0,3713184400.0,,BPDB 2022-23.pdf
+chandpur power generation lttd. (115mw),Chandpur Power Generation Lttd. (115MW),ipp,FY2022-23,466547078.0,8428801830.0,Y,BPDB 2022-23.pdf
+chandpur power generation lttd. (115mw),Chandpur Power Generation Lttd. (115MW),ipp,FY2023-24,307196160.0,6788832090.0,Y,BPDC 2023-24.pdf
+chandpur power generation lttd. (115mw),Chandpur Power Generation Lttd. (115MW),ipp,FY2024-25,388864608.0,8447987923.0,Y,BPDB 2024-25.pdf
+coal power generation company bangladesh ltd,Coal Power Generation Company Bangladesh Limited,ipp,FY2022-23,0.0,0.0,,BPDC 2023-24.pdf
+coal power generation company bangladesh ltd,Coal Power Generation Company Bangladesh Limited,ipp,FY2023-24,2832649398.0,17374637505.0,Y,BPDC 2023-24.pdf
+coal power generation company bangladesh ltd,Coal Power Generation Company Bangladesh Limited,public,FY2024-25,3686615951.0,33668729185.0,Y,BPDB 2024-25.pdf
+confidence power ltd (unit-1),Confidence Power Ltd. (Unit-1),ipp,FY2019-20,199459584.0,2189153968.0,,BPDB 2020-21.pdf
+confidence power ltd (unit-1),Confidence Power Ltd. (Unit-1),ipp,FY2020-21,468193056.0,5469183763.0,Y,BPDB 2020-21.pdf
+confidence power ltd (unit-1) - bogra,Confidence Power Ltd. (Unit-1) - Bogra,ipp,FY2021-22,613355712.0,10097178928.0,,BPDB 2022-23.pdf
+confidence power ltd (unit-1) - bogra,Confidence Power Ltd. (Unit-1) - Bogra,ipp,FY2022-23,454345152.0,8897964352.0,Y,BPDB 2022-23.pdf
+confidence power ltd (unit-1) - bogra,Confidence Power Ltd. (Unit-1) - Bogra,ipp,FY2023-24,209827392.0,5819386142.0,Y,BPDC 2023-24.pdf
+confidence power ltd (unit-1) - bogra,Confidence Power Ltd. (Unit-1) - Bogra,ipp,FY2024-25,202735104.0,6123300491.0,Y,BPDB 2024-25.pdf
+confidence power ltd (unit-2) - bogra,Confidence Power Ltd. (Unit-2) - Bogra,ipp,FY2019-20,223190976.0,3596109041.0,,BPDB 2020-21.pdf
+confidence power ltd (unit-2) - bogra,Confidence Power Ltd. (Unit-2) - Bogra,ipp,FY2020-21,447810720.0,5606954875.0,Y,BPDB 2020-21.pdf
+confidence power ltd (unit-2) - bogra,Confidence Power Ltd. (Unit-2) - Bogra,ipp,FY2021-22,655152288.0,10851170802.0,,BPDB 2022-23.pdf
+confidence power ltd (unit-2) - bogra,Confidence Power Ltd. (Unit-2) - Bogra,ipp,FY2022-23,474997920.0,9336799920.0,Y,BPDB 2022-23.pdf
+confidence power ltd (unit-2) - bogra,Confidence Power Ltd. (Unit-2) - Bogra,ipp,FY2023-24,211130496.0,6075475987.0,Y,BPDC 2023-24.pdf
+confidence power ltd (unit-2) - bogra,Confidence Power Ltd. (Unit-2) - Bogra,ipp,FY2024-25,239124672.0,6899327374.0,Y,BPDB 2024-25.pdf
+confidence power ltd - rangpur,Confidence Power Ltd. - Rangpur,ipp,FY2019-20,283390147.0,3615280274.0,,BPDB 2020-21.pdf
+confidence power ltd - rangpur,Confidence Power Ltd. - Rangpur,ipp,FY2020-21,494399990.0,5671576724.0,Y,BPDB 2020-21.pdf
+confidence power ltd - rangpur (113mw),Confidence Power Ltd. - Rangpur (113MW),ipp,FY2021-22,623970029.0,10001094642.0,,BPDB 2022-23.pdf
+confidence power ltd - rangpur (113mw),Confidence Power Ltd. - Rangpur (113MW),ipp,FY2022-23,429432672.0,8871466117.0,Y,BPDB 2022-23.pdf
+confidence power ltd - rangpur (113mw),Confidence Power Ltd. - Rangpur (113MW),ipp,FY2023-24,248621098.0,6453942714.0,Y,BPDC 2023-24.pdf
+confidence power ltd - rangpur (113mw),Confidence Power Ltd. - Rangpur (113MW),ipp,FY2024-25,323570957.0,8092369280.0,Y,BPDB 2024-25.pdf
+"desh cambridge, kumergoan","DESH CAMBRIDGE, KUMERGOAN",rental,FY2019-20,64287123.0,236886291.0,,BPDB 2020-21.pdf
+"desh cambridge, kumergoan","DESH CAMBRIDGE, KUMERGOAN",rental,FY2020-21,61412951.0,235977144.0,Y,BPDB 2020-21.pdf
+"desh cambridge, kumergoan","Desh Cambridge, Kumergoan",rental,FY2021-22,75345178.0,273009147.0,,BPDB 2022-23.pdf
+"desh cambridge, kumergoan","Desh Cambridge, Kumergoan",rental,FY2022-23,81129610.0,390162506.0,Y,BPDB 2022-23.pdf
+"desh cambridge, kumergoan","Desh Cambridge, Kumergoan",rental,FY2023-24,58718311.0,382152334.0,Y,BPDC 2023-24.pdf
+"desh cambridge, kumergoan","Desh Cambridge, Kumergoan",rental,FY2024-25,0.0,0.0,Y,BPDB 2024-25.pdf
+desh energy chandpur power company ltd,Desh Energy Chandpur Power Company Ltd.,ipp,FY2019-20,352369138.0,5811857467.0,,BPDB 2020-21.pdf
+desh energy chandpur power company ltd,Desh Energy Chandpur Power Company Ltd.,ipp,FY2020-21,535499933.0,7266737367.0,Y,BPDB 2020-21.pdf
+desh energy chandpur power company ltd,Desh Energy Chandpur Power Company Ltd.,ipp,FY2021-22,752048193.0,12934344889.0,,BPDB 2022-23.pdf
+desh energy chandpur power company ltd,Desh Energy Chandpur Power Company Ltd.,ipp,FY2022-23,591426293.0,12127923477.0,Y,BPDB 2022-23.pdf
+desh energy chandpur power company ltd,Desh Energy Chandpur Power Company Ltd.,ipp,FY2023-24,335632382.0,9216675150.0,Y,BPDC 2023-24.pdf
+desh energy chandpur power company ltd,Desh Energy Chandpur Power Company Ltd.,ipp,FY2024-25,667065512.0,16109773345.0,Y,BPDB 2024-25.pdf
+desh energy hatiya power company ltd (5mw),Desh Energy Hatiya Power Company Limited (5MW),ipp,FY2022-23,6079530.0,150996668.0,,BPDC 2023-24.pdf
+desh energy hatiya power company ltd (5mw),Desh Energy Hatiya Power Company Limited (5MW),ipp,FY2023-24,19418087.0,466283814.0,Y,BPDC 2023-24.pdf
+desh energy hatiya power company ltd (5mw),Desh Energy Hatiya Power Company Limited (5MW),ipp,FY2024-25,25448882.0,627986906.0,Y,BPDB 2024-25.pdf
+dhaka northern power ltd,Dhaka Northern Power Limited,ipp,FY2022-23,218947701.0,4052794642.0,,BPDC 2023-24.pdf
+dhaka northern power ltd,Dhaka Northern Power Limited,ipp,FY2023-24,111082984.0,2683259962.0,Y,BPDC 2023-24.pdf
+dhaka northern power ltd,Dhaka Northern Power Limited,ipp,FY2024-25,135992033.0,3374447457.0,Y,BPDB 2024-25.pdf
+dhaka southern power ltd,Dhaka Southern Power Limited,ipp,FY2022-23,198144857.0,4057804394.0,,BPDC 2023-24.pdf
+dhaka southern power ltd,Dhaka Southern Power Limited,ipp,FY2023-24,103371936.0,2688367201.0,Y,BPDC 2023-24.pdf
+dhaka southern power ltd,Dhaka Southern Power Limited,ipp,FY2024-25,116257483.0,3049113274.0,Y,BPDB 2024-25.pdf
+digital power & associates ltd,Digital Power & Associates Ltd.,ipp,FY2019-20,228469691.0,2686001914.0,,BPDB 2020-21.pdf
+digital power & associates ltd,Digital Power & Associates Ltd.,ipp,FY2020-21,325564002.0,3736039993.0,Y,BPDB 2020-21.pdf
+digital power & associates ltd,Digital Power & Associates Ltd.,ipp,FY2021-22,440988642.0,7478876342.0,,BPDB 2022-23.pdf
+digital power & associates ltd,Digital Power & Associates Ltd.,ipp,FY2022-23,289381190.0,5814735402.0,Y,BPDB 2022-23.pdf
+digital power & associates ltd,Digital Power & Associates Ltd.,ipp,FY2023-24,225291006.0,5285379024.0,Y,BPDC 2023-24.pdf
+digital power & associates ltd,Digital Power & Associates Ltd.,ipp,FY2024-25,79920529.0,2986278238.0,Y,BPDB 2024-25.pdf
+doreen northern power ltd,Doreen Northern Power Limited,ipp,FY2019-20,151070207.0,1867971877.0,,BPDB 2020-21.pdf
+doreen northern power ltd,Doreen Northern Power Limited,ipp,FY2020-21,231844112.0,2641124870.0,Y,BPDB 2020-21.pdf
+doreen northern power ltd,Doreen Northern Power Limited,ipp,FY2021-22,297602757.0,4903100529.0,,BPDB 2022-23.pdf
+doreen northern power ltd,Doreen Northern Power Limited,ipp,FY2022-23,218947701.0,4052794642.0,Y,BPDB 2022-23.pdf
+doreen power generation & system ltd- tangail,Doreen Power Generation & System Ltd.- Tangail,ipp,FY2019-20,143404572.0,418599224.0,,BPDB 2020-21.pdf
+doreen power generation & system ltd- tangail,Doreen Power Generation & System Ltd.- Tangail,ipp,FY2020-21,151198828.0,432331158.0,Y,BPDB 2020-21.pdf
+doreen power generation & system ltd- tangail,Doreen Power Generation & System Ltd.- Tangail,ipp,FY2021-22,156351263.0,462019663.0,,BPDB 2022-23.pdf
+doreen power generation & system ltd- tangail,Doreen Power Generation & System Ltd.- Tangail,ipp,FY2022-23,126435012.0,543940155.0,Y,BPDB 2022-23.pdf
+doreen power generation & system ltd- tangail,Doreen Power Generation & System Ltd.- Tangail,ipp,FY2023-24,50266292.0,314375888.0,Y,BPDC 2023-24.pdf
+doreen power generation & system ltd- tangail,Doreen Power Generation & System Ltd.- Tangail,ipp,FY2024-25,0.0,0.0,Y,BPDB 2024-25.pdf
+doreen power generation & system ltd-feni,Doreen Power Generation & System Ltd.-Feni,ipp,FY2019-20,141279396.0,415324790.0,,BPDB 2020-21.pdf
+doreen power generation & system ltd-feni,Doreen Power Generation & System Ltd.-Feni,ipp,FY2020-21,160004772.0,459479489.0,Y,BPDB 2020-21.pdf
+doreen power generation & system ltd-feni,Doreen Power Generation & System Ltd.-Feni,ipp,FY2021-22,161137638.0,467524474.0,,BPDB 2022-23.pdf
+doreen power generation & system ltd-feni,Doreen Power Generation & System Ltd.-Feni,ipp,FY2022-23,152664911.0,588824216.0,Y,BPDB 2022-23.pdf
+doreen power generation & system ltd-feni,Doreen Power Generation & System Ltd.-Feni,ipp,FY2023-24,95112204.0,463542813.0,Y,BPDC 2023-24.pdf
+doreen power generation & system ltd-feni,Doreen Power Generation & System Ltd.-Feni,ipp,FY2024-25,0.0,0.0,Y,BPDB 2024-25.pdf
+doreen southern power ltd,Doreen Southern Power Limited,ipp,FY2019-20,110210738.0,1587720218.0,,BPDB 2020-21.pdf
+doreen southern power ltd,Doreen Southern Power Limited,ipp,FY2020-21,237896381.0,2684321524.0,Y,BPDB 2020-21.pdf
+doreen southern power ltd,Doreen Southern Power Limited,ipp,FY2021-22,311143774.0,5040225092.0,,BPDB 2022-23.pdf
+doreen southern power ltd,Doreen Southern Power Limited,ipp,FY2022-23,198144857.0,4057804394.0,Y,BPDB 2022-23.pdf
+dutch bangla power & associates ltd,DUTCH BANGLA POWER & ASSOCIATES LTD.,rental,FY2019-20,188221250.0,2785839895.0,,BPDB 2020-21.pdf
+dutch bangla power & associates ltd,DUTCH BANGLA POWER & ASSOCIATES LTD.,rental,FY2020-21,366362581.0,4588701719.0,Y,BPDB 2020-21.pdf
+dutch bangla power & associates ltd,Dutch Bangla Power & Associates Ltd.,rental,FY2021-22,161026042.0,3250631030.0,,BPDB 2022-23.pdf
+dutch bangla power & associates ltd,Dutch Bangla Power & Associates Ltd.,rental,FY2022-23,287343735.0,5571914427.0,Y,BPDB 2022-23.pdf
+dutch bangla power & associates ltd,Dutch Bangla Power & Associates Ltd.,rental,FY2023-24,111451930.0,2410390467.0,Y,BPDC 2023-24.pdf
+dutch bangla power & associates ltd,Dutch Bangla Power & Associates Ltd.,rental,FY2024-25,0.0,0.0,Y,BPDB 2024-25.pdf
+dynamic sun energy private ltd,Dynamic Sun Energy Private Limited,ipp,FY2023-24,0.0,0.0,,BPDB 2024-25.pdf
+dynamic sun energy private ltd,Dynamic Sun Energy Private Limited,ipp,FY2024-25,140692847.0,2048133175.0,Y,BPDB 2024-25.pdf
+ecpv power ltd,ECPV Power Ltd.,ipp,FY2019-20,177963288.0,2602765227.0,,BPDB 2020-21.pdf
+ecpv power ltd,ECPV Power Ltd.,ipp,FY2020-21,190254480.0,2569220856.0,Y,BPDB 2020-21.pdf
+ecpv power ltd,ECPV Power Ltd.,ipp,FY2021-22,407101368.0,7158148504.0,,BPDB 2022-23.pdf
+ecpv power ltd,ECPV Power Ltd.,ipp,FY2022-23,85806552.0,2829340172.0,Y,BPDB 2022-23.pdf
+ecpv power ltd,ECPV Power Ltd.,ipp,FY2023-24,62737128.0,2645365575.0,Y,BPDC 2023-24.pdf
+egcb ltd (210x2) mw,EGCB Ltd. (210X2) MW,public,FY2019-20,278915352.0,2263261009.0,,BPDB 2020-21.pdf
+egcb ltd (210x2) mw,EGCB Ltd. (210X2) MW,public,FY2020-21,563946120.0,2694566404.0,Y,BPDB 2020-21.pdf
+egcb ltd (210x2) mw,EGCB Ltd. (210X2) MW,public,FY2022-23,303186086.0,3038793298.0,,BPDC 2023-24.pdf
+egcb ltd (210x2) mw,EGCB Ltd. (210X2) MW,public,FY2023-24,322015796.0,3198751699.0,Y,BPDC 2023-24.pdf
+egcb ltd (360) mw,EGCB Ltd. (360) MW,public,FY2019-20,926684819.0,3260352289.0,,BPDB 2020-21.pdf
+egcb ltd (360) mw,EGCB Ltd. (360) MW,public,FY2020-21,1039616357.0,3656399175.0,Y,BPDB 2020-21.pdf
+egcb ltd (360) mw,EGCB Ltd. (360) MW,public,FY2022-23,889535033.0,6078360206.0,,BPDC 2023-24.pdf
+egcb ltd (360) mw,EGCB Ltd. (360) MW,public,FY2023-24,2040540091.0,11691414898.0,Y,BPDC 2023-24.pdf
+egcb ltd (412) mw,EGCB Ltd. (412) MW,public,FY2019-20,2783382126.0,6122051191.0,,BPDB 2020-21.pdf
+egcb ltd (412) mw,EGCB Ltd. (412) MW,public,FY2020-21,1803485796.0,5421654625.0,Y,BPDB 2020-21.pdf
+egcb ltd (412) mw,EGCB Ltd. (412) MW,public,FY2022-23,2932454664.0,8805577919.0,,BPDC 2023-24.pdf
+egcb ltd (412) mw,EGCB Ltd. (412) MW,public,FY2023-24,3111294204.0,13311205529.0,Y,BPDC 2023-24.pdf
+egcb ltd(210x2)mw,EGCB Ltd.(210X2)MW,public,FY2021-22,116096664.0,1631192273.0,,BPDB 2022-23.pdf
+egcb ltd(210x2)mw,EGCB Ltd.(210X2)MW,public,FY2022-23,303186086.0,3038793298.0,Y,BPDB 2022-23.pdf
+egcb ltd(210x2)mw,EGCB Ltd.(210X2)MW,public,FY2023-24,322015796.0,3198751699.0,,BPDB 2024-25.pdf
+egcb ltd(210x2)mw,EGCB Ltd.(210X2)MW,public,FY2024-25,106214754.0,2259085051.0,Y,BPDB 2024-25.pdf
+egcb ltd(335)mw,EGCB Ltd.(335)MW,public,FY2023-24,2040540091.0,11691414898.0,,BPDB 2024-25.pdf
+egcb ltd(335)mw,EGCB Ltd.(335)MW,public,FY2024-25,2216332886.0,13334464614.0,Y,BPDB 2024-25.pdf
+egcb ltd(360)mw,EGCB Ltd.(360)MW,public,FY2021-22,1419204804.0,5958406989.0,,BPDB 2022-23.pdf
+egcb ltd(360)mw,EGCB Ltd.(360)MW,public,FY2022-23,889535033.0,6078360206.0,Y,BPDB 2022-23.pdf
+egcb ltd(412)mw,EGCB Ltd.(412)MW,public,FY2021-22,1981733402.0,4954975092.0,,BPDB 2022-23.pdf
+egcb ltd(412)mw,EGCB Ltd.(412)MW,public,FY2022-23,2932454664.0,8805577919.0,Y,BPDB 2022-23.pdf
+egcb ltd(412)mw,EGCB Ltd.(412)MW,public,FY2023-24,3111294204.0,13311205529.0,,BPDB 2024-25.pdf
+egcb ltd(412)mw,EGCB Ltd.(412)MW,public,FY2024-25,3137268240.0,14374078404.0,Y,BPDB 2024-25.pdf
+egcb sonagazi 75mw,EGCB Sonagazi 75MW,ipp,FY2023-24,0.0,0.0,,BPDB 2024-25.pdf
+egcb sonagazi 75mw,EGCB Sonagazi 75MW,ipp,FY2024-25,135630578.0,1213717349.0,Y,BPDB 2024-25.pdf
+energon renewables (bd) ltd 100mw - mongla,Energon Renewables (BD) Limited 100MW - Mongla,ipp,FY2021-22,95298710.0,1154337981.0,,BPDB 2022-23.pdf
+energon renewables (bd) ltd 100mw - mongla,Energon Renewables (BD) Limited 100MW - Mongla,ipp,FY2022-23,185883843.0,2685850655.0,Y,BPDB 2022-23.pdf
+energon renewables (bd) ltd 100mw - mongla,Energon Renewables (BD) Limited 100MW - Mongla,ipp,FY2023-24,175636848.0,2703496118.0,Y,BPDC 2023-24.pdf
+energon renewables (bd) ltd 100mw - mongla,Energon Renewables (BD) Limited 100MW - Mongla,ipp,FY2024-25,174111857.0,2910835552.0,Y,BPDB 2024-25.pdf
+"energyprima, bogra","ENERGYPRIMA, BOGRA",rental,FY2019-20,78662952.0,283738154.0,,BPDB 2020-21.pdf
+"energyprima, bogra","ENERGYPRIMA, BOGRA",rental,FY2020-21,27878796.0,96666127.0,Y,BPDB 2020-21.pdf
+"energyprima, fenchugonj","ENERGYPRIMA, FENCHUGONJ",rental,FY2019-20,307712992.0,1112358546.0,,BPDB 2020-21.pdf
+"energyprima, fenchugonj","ENERGYPRIMA, FENCHUGONJ",rental,FY2020-21,208743147.0,681674489.0,Y,BPDB 2020-21.pdf
+"energyprima, fenchugonj","Energyprima, Fenchugonj",rental,FY2021-22,48318547.0,146415205.0,,BPDB 2022-23.pdf
+"energyprima, fenchugonj","Energyprima, Fenchugonj",rental,FY2022-23,245525607.0,1153905588.0,Y,BPDB 2022-23.pdf
+"energyprima, fenchugonj","Energyprima, Fenchugonj",rental,FY2023-24,252303665.0,1541086004.0,Y,BPDC 2023-24.pdf
+"energyprima, fenchugonj","Energyprima, Fenchugonj",rental,FY2024-25,106531953.0,695695007.0,Y,BPDB 2024-25.pdf
+"energyprima, kumargaon","Energyprima, Kumargaon",rental,FY2021-22,41095560.0,119125405.0,,BPDB 2022-23.pdf
+"energyprima, kumargaon","Energyprima, Kumargaon",rental,FY2022-23,54471500.0,165805060.0,Y,BPDB 2022-23.pdf
+"energyprima, kumargaon","Energyprima, Kumargaon",rental,FY2023-24,0.0,0.0,Y,BPDC 2023-24.pdf
+"energyprima, kumargaon","Energyprima, Kumargaon",rental,FY2024-25,0.0,0.0,Y,BPDB 2024-25.pdf
+engreen solar,Engreen Solar,ipp,FY2019-20,3860015.0,62075299.0,,BPDB 2020-21.pdf
+engreen solar,Engreen Solar,ipp,FY2020-21,3944220.0,63523756.0,Y,BPDB 2020-21.pdf
+engreen solar,Engreen Solar,ipp,FY2021-22,3997213.0,65644538.0,,BPDB 2022-23.pdf
+engreen solar,Engreen Solar,ipp,FY2022-23,4169099.0,82652029.0,Y,BPDB 2022-23.pdf
+engreen solar,Engreen Solar,ipp,FY2023-24,3893767.0,82226611.0,Y,BPDC 2023-24.pdf
+engreen solar,Engreen Solar,ipp,FY2024-25,3934721.0,89534045.0,Y,BPDB 2024-25.pdf
+epv power ltd,EPV Power Ltd.,ipp,FY2023-24,62737128.0,2645365575.0,,BPDB 2024-25.pdf
+epv power ltd,EPV Power Ltd.,ipp,FY2024-25,69904920.0,3004960251.0,Y,BPDB 2024-25.pdf
+epv thakurgoan ltd (115mw),EPV Thakurgoan Limited (115MW),ipp,FY2021-22,191362182.0,3406841241.0,,BPDB 2022-23.pdf
+epv thakurgoan ltd (115mw),EPV Thakurgoan Limited (115MW),ipp,FY2022-23,366860352.0,7888172208.0,Y,BPDB 2022-23.pdf
+epv thakurgoan ltd (115mw),EPV Thakurgoan Limited (115MW),ipp,FY2023-24,257944128.0,6394148977.0,Y,BPDC 2023-24.pdf
+epv thakurgoan ltd (115mw),EPV Thakurgoan Limited (115MW),ipp,FY2024-25,346019921.0,8400245141.0,Y,BPDB 2024-25.pdf
+gbb power ltd,Gbb Power Ltd.,rental,FY2021-22,167469576.0,685508842.0,,BPDB 2022-23.pdf
+gbb power ltd,Gbb Power Ltd.,rental,FY2022-23,147841848.0,872758548.0,Y,BPDB 2022-23.pdf
+gbb power ltd,Gbb Power Ltd.,rental,FY2023-24,0.0,0.0,Y,BPDC 2023-24.pdf
+gbb power ltd,Gbb Power Ltd.,rental,FY2024-25,0.0,0.0,Y,BPDB 2024-25.pdf
+"gbb power ltd. 167,490,216 656,939,574","GBB POWER LTD. 167,490,216 656,939,574",rental,FY2019-20,133166952.0,0.0,,BPDB 2020-21.pdf
+"gbb power ltd. 167,490,216 656,939,574","GBB POWER LTD. 167,490,216 656,939,574",rental,FY2020-21,0.0,579797403.0,Y,BPDB 2020-21.pdf
+haripur power ltd,Haripur Power Ltd.,ipp,FY2019-20,2585723830.0,4082364590.0,,BPDB 2020-21.pdf
+haripur power ltd,Haripur Power Ltd.,ipp,FY2020-21,2315379010.0,3878445190.0,Y,BPDB 2020-21.pdf
+haripur power ltd,Haripur Power Ltd.,ipp,FY2021-22,1919174000.0,3267873587.0,,BPDB 2022-23.pdf
+haripur power ltd,Haripur Power Ltd.,ipp,FY2022-23,2370597850.0,6249378037.0,Y,BPDB 2022-23.pdf
+haripur power ltd,Haripur Power Ltd.,ipp,FY2023-24,1081853610.0,3871234143.0,Y,BPDC 2023-24.pdf
+haripur power ltd,Haripur Power Ltd.,ipp,FY2024-25,0.0,502765.0,Y,BPDB 2024-25.pdf
+hdfc sinpower ltd (50mw),HDFC SinPower Ltd. (50MW),ipp,FY2021-22,92430240.0,1358708897.0,,BPDB 2022-23.pdf
+hdfc sinpower ltd (50mw),HDFC SinPower Ltd. (50MW),ipp,FY2022-23,0.0,0.0,Y,BPDB 2022-23.pdf
+hdfc sinpower ltd (50mw),HDFC SinPower Ltd. (50MW),ipp,FY2023-24,90091736.0,1705133620.0,Y,BPDC 2023-24.pdf
+hdfc sinpower ltd (50mw),HDFC SinPower Ltd. (50MW),ipp,FY2024-25,90665328.0,1863696401.0,Y,BPDB 2024-25.pdf
+hf power company ltd,HF Power Company Limited,ipp,FY2019-20,115725246.0,1559483281.0,,BPDB 2020-21.pdf
+hf power company ltd,HF Power Company Limited,ipp,FY2020-21,551060311.0,5951666116.0,Y,BPDB 2020-21.pdf
+hf power company ltd,HF Power Company Limited,ipp,FY2021-22,577999758.0,8906890033.0,,BPDB 2022-23.pdf
+hf power company ltd,HF Power Company Limited,ipp,FY2022-23,351069012.0,7647555852.0,Y,BPDB 2022-23.pdf
+hf power company ltd,HF Power Company Limited,ipp,FY2023-24,247750062.0,6305415677.0,Y,BPDC 2023-24.pdf
+hf power company ltd,HF Power Company Limited,ipp,FY2024-25,221018305.0,6175722847.0,Y,BPDB 2024-25.pdf
+ielconsourtium & associates,IELCONSOURTIUM & ASSOCIATES,rental,FY2019-20,193301761.0,2815677934.0,,BPDB 2020-21.pdf
+ielconsourtium & associates,IELCONSOURTIUM & ASSOCIATES,rental,FY2020-21,270990720.0,3813956693.0,Y,BPDB 2020-21.pdf
+intraco solar power ltd (30mw),Intraco Solar Power Ltd. (30MW),ipp,FY2022-23,49996280.0,854016657.0,,BPDC 2023-24.pdf
+intraco solar power ltd (30mw),Intraco Solar Power Ltd. (30MW),ipp,FY2023-24,59149472.0,1052853086.0,Y,BPDC 2023-24.pdf
+intraco solar power ltd (30mw),Intraco Solar Power Ltd. (30MW),ipp,FY2024-25,60694184.0,1171926775.0,Y,BPDB 2024-25.pdf
+kamchan purbachal power generation ltd (55mw),Kamchan Purbachal Power Generation Limited (55MW),ipp,FY2021-22,190009188.0,3183850656.0,,BPDB 2022-23.pdf
+kamchan purbachal power generation ltd (55mw),Kamchan Purbachal Power Generation Limited (55MW),ipp,FY2022-23,210104633.0,3962076722.0,Y,BPDB 2022-23.pdf
+kanchan purbachal power generation ltd (55mw),Kanchan Purbachal Power Generation Limited (55MW),ipp,FY2022-23,210104633.0,3962076722.0,,BPDC 2023-24.pdf
+kanchan purbachal power generation ltd (55mw),Kanchan Purbachal Power Generation Limited (55MW),ipp,FY2023-24,108170449.0,2621699553.0,Y,BPDC 2023-24.pdf
+kanchan purbachal power generation ltd (55mw),Kanchan Purbachal Power Generation Limited (55MW),ipp,FY2024-25,154966946.0,3444396686.0,Y,BPDB 2024-25.pdf
+karnaphuli power ltd,Karnaphuli Power Ltd.,ipp,FY2019-20,40597792.0,1563611789.0,,BPDB 2020-21.pdf
+karnaphuli power ltd,Karnaphuli Power Ltd.,ipp,FY2020-21,85058900.0,2177111311.0,Y,BPDB 2020-21.pdf
+karnaphuli power ltd,Karnaphuli Power Ltd.,ipp,FY2021-22,693947514.0,10738505984.0,,BPDB 2022-23.pdf
+karnaphuli power ltd,Karnaphuli Power Ltd.,ipp,FY2022-23,582870202.0,10646162985.0,Y,BPDB 2022-23.pdf
+karnaphuli power ltd,Karnaphuli Power Ltd.,ipp,FY2023-24,276386080.0,6243777481.0,Y,BPDC 2023-24.pdf
+karnaphuli power ltd,Karnaphuli Power Ltd.,ipp,FY2024-25,185471053.0,5713047239.0,Y,BPDB 2024-25.pdf
+kepz 9.8 mw solar,KEPZ 9.8 MW Solar,ipp,FY2021-22,4013712.0,51897296.0,,BPDB 2022-23.pdf
+kepz 9.8 mw solar,KEPZ 9.8 MW Solar,ipp,FY2022-23,0.0,0.0,Y,BPDB 2022-23.pdf
+khanjahan ali power ltd,KHANJAHAN ALI POWER LTD.,rental,FY2019-20,91546622.0,1466836454.0,,BPDB 2020-21.pdf
+khanjahan ali power ltd,KHANJAHAN ALI POWER LTD.,rental,FY2020-21,92282785.0,1363243262.0,Y,BPDB 2020-21.pdf
+khanjahan ali power ltd,Khanjahan Ali Power Ltd.,rental,FY2021-22,29896435.0,586325265.0,,BPDB 2022-23.pdf
+khanjahan ali power ltd,Khanjahan Ali Power Ltd.,rental,FY2022-23,51143413.0,1107315887.0,Y,BPDB 2022-23.pdf
+khanjahan ali power ltd,Khanjahan Ali Power Ltd.,rental,FY2023-24,22464610.0,490226625.0,Y,BPDC 2023-24.pdf
+khanjahan ali power ltd,Khanjahan Ali Power Ltd.,rental,FY2024-25,0.0,0.0,Y,BPDB 2024-25.pdf
+khulna,Khulna,public,FY2019-20,6755128.0,3602950417.0,,BPDB 2020-21.pdf
+khulna,Khulna,public,FY2020-21,279080308.0,7770389923.0,Y,BPDB 2020-21.pdf
+kpcl -unit-2,KPCL -UNIT-2,rental,FY2019-20,280086325.0,3907312120.0,,BPDB 2020-21.pdf
+kpcl -unit-2,KPCL -UNIT-2,rental,FY2020-21,433646409.0,4998784772.0,Y,BPDB 2020-21.pdf
+kpcl -unit-2,Kpcl -Unit-2,rental,FY2021-22,107420657.0,2138624001.0,,BPDB 2022-23.pdf
+kpcl -unit-2,Kpcl -Unit-2,rental,FY2022-23,198457371.0,4019236677.0,Y,BPDB 2022-23.pdf
+kpcl -unit-2,Kpcl -Unit-2,rental,FY2023-24,110588117.0,2319043969.0,Y,BPDC 2023-24.pdf
+kpcl -unit-2,Kpcl -Unit-2,rental,FY2024-25,0.0,0.0,Y,BPDB 2024-25.pdf
+kushiara power company ltd,Kushiara Power Company Ltd.,ipp,FY2019-20,1148090686.0,3328431877.0,,BPDB 2020-21.pdf
+kushiara power company ltd,Kushiara Power Company Ltd.,ipp,FY2020-21,1065571452.0,3184203020.0,Y,BPDB 2020-21.pdf
+kushiara power company ltd,Kushiara Power Company Ltd.,ipp,FY2021-22,1038532925.0,3185653217.0,,BPDB 2022-23.pdf
+kushiara power company ltd,Kushiara Power Company Ltd.,ipp,FY2022-23,371388862.0,3035148175.0,Y,BPDB 2022-23.pdf
+kushiara power company ltd,Kushiara Power Company Ltd.,ipp,FY2023-24,898885079.0,5423511167.0,Y,BPDC 2023-24.pdf
+kushiara power company ltd,Kushiara Power Company Ltd.,ipp,FY2024-25,1160037597.0,7432823374.0,Y,BPDB 2024-25.pdf
+lakdhanvi bangla power ltd,Lakdhanvi Bangla Power Ltd.,ipp,FY2019-20,68975144.0,1435248603.0,,BPDB 2020-21.pdf
+lakdhanvi bangla power ltd,Lakdhanvi Bangla Power Ltd.,ipp,FY2020-21,159349441.0,2229819012.0,Y,BPDB 2020-21.pdf
+lakdhanvi bangla power ltd,Lakdhanvi Bangla Power Ltd.,ipp,FY2021-22,217114112.0,3654069728.0,,BPDB 2022-23.pdf
+lakdhanvi bangla power ltd,Lakdhanvi Bangla Power Ltd.,ipp,FY2022-23,107558859.0,2501096744.0,Y,BPDB 2022-23.pdf
+lakdhanvi bangla power ltd,Lakdhanvi Bangla Power Ltd.,ipp,FY2023-24,180455386.0,4053605487.0,Y,BPDC 2023-24.pdf
+lakdhanvi bangla power ltd,Lakdhanvi Bangla Power Ltd.,ipp,FY2024-25,125648232.0,3188282075.0,Y,BPDB 2024-25.pdf
+lanka power ltd - feni,Lanka Power Limited - Feni,ipp,FY2019-20,34679849.0,1082818157.0,,BPDB 2020-21.pdf
+lanka power ltd - feni,Lanka Power Limited - Feni,ipp,FY2020-21,193243406.0,2993516085.0,Y,BPDB 2020-21.pdf
+lanka power ltd - feni,Lanka Power Limited - Feni,ipp,FY2021-22,329452681.0,5721652913.0,,BPDB 2022-23.pdf
+lanka power ltd - feni,Lanka Power Limited - Feni,ipp,FY2022-23,238606811.0,5980298616.0,Y,BPDB 2022-23.pdf
+lanka power ltd - feni,Lanka Power Limited - Feni,ipp,FY2023-24,362885518.0,8481433839.0,Y,BPDC 2023-24.pdf
+lanka power ltd - feni,Lanka Power Limited - Feni,ipp,FY2024-25,357930634.0,9022389046.0,Y,BPDB 2024-25.pdf
+m/s banco energy generation ltd,M/S Banco Energy Generation Ltd.,ipp,FY2019-20,209990340.0,2517495961.0,,BPDB 2020-21.pdf
+m/s banco energy generation ltd,M/S Banco Energy Generation Ltd.,ipp,FY2020-21,309349044.0,3548402788.0,Y,BPDB 2020-21.pdf
+manikgonj power generations ltd (162mw),Manikgonj Power Generations Limited (162MW),ipp,FY2021-22,1041083049.0,16458006350.0,,BPDB 2022-23.pdf
+manikgonj power generations ltd (162mw),Manikgonj Power Generations Limited (162MW),ipp,FY2022-23,484872106.0,10180903490.0,Y,BPDB 2022-23.pdf
+manikgonj power generations ltd (162mw),Manikgonj Power Generations Limited (162MW),ipp,FY2023-24,282852288.0,7855896869.0,Y,BPDC 2023-24.pdf
+manikgonj power generations ltd (162mw),Manikgonj Power Generations Limited (162MW),ipp,FY2024-25,411947352.0,10540527554.0,Y,BPDB 2024-25.pdf
+max power ltd.-ghorasal,MAX POWER LTD.-GHORASAL,rental,FY2019-20,151850141.0,1561450593.0,,BPDB 2020-21.pdf
+max power ltd.-ghorasal,MAX POWER LTD.-GHORASAL,rental,FY2020-21,102449279.0,811772815.0,Y,BPDB 2020-21.pdf
+meghnaghat power ltd,Meghnaghat Power Ltd.,ipp,FY2019-20,3042188735.0,7702108964.0,,BPDB 2020-21.pdf
+meghnaghat power ltd,Meghnaghat Power Ltd.,ipp,FY2020-21,2276324250.0,6238656026.0,Y,BPDB 2020-21.pdf
+meghnaghat power ltd,Meghnaghat Power Ltd.,ipp,FY2021-22,2140792000.0,5709336569.0,,BPDB 2022-23.pdf
+meghnaghat power ltd,Meghnaghat Power Ltd.,ipp,FY2022-23,2122537049.0,8977102355.0,Y,BPDB 2022-23.pdf
+meghnaghat power ltd,Meghnaghat Power Ltd.,ipp,FY2023-24,3008790884.0,13187351320.0,Y,BPDC 2023-24.pdf
+meghnaghat power ltd,Meghnaghat Power Ltd.,ipp,FY2024-25,3031318900.0,16139340598.0,Y,BPDB 2024-25.pdf
+midland east power company ltd,Midland East Power Company Ltd.,ipp,FY2019-20,196073411.0,3988343214.0,,BPDB 2020-21.pdf
+midland east power company ltd,Midland East Power Company Ltd.,ipp,FY2020-21,410347432.0,5106156835.0,Y,BPDB 2020-21.pdf
+midland east power company ltd,Midland East Power Company Ltd.,ipp,FY2021-22,858896611.0,13304285799.0,,BPDB 2022-23.pdf
+midland east power company ltd,Midland East Power Company Ltd.,ipp,FY2022-23,546691934.0,11529125480.0,Y,BPDB 2022-23.pdf
+midland east power company ltd,Midland East Power Company Ltd.,ipp,FY2023-24,175652589.0,5464206819.0,Y,BPDC 2023-24.pdf
+midland east power company ltd,Midland East Power Company Ltd.,ipp,FY2024-25,301714167.0,8042474184.0,Y,BPDB 2024-25.pdf
+midland power company ltd,Midland Power Company Ltd.,ipp,FY2019-20,267912697.0,875684572.0,,BPDB 2020-21.pdf
+midland power company ltd,Midland Power Company Ltd.,ipp,FY2020-21,294124026.0,930353155.0,Y,BPDB 2020-21.pdf
+midland power company ltd,Midland Power Company Ltd.,ipp,FY2021-22,370760585.0,1021219011.0,,BPDB 2022-23.pdf
+midland power company ltd,Midland Power Company Ltd.,ipp,FY2022-23,333608753.0,1545370273.0,Y,BPDB 2022-23.pdf
+midland power company ltd,Midland Power Company Ltd.,ipp,FY2023-24,336871329.0,1974351195.0,Y,BPDC 2023-24.pdf
+midland power company ltd,Midland Power Company Ltd.,ipp,FY2024-25,371569595.0,2735851763.0,Y,BPDB 2024-25.pdf
+nepal electricity authority (nea),Nepal Electricity Authority (NEA),india,FY2023-24,0.0,0.0,,BPDB 2024-25.pdf
+nepal electricity authority (nea),Nepal Electricity Authority (NEA),india,FY2024-25,15829760.0,132245684.0,Y,BPDB 2024-25.pdf
+north west power gen (nwpgcl)- 6.55mw solar pv,North West Power Gen (NWPGCL)- 6.55MW Solar PV,public,FY2021-22,9725161.0,136863059.0,,BPDB 2022-23.pdf
+north west power gen (nwpgcl)- 6.55mw solar pv,North West Power Gen (NWPGCL)- 6.55MW Solar PV,public,FY2022-23,10078954.0,140348768.0,Y,BPDB 2022-23.pdf
+north west power gen (nwpgcl)- 6.55mw solar pv,North West Power Gen (NWPGCL)- 6.55MW Solar PV,public,FY2023-24,9484831.0,140508224.0,Y,BPDC 2023-24.pdf
+north west power gen (nwpgcl)- 6.55mw solar pv,North West Power Gen (NWPGCL)- 6.55MW Solar PV,public,FY2024-25,9365656.0,151607847.0,Y,BPDB 2024-25.pdf
+north west power gen (nwpgcl)- bheramara,North West Power Gen (NWPGCL)- Bheramara,public,FY2021-22,1966292933.0,6934357044.0,,BPDB 2022-23.pdf
+north west power gen (nwpgcl)- bheramara,North West Power Gen (NWPGCL)- Bheramara,public,FY2022-23,1346245287.0,7836412600.0,Y,BPDB 2022-23.pdf
+north west power gen (nwpgcl)- bheramara,North West Power Gen (NWPGCL)- Bheramara,public,FY2023-24,746230754.0,7324098710.0,Y,BPDC 2023-24.pdf
+north west power gen (nwpgcl)- bheramara,North West Power Gen (NWPGCL)- Bheramara,public,FY2024-25,1743730998.0,10693837717.0,Y,BPDB 2024-25.pdf
+north west power gen (nwpgcl)- khulna,North West Power Gen (NWPGCL)- Khulna,public,FY2021-22,437277714.0,11138939273.0,,BPDB 2022-23.pdf
+north west power gen (nwpgcl)- khulna,North West Power Gen (NWPGCL)- Khulna,public,FY2022-23,445957222.0,14629459265.0,Y,BPDB 2022-23.pdf
+north west power gen (nwpgcl)- khulna,North West Power Gen (NWPGCL)- Khulna,public,FY2023-24,112565389.0,6937820127.0,Y,BPDC 2023-24.pdf
+north west power gen (nwpgcl)- madhumati,North West Power Gen (NWPGCL)- Madhumati,public,FY2021-22,98005392.0,2787875557.0,,BPDB 2022-23.pdf
+north west power gen (nwpgcl)- madhumati,North West Power Gen (NWPGCL)- Madhumati,public,FY2022-23,259720704.0,6108671422.0,Y,BPDB 2022-23.pdf
+north west power gen (nwpgcl)- madhumati,North West Power Gen (NWPGCL)- Madhumati,public,FY2023-24,76055472.0,2893436726.0,Y,BPDC 2023-24.pdf
+north west power gen (nwpgcl)- madhumati,North West Power Gen (NWPGCL)- Madhumati,public,FY2024-25,9083088.0,2181867549.0,Y,BPDB 2024-25.pdf
+north west power gen (nwpgcl)- sirajgonj,North West Power Gen (NWPGCL)- Sirajgonj,public,FY2021-22,224720935.0,2148277482.0,,BPDB 2022-23.pdf
+north west power gen (nwpgcl)- sirajgonj,North West Power Gen (NWPGCL)- Sirajgonj,public,FY2022-23,1167024579.0,5421296044.0,Y,BPDB 2022-23.pdf
+north west power gen (nwpgcl)- sirajgonj,North West Power Gen (NWPGCL)- Sirajgonj,public,FY2023-24,614471449.0,4815824866.0,Y,BPDC 2023-24.pdf
+north west power gen (nwpgcl)- sirajgonj (unit - 2),North West Power Gen (NWPGCL)- Sirajgonj (Unit - 2),public,FY2021-22,1008745563.0,7522171723.0,,BPDB 2022-23.pdf
+north west power gen (nwpgcl)- sirajgonj (unit - 2),North West Power Gen (NWPGCL)- Sirajgonj (Unit - 2),public,FY2022-23,624834999.0,16240673723.0,Y,BPDB 2022-23.pdf
+north west power gen (nwpgcl)- sirajgonj (unit - 2),North West Power Gen (NWPGCL)- Sirajgonj (Unit - 2),public,FY2023-24,294747762.0,7575979181.0,Y,BPDC 2023-24.pdf
+north west power gen (nwpgcl)- sirajgonj (unit - 2),North West Power Gen (NWPGCL)- Sirajgonj (Unit - 2),public,FY2024-25,705779839.0,6926966551.0,Y,BPDB 2024-25.pdf
+north west power gen (nwpgcl)- sirajgonj (unit - 3),North West Power Gen (NWPGCL)- Sirajgonj (Unit - 3),public,FY2021-22,1220422550.0,4748113291.0,,BPDB 2022-23.pdf
+north west power gen (nwpgcl)- sirajgonj (unit - 3),North West Power Gen (NWPGCL)- Sirajgonj (Unit - 3),public,FY2022-23,841358086.0,6514710574.0,Y,BPDB 2022-23.pdf
+north west power gen (nwpgcl)- sirajgonj (unit - 3),North West Power Gen (NWPGCL)- Sirajgonj (Unit - 3),public,FY2023-24,725681991.0,7154858483.0,Y,BPDC 2023-24.pdf
+north west power gen (nwpgcl)- sirajgonj (unit - 3),North West Power Gen (NWPGCL)- Sirajgonj (Unit - 3),public,FY2024-25,575432420.0,7069805237.0,Y,BPDB 2024-25.pdf
+north west power gen (nwpgcl)- sirajgonj (unit -1),North West Power Gen (NWPGCL)- Sirajgonj (Unit -1),public,FY2023-24,614471449.0,4815824866.0,,BPDB 2024-25.pdf
+north west power gen (nwpgcl)- sirajgonj (unit -1),North West Power Gen (NWPGCL)- Sirajgonj (Unit -1),public,FY2024-25,1304906632.0,7709591825.0,Y,BPDB 2024-25.pdf
+northern power,NORTHERN POWER,rental,FY2019-20,69379654.0,1351484542.0,,BPDB 2020-21.pdf
+northern power,NORTHERN POWER,rental,FY2020-21,21344414.0,224115126.0,Y,BPDB 2020-21.pdf
+northern power,Northern Power,rental,FY2021-22,66336489.0,1696707045.0,,BPDB 2022-23.pdf
+northern power,Northern Power,rental,FY2022-23,126846012.0,2773703045.0,Y,BPDB 2022-23.pdf
+northern power,Northern Power,rental,FY2023-24,68411781.0,1490434567.0,Y,BPDC 2023-24.pdf
+northern power,Northern Power,rental,FY2024-25,0.0,0.0,Y,BPDB 2024-25.pdf
+nutan bidyut (bangladesh) ltd (220mw),Nutan Bidyut (Bangladesh) Ltd. (220MW),ipp,FY2021-22,1653494918.0,4973733765.0,,BPDB 2022-23.pdf
+nutan bidyut (bangladesh) ltd (220mw),Nutan Bidyut (Bangladesh) Ltd. (220MW),ipp,FY2022-23,1140715216.0,5943225716.0,Y,BPDB 2022-23.pdf
+nutan bidyut (bangladesh) ltd (220mw),Nutan Bidyut (Bangladesh) Ltd. (220MW),ipp,FY2023-24,1745975828.0,10040381978.0,Y,BPDC 2023-24.pdf
+nutan bidyut (bangladesh) ltd (220mw),Nutan Bidyut (Bangladesh) Ltd. (220MW),ipp,FY2024-25,1774176344.0,11235977433.0,Y,BPDB 2024-25.pdf
+nvvn ltd - india 160 mw (tripura),NVVN Ltd. - India 160 MW (Tripura),india,FY2019-20,1005185656.0,7633343637.0,,BPDB 2020-21.pdf
+nvvn ltd - india 160 mw (tripura),NVVN Ltd. - India 160 MW (Tripura),india,FY2020-21,1028817960.0,7420242117.0,Y,BPDB 2020-21.pdf
+nvvn ltd - india 160 mw (tripura),NVVN Ltd. - India 160 MW (Tripura),india,FY2021-22,941241612.0,7484684395.0,,BPDB 2022-23.pdf
+nvvn ltd - india 160 mw (tripura),NVVN Ltd. - India 160 MW (Tripura),india,FY2022-23,1073872152.0,9075956561.0,Y,BPDB 2022-23.pdf
+nvvn ltd - india 160 mw (tripura),NVVN Ltd. - India 160 MW (Tripura),india,FY2023-24,972295860.0,8913270638.0,Y,BPDC 2023-24.pdf
+nvvn ltd - india 160 mw (tripura),NVVN Ltd. - India 160 MW (Tripura),india,FY2024-25,477672456.0,5084567990.0,Y,BPDB 2024-25.pdf
+nvvn ltd - india 250 mw,NVVN Ltd. - India 250 MW,india,FY2019-20,1720991506.0,5519165342.0,,BPDB 2020-21.pdf
+nvvn ltd - india 250 mw,NVVN Ltd. - India 250 MW,india,FY2020-21,1753307564.0,5479226567.0,Y,BPDB 2020-21.pdf
+nvvn ltd - india 250 mw,NVVN Ltd. - India 250 MW,india,FY2021-22,1793326113.0,5794486872.0,,BPDB 2022-23.pdf
+nvvn ltd - india 250 mw,NVVN Ltd. - India 250 MW,india,FY2022-23,1801735428.0,7606355362.0,Y,BPDB 2022-23.pdf
+nvvn ltd - india 250 mw,NVVN Ltd. - India 250 MW,india,FY2023-24,1880436106.0,7862336203.0,Y,BPDC 2023-24.pdf
+nvvn ltd - india 250 mw,NVVN Ltd. - India 250 MW,india,FY2024-25,1844690391.0,8160446866.0,Y,BPDB 2024-25.pdf
+nvvn ltd - india 300 mw,NVVN Ltd. - India 300 MW,india,FY2019-20,1700740025.0,10912458117.0,,BPDB 2020-21.pdf
+nvvn ltd - india 300 mw,NVVN Ltd. - India 300 MW,india,FY2020-21,2539050000.0,14200174815.0,Y,BPDB 2020-21.pdf
+nvvn ltd - india 300 mw,NVVN Ltd. - India 300 MW,india,FY2021-22,2548677500.0,15199300879.0,,BPDB 2022-23.pdf
+nvvn ltd - india 300 mw,NVVN Ltd. - India 300 MW,india,FY2022-23,2515788750.0,17995693025.0,Y,BPDB 2022-23.pdf
+nvvn ltd - india 300 mw,NVVN Ltd. - India 300 MW,india,FY2023-24,2278033750.0,18404771473.0,Y,BPDC 2023-24.pdf
+nvvn ltd - india 300 mw,NVVN Ltd. - India 300 MW,india,FY2024-25,2520987500.0,21333221378.0,Y,BPDB 2024-25.pdf
+orion power meghnaghat ltd,Orion Power Meghnaghat Ltd.,rental,FY2021-22,165454808.0,3425588809.0,,BPDB 2022-23.pdf
+orion power meghnaghat ltd,Orion Power Meghnaghat Ltd.,rental,FY2022-23,280180160.0,5405863283.0,Y,BPDB 2022-23.pdf
+orion power meghnaghat ltd,Orion Power Meghnaghat Ltd.,rental,FY2023-24,115592152.0,2510717107.0,Y,BPDC 2023-24.pdf
+orion power meghnaghat ltd,Orion Power Meghnaghat Ltd.,rental,FY2024-25,0.0,0.0,Y,BPDB 2024-25.pdf
+orion power rupsha ltd - khulna (105mw),Orion Power Rupsha Ltd. - Khulna (105MW),ipp,FY2019-20,186785520.0,3018423032.0,,BPDB 2020-21.pdf
+orion power rupsha ltd - khulna (105mw),Orion Power Rupsha Ltd. - Khulna (105MW),ipp,FY2020-21,361167408.0,4586519321.0,Y,BPDB 2020-21.pdf
+orion power rupsha ltd - khulna (105mw),Orion Power Rupsha Ltd. - Khulna (105MW),ipp,FY2021-22,540193296.0,9038681251.0,,BPDB 2022-23.pdf
+orion power rupsha ltd - khulna (105mw),Orion Power Rupsha Ltd. - Khulna (105MW),ipp,FY2022-23,252984384.0,5258595419.0,Y,BPDB 2022-23.pdf
+orion power rupsha ltd - khulna (105mw),Orion Power Rupsha Ltd. - Khulna (105MW),ipp,FY2023-24,189484112.0,4835955072.0,Y,BPDC 2023-24.pdf
+orion power rupsha ltd - khulna (105mw),Orion Power Rupsha Ltd. - Khulna (105MW),ipp,FY2024-25,86818944.0,3518585003.0,Y,BPDB 2024-25.pdf
+orion power sonargaon ltd,Orion Power Sonargaon Ltd.,ipp,FY2019-20,10829376.0,94757040.0,,BPDB 2020-21.pdf
+orion power sonargaon ltd,Orion Power Sonargaon Ltd.,ipp,FY2020-21,451901664.0,5095211408.0,Y,BPDB 2020-21.pdf
+orion power sonargaon ltd,Orion Power Sonargaon Ltd.,ipp,FY2021-22,638940480.0,8427320532.0,,BPDB 2022-23.pdf
+orion power sonargaon ltd,Orion Power Sonargaon Ltd.,ipp,FY2022-23,343667904.0,8837355589.0,Y,BPDB 2022-23.pdf
+orion power sonargaon ltd,Orion Power Sonargaon Ltd.,ipp,FY2023-24,234956640.0,5781335186.0,Y,BPDC 2023-24.pdf
+orion power sonargaon ltd,Orion Power Sonargaon Ltd.,ipp,FY2024-25,133045920.0,4416967775.0,Y,BPDB 2024-25.pdf
+paramount btrac energy ltd - sirajgonj,Paramount BTrac Energy Ltd. - Sirajgonj,ipp,FY2019-20,3756087.0,3546541105.0,,BPDB 2020-21.pdf
+paramount btrac energy ltd - sirajgonj,Paramount BTrac Energy Ltd. - Sirajgonj,ipp,FY2020-21,21514556.0,3887016999.0,Y,BPDB 2020-21.pdf
+paramount btrac energy ltd - sirajgonj,Paramount BTrac Energy Ltd. - Sirajgonj,ipp,FY2021-22,104571634.0,5791953269.0,,BPDB 2022-23.pdf
+paramount btrac energy ltd - sirajgonj,Paramount BTrac Energy Ltd. - Sirajgonj,ipp,FY2022-23,146655047.0,8261692003.0,Y,BPDB 2022-23.pdf
+paramount btrac energy ltd - sirajgonj,Paramount BTrac Energy Ltd. - Sirajgonj,ipp,FY2023-24,16971742.0,3641361431.0,Y,BPDC 2023-24.pdf
+paramount btrac energy ltd - sirajgonj,Paramount BTrac Energy Ltd. - Sirajgonj,ipp,FY2024-25,0.0,23870000.0,Y,BPDB 2024-25.pdf
+power grid corporation of india - 160mw,Power Grid Corporation of India - 160MW,india,FY2022-23,0.0,178806221.0,,BPDC 2023-24.pdf
+power grid corporation of india - 160mw,Power Grid Corporation of India - 160MW,india,FY2023-24,0.0,188988351.0,Y,BPDC 2023-24.pdf
+power grid corporation of india - 160mw,Power Grid Corporation of India - 160MW,india,FY2024-25,0.0,189542404.0,Y,BPDB 2024-25.pdf
+"power grid corporation of india - 160mw - 178,806,221","Power Grid Corporation of India - 160MW - 178,806,221",india,FY2021-22,0.0,0.0,,BPDB 2022-23.pdf
+"power grid corporation of india - 160mw - 178,806,221","Power Grid Corporation of India - 160MW - 178,806,221",india,FY2022-23,0.0,140021274.0,Y,BPDB 2022-23.pdf
+"power grid corporation of india - 160mw - 179,663,490","Power Grid Corporation of India - 160MW - 179,663,490",india,FY2019-20,0.0,0.0,,BPDB 2020-21.pdf
+"power grid corporation of india - 160mw - 179,663,490","Power Grid Corporation of India - 160MW - 179,663,490",india,FY2020-21,0.0,183742973.0,Y,BPDB 2020-21.pdf
+power grid corporation of india - 250mw,Power Grid Corporation of India - 250MW,india,FY2022-23,0.0,1404138832.0,,BPDC 2023-24.pdf
+power grid corporation of india - 250mw,Power Grid Corporation of India - 250MW,india,FY2023-24,0.0,1397311370.0,Y,BPDC 2023-24.pdf
+power grid corporation of india - 250mw,Power Grid Corporation of India - 250MW,india,FY2024-25,0.0,1423004104.0,Y,BPDB 2024-25.pdf
+"power grid corporation of india - 250mw - 1,404,138,832","Power Grid Corporation of India - 250MW - 1,404,138,832",india,FY2021-22,0.0,0.0,,BPDB 2022-23.pdf
+"power grid corporation of india - 250mw - 1,404,138,832","Power Grid Corporation of India - 250MW - 1,404,138,832",india,FY2022-23,0.0,886126987.0,Y,BPDB 2022-23.pdf
+"power grid corporation of india - 250mw - 993,616,464","Power Grid Corporation of India - 250MW - 993,616,464",india,FY2019-20,0.0,0.0,,BPDB 2020-21.pdf
+"power grid corporation of india - 250mw - 993,616,464","Power Grid Corporation of India - 250MW - 993,616,464",india,FY2020-21,0.0,714415237.0,Y,BPDB 2020-21.pdf
+power grid corporation of india 2nd circuit bohrampur,Power Grid Corporation of India 2nd Circuit Bohrampur,india,FY2022-23,0.0,0.0,,BPDC 2023-24.pdf
+power grid corporation of india 2nd circuit bohrampur,Power Grid Corporation of India 2nd Circuit Bohrampur,india,FY2023-24,0.0,1118168316.0,Y,BPDC 2023-24.pdf
+power grid corporation of india 2nd circuit bohrampur,Power Grid Corporation of India 2nd Circuit Bohrampur,india,FY2024-25,0.0,504512716.0,Y,BPDB 2024-25.pdf
+power pac motiara - jamalpur,Power Pac Motiara - Jamalpur,ipp,FY2019-20,339610944.0,4114629696.0,,BPDB 2020-21.pdf
+power pac motiara - jamalpur,Power Pac Motiara - Jamalpur,ipp,FY2020-21,289737408.0,3268082838.0,Y,BPDB 2020-21.pdf
+power pac motiara - jamalpur,Power Pac Motiara - Jamalpur,ipp,FY2021-22,13945632.0,307097193.0,,BPDB 2022-23.pdf
+power pac motiara - jamalpur,Power Pac Motiara - Jamalpur,ipp,FY2022-23,0.0,0.0,Y,BPDB 2022-23.pdf
+power pac mutiara keranigonj,POWER PAC MUTIARA KERANIGONJ,rental,FY2019-20,52371672.0,1923586409.0,,BPDB 2020-21.pdf
+power pac mutiara keranigonj,POWER PAC MUTIARA KERANIGONJ,rental,FY2020-21,217866024.0,1792998493.0,Y,BPDB 2020-21.pdf
+power pac mutiara keranigonj,Power Pac Mutiara Keranigonj,rental,FY2021-22,91903200.0,2515217918.0,,BPDB 2022-23.pdf
+power pac mutiara keranigonj,Power Pac Mutiara Keranigonj,rental,FY2022-23,7514208.0,154740873.0,Y,BPDB 2022-23.pdf
+power pac mutiara keranigonj,Power Pac Mutiara Keranigonj,rental,FY2023-24,67901896.0,1477029228.0,Y,BPDC 2023-24.pdf
+power pac mutiara keranigonj,Power Pac Mutiara Keranigonj,rental,FY2024-25,6319128.0,137805475.0,Y,BPDB 2024-25.pdf
+precision energy ltd,PRECISION ENERGY LTD.,rental,FY2019-20,218732592.0,1106804428.0,,BPDB 2020-21.pdf
+precision energy ltd,PRECISION ENERGY LTD.,rental,FY2020-21,208806744.0,1091909673.0,Y,BPDB 2020-21.pdf
+precision energy ltd,Precision Energy Ltd.,rental,FY2021-22,276586308.0,1257886706.0,,BPDB 2022-23.pdf
+precision energy ltd,Precision Energy Ltd.,rental,FY2022-23,183934248.0,1163995995.0,Y,BPDB 2022-23.pdf
+precision energy ltd,Precision Energy Ltd.,rental,FY2023-24,138911164.0,830483476.0,Y,BPDC 2023-24.pdf
+precision energy ltd,Precision Energy Ltd.,rental,FY2024-25,219908532.0,1422427289.0,Y,BPDB 2024-25.pdf
+ptc india ltd 200 mw,PTC India Ltd. 200 MW,india,FY2021-22,454768420.0,3388272957.0,,BPDB 2022-23.pdf
+ptc india ltd 200 mw,PTC India Ltd. 200 MW,india,FY2022-23,1686911076.0,15264635952.0,Y,BPDB 2022-23.pdf
+ptc india ltd 200 mw,PTC India Ltd. 200 MW,india,FY2023-24,1672307432.0,15531695572.0,Y,BPDC 2023-24.pdf
+ptc india ltd 200 mw,PTC India Ltd. 200 MW,india,FY2024-25,1618252287.0,16513244979.0,Y,BPDB 2024-25.pdf
+"ptc india ltd 200 mw 1,023,539,479 6,950,960,102","PTC India Ltd. 200 MW 1,023,539,479 6,950,960,102",india,FY2019-20,902021075.0,0.0,,BPDB 2020-21.pdf
+"ptc india ltd 200 mw 1,023,539,479 6,950,960,102","PTC India Ltd. 200 MW 1,023,539,479 6,950,960,102",india,FY2020-21,0.0,6199398155.0,Y,BPDB 2020-21.pdf
+raj lanka power ltd,Raj Lanka Power Limited,ipp,FY2019-20,80771237.0,1391433185.0,,BPDB 2020-21.pdf
+raj lanka power ltd,Raj Lanka Power Limited,ipp,FY2020-21,146308138.0,1806686667.0,Y,BPDB 2020-21.pdf
+raj lanka power ltd,Raj Lanka Power Limited,ipp,FY2021-22,234706041.0,3656894613.0,,BPDB 2022-23.pdf
+raj lanka power ltd,Raj Lanka Power Limited,ipp,FY2022-23,59674439.0,1556273840.0,Y,BPDB 2022-23.pdf
+raj lanka power ltd,Raj Lanka Power Limited,ipp,FY2023-24,31609244.0,845439311.0,Y,BPDC 2023-24.pdf
+raj lanka power ltd,Raj Lanka Power Limited,ipp,FY2024-25,16726958.0,605635946.0,Y,BPDB 2024-25.pdf
+regent energy & power ltd,Regent Energy & Power Ltd.,ipp,FY2019-20,286323365.0,1361023355.0,,BPDB 2020-21.pdf
+regent energy & power ltd,Regent Energy & Power Ltd.,ipp,FY2020-21,591450096.0,1726171586.0,Y,BPDB 2020-21.pdf
+regent energy & power ltd,Regent Energy & Power Ltd.,ipp,FY2021-22,360724103.0,1472507201.0,,BPDB 2022-23.pdf
+regent energy & power ltd,Regent Energy & Power Ltd.,ipp,FY2022-23,467745222.0,2159146231.0,Y,BPDB 2022-23.pdf
+regent energy & power ltd,Regent Energy & Power Ltd.,ipp,FY2023-24,221413891.0,2045431191.0,Y,BPDC 2023-24.pdf
+regent energy & power ltd,Regent Energy & Power Ltd.,ipp,FY2024-25,23931134.0,1269606818.0,Y,BPDB 2024-25.pdf
+regent power ltd,Regent Power Ltd.,ipp,FY2019-20,156648285.0,459412619.0,,BPDB 2020-21.pdf
+regent power ltd,Regent Power Ltd.,ipp,FY2020-21,157765152.0,463450991.0,Y,BPDB 2020-21.pdf
+regent power ltd,Regent Power Ltd.,ipp,FY2021-22,147081880.0,453755759.0,,BPDB 2022-23.pdf
+regent power ltd,Regent Power Ltd.,ipp,FY2022-23,70807466.0,436522485.0,Y,BPDB 2022-23.pdf
+regent power ltd,Regent Power Ltd.,ipp,FY2023-24,83495391.0,556899472.0,Y,BPDC 2023-24.pdf
+regent power ltd,Regent Power Ltd.,ipp,FY2024-25,0.0,0.0,Y,BPDB 2024-25.pdf
+rpc ltd. mymensingh (210 mw),RPC LTD. Mymensingh (210 MW),ipp,FY2019-20,1289580768.0,4400973182.0,,BPDB 2020-21.pdf
+rpc ltd. mymensingh (210 mw),RPC LTD. Mymensingh (210 MW),ipp,FY2020-21,1150056632.0,3840313302.0,Y,BPDB 2020-21.pdf
+rpc ltd. mymensingh (210 mw),RPC LTD. Mymensingh (210 MW),ipp,FY2021-22,1106935572.0,4130993792.0,,BPDB 2022-23.pdf
+rpc ltd. mymensingh (210 mw),RPC LTD. Mymensingh (210 MW),ipp,FY2022-23,699028425.0,3988275958.0,Y,BPDB 2022-23.pdf
+rpc ltd. mymensingh (210 mw),RPC LTD. Mymensingh (210 MW),ipp,FY2023-24,590137884.0,6101347630.0,Y,BPDC 2023-24.pdf
+rpc ltd. mymensingh (210 mw),RPC LTD. Mymensingh (210 MW),ipp,FY2024-25,243363322.0,4748536837.0,Y,BPDB 2024-25.pdf
+rpcl - gazipur (105mw),RPCL - Gazipur (105MW),ipp,FY2019-20,287819928.0,4018991023.0,,BPDB 2020-21.pdf
+rpcl - gazipur (105mw),RPCL - Gazipur (105MW),ipp,FY2020-21,372311616.0,4561729240.0,Y,BPDB 2020-21.pdf
+rpcl - gazipur (105mw),RPCL - Gazipur (105MW),ipp,FY2021-22,535752588.0,8934646402.0,,BPDB 2022-23.pdf
+rpcl - gazipur (105mw),RPCL - Gazipur (105MW),ipp,FY2022-23,582459089.0,12169426151.0,Y,BPDB 2022-23.pdf
+rpcl - gazipur (105mw),RPCL - Gazipur (105MW),ipp,FY2023-24,270875985.0,6709884206.0,Y,BPDC 2023-24.pdf
+rpcl - gazipur (105mw),RPCL - Gazipur (105MW),ipp,FY2024-25,283865836.0,6800857629.0,Y,BPDB 2024-25.pdf
+rpcl 25mw rawjan,RPCL 25MW Rawjan,ipp,FY2019-20,33256526.0,721093405.0,,BPDB 2020-21.pdf
+rpcl 25mw rawjan,RPCL 25MW Rawjan,ipp,FY2020-21,68409238.0,932009423.0,Y,BPDB 2020-21.pdf
+rpcl 25mw rawjan,RPCL 25MW Rawjan,ipp,FY2021-22,80466131.0,1502164876.0,,BPDB 2022-23.pdf
+rpcl 25mw rawjan,RPCL 25MW Rawjan,ipp,FY2022-23,131373257.0,2763389415.0,Y,BPDB 2022-23.pdf
+rpcl 25mw rawjan,RPCL 25MW Rawjan,ipp,FY2023-24,54836673.0,1409739525.0,Y,BPDC 2023-24.pdf
+rpcl 25mw rawjan,RPCL 25MW Rawjan,ipp,FY2024-25,28331722.0,901444966.0,Y,BPDB 2024-25.pdf
+rpcl 52mw gazipur,RPCL 52MW Gazipur,ipp,FY2019-20,93961416.0,1608591025.0,,BPDB 2020-21.pdf
+rpcl 52mw gazipur,RPCL 52MW Gazipur,ipp,FY2020-21,112666731.0,1794318893.0,Y,BPDB 2020-21.pdf
+rpcl 52mw gazipur,RPCL 52MW Gazipur,ipp,FY2021-22,209417122.0,3793092964.0,,BPDB 2022-23.pdf
+rpcl 52mw gazipur,RPCL 52MW Gazipur,ipp,FY2022-23,231599150.0,4928709185.0,Y,BPDB 2022-23.pdf
+rpcl 52mw gazipur,RPCL 52MW Gazipur,ipp,FY2023-24,74134679.0,1962669472.0,Y,BPDC 2023-24.pdf
+rpcl 52mw gazipur,RPCL 52MW Gazipur,ipp,FY2024-25,91939949.0,2459476176.0,Y,BPDB 2024-25.pdf
+rpcl-norinco international power company ltd,RPCL-NORINCO International Power Company Ltd,ipp,FY2023-24,0.0,0.0,,BPDB 2024-25.pdf
+rpcl-norinco international power company ltd,RPCL-NORINCO International Power Company Ltd,ipp,FY2024-25,705512246.0,5608177030.0,Y,BPDB 2024-25.pdf
+sbu haripur,SBU HARIPUR,public,FY2022-23,0.0,0.0,,BPDC 2023-24.pdf
+sbu haripur,SBU HARIPUR,public,FY2023-24,0.0,0.0,Y,BPDC 2023-24.pdf
+sbu haripur,SBU HARIPUR,public,FY2024-25,0.0,0.0,Y,BPDB 2024-25.pdf
+"sbu haripur (bpdb book costs) 20.00 0% (422,461) - - - -","Sbu Haripur (BPDB Book Costs) 20.00 0% (422,461) - - - -",rental,FY2019-20,0.0,0.0,,BPDB 2020-21.pdf
+"sbu haripur (bpdb book costs) 20.00 0% (422,461) - - - -","Sbu Haripur (BPDB Book Costs) 20.00 0% (422,461) - - - -",rental,FY2020-21,90047286.0,90047286.0,Y,BPDB 2020-21.pdf
+"sbu haripur - 247,733,903","SBU HARIPUR - 247,733,903",public,FY2019-20,0.0,0.0,,BPDB 2020-21.pdf
+"sbu haripur - 247,733,903","SBU HARIPUR - 247,733,903",public,FY2020-21,0.0,278186638.0,Y,BPDB 2020-21.pdf
+sembcorp nwpc ltd - sirajgonj (282mw),Sembcorp NWPC Ltd. - Sirajgonj (282MW),ipp,FY2019-20,3047637942.0,9193002080.0,,BPDB 2020-21.pdf
+sembcorp nwpc ltd - sirajgonj (282mw),Sembcorp NWPC Ltd. - Sirajgonj (282MW),ipp,FY2020-21,2945236563.0,9029761730.0,Y,BPDB 2020-21.pdf
+sembcorp nwpc ltd - sirajgonj (282mw),Sembcorp NWPC Ltd. - Sirajgonj (282MW),ipp,FY2021-22,2817383745.0,9132705810.0,,BPDB 2022-23.pdf
+sembcorp nwpc ltd - sirajgonj (282mw),Sembcorp NWPC Ltd. - Sirajgonj (282MW),ipp,FY2022-23,2534088188.0,13091592017.0,Y,BPDB 2022-23.pdf
+sembcorp nwpc ltd - sirajgonj (282mw),Sembcorp NWPC Ltd. - Sirajgonj (282MW),ipp,FY2023-24,2931577074.0,16884204103.0,Y,BPDC 2023-24.pdf
+sembcorp nwpc ltd - sirajgonj (282mw),Sembcorp NWPC Ltd. - Sirajgonj (282MW),ipp,FY2024-25,2829495128.0,18926070643.0,Y,BPDB 2024-25.pdf
+sembcrop energy india ltd 250mw,Sembcrop Energy India Ltd. 250MW,india,FY2019-20,1360269293.0,9008773219.0,,BPDB 2020-21.pdf
+sembcrop energy india ltd 250mw,Sembcrop Energy India Ltd. 250MW,india,FY2020-21,1784173570.0,11905260924.0,Y,BPDB 2020-21.pdf
+sembcrop energy india ltd 250mw,Sembcrop Energy India Ltd. 250MW,india,FY2021-22,1906341720.0,13839173137.0,,BPDB 2022-23.pdf
+sembcrop energy india ltd 250mw,Sembcrop Energy India Ltd. 250MW,india,FY2022-23,1839003978.0,18294412374.0,Y,BPDB 2022-23.pdf
+sembcrop energy india ltd 250mw,Sembcrop Energy India Ltd. 250MW,india,FY2023-24,1845078661.0,19237734105.0,Y,BPDC 2023-24.pdf
+sembcrop energy india ltd 250mw,Sembcrop Energy India Ltd. 250MW,india,FY2024-25,1915627803.0,19575621812.0,Y,BPDB 2024-25.pdf
+sfl unique meghnaghat power plc,SFL Unique Meghnaghat Power Plc,ipp,FY2022-23,0.0,0.0,,BPDC 2023-24.pdf
+sfl unique meghnaghat power plc,SFL Unique Meghnaghat Power Plc,ipp,FY2023-24,759318517.0,7879578175.0,Y,BPDC 2023-24.pdf
+sfl unique meghnaghat power plc,SFL Unique Meghnaghat Power Plc,ipp,FY2024-25,925653846.0,15600029978.0,Y,BPDB 2024-25.pdf
+shahjanullah power generation co. ltd,Shahjanullah Power Generation Co. Ltd.,ipp,FY2019-20,133358044.0,460363566.0,,BPDB 2020-21.pdf
+shahjanullah power generation co. ltd,Shahjanullah Power Generation Co. Ltd.,ipp,FY2020-21,102686146.0,354266198.0,Y,BPDB 2020-21.pdf
+shahjanullah power generation co. ltd,Shahjanullah Power Generation Co. Ltd.,ipp,FY2021-22,119664201.0,413061164.0,,BPDB 2022-23.pdf
+shahjanullah power generation co. ltd,Shahjanullah Power Generation Co. Ltd.,ipp,FY2022-23,70061323.0,238069873.0,Y,BPDB 2022-23.pdf
+shahjanullah power generation co. ltd,Shahjanullah Power Generation Co. Ltd.,ipp,FY2023-24,109628573.0,403831171.0,Y,BPDC 2023-24.pdf
+shahjanullah power generation co. ltd,Shahjanullah Power Generation Co. Ltd.,ipp,FY2024-25,89833277.0,896423140.0,Y,BPDB 2024-25.pdf
+shahjibazar power co. ltd,SHAHJIBAZAR POWER CO. LTD.,rental,FY2019-20,440516616.0,1792127676.0,,BPDB 2020-21.pdf
+shahjibazar power co. ltd,SHAHJIBAZAR POWER CO. LTD.,rental,FY2020-21,605484672.0,2039822897.0,Y,BPDB 2020-21.pdf
+shahjibazar power co. ltd,Shahjibazar Power Co. Ltd.,rental,FY2021-22,619933776.0,2194442394.0,,BPDB 2022-23.pdf
+shahjibazar power co. ltd,Shahjibazar Power Co. Ltd.,rental,FY2022-23,477095952.0,2768043336.0,Y,BPDB 2022-23.pdf
+shahjibazar power co. ltd,Shahjibazar Power Co. Ltd.,rental,FY2023-24,279753240.0,2335810498.0,Y,BPDC 2023-24.pdf
+shahjibazar power co. ltd,Shahjibazar Power Co. Ltd.,rental,FY2024-25,709264624.0,3772044043.0,Y,BPDB 2024-25.pdf
+sinha people energy ltd,Sinha People Energy Ltd.,ipp,FY2019-20,87773136.0,1327329508.0,,BPDB 2020-21.pdf
+sinha people energy ltd,Sinha People Energy Ltd.,ipp,FY2020-21,21026448.0,812740081.0,Y,BPDB 2020-21.pdf
+sinha people energy ltd,Sinha People Energy Ltd.,ipp,FY2021-22,25438560.0,497991030.0,,BPDB 2022-23.pdf
+sinha people energy ltd,Sinha People Energy Ltd.,ipp,FY2022-23,0.0,0.0,Y,BPDB 2022-23.pdf
+sirajgonj (unit - 2),Sirajgonj (Unit - 2),public,FY2019-20,659693652.0,4066747219.0,,BPDB 2020-21.pdf
+sirajgonj (unit - 2),Sirajgonj (Unit - 2),public,FY2020-21,1135656573.0,4351973695.0,Y,BPDB 2020-21.pdf
+sirajgonj (unit - 3),Sirajgonj (Unit - 3),public,FY2019-20,1246030415.0,4356240963.0,,BPDB 2020-21.pdf
+sirajgonj (unit - 3),Sirajgonj (Unit - 3),public,FY2020-21,1447005461.0,4890841676.0,Y,BPDB 2020-21.pdf
+spectra solar park,Spectra Solar Park,ipp,FY2021-22,52473009.0,627377593.0,,BPDB 2022-23.pdf
+spectra solar park,Spectra Solar Park,ipp,FY2022-23,63580595.0,924032564.0,Y,BPDB 2022-23.pdf
+spectra solar park,Spectra Solar Park,ipp,FY2023-24,60371506.0,934734068.0,Y,BPDC 2023-24.pdf
+spectra solar park,Spectra Solar Park,ipp,FY2024-25,60581821.0,1016928473.0,Y,BPDB 2024-25.pdf
+ss power i ltd,SS Power I Limited,ipp,FY2022-23,0.0,0.0,,BPDC 2023-24.pdf
+ss power i ltd,SS Power I Limited,ipp,FY2023-24,2402946654.0,49089448183.0,Y,BPDC 2023-24.pdf
+ss power i ltd,SS Power I Limited,ipp,FY2024-25,6346540145.0,92391472288.0,Y,BPDB 2024-25.pdf
+summit barishal power ltd,Summit Barishal Power Ltd.,ipp,FY2019-20,191397120.0,2791433109.0,,BPDB 2020-21.pdf
+summit barishal power ltd,Summit Barishal Power Ltd.,ipp,FY2020-21,218608608.0,3167467899.0,Y,BPDB 2020-21.pdf
+summit barishal power ltd,Summit Barishal Power Ltd.,ipp,FY2021-22,62791776.0,2313583188.0,,BPDB 2022-23.pdf
+summit barishal power ltd,Summit Barishal Power Ltd.,ipp,FY2022-23,114976896.0,3712705174.0,Y,BPDB 2022-23.pdf
+summit barishal power ltd,Summit Barishal Power Ltd.,ipp,FY2023-24,148898304.0,4664967072.0,Y,BPDC 2023-24.pdf
+summit barishal power ltd,Summit Barishal Power Ltd.,ipp,FY2024-25,87923232.0,3769013441.0,Y,BPDB 2024-25.pdf
+summit bibiyana ii power company ltd,Summit Bibiyana II Power Company Ltd.,ipp,FY2019-20,2533405256.0,6195036994.0,,BPDB 2020-21.pdf
+summit bibiyana ii power company ltd,Summit Bibiyana II Power Company Ltd.,ipp,FY2020-21,2455887148.0,6030061928.0,Y,BPDB 2020-21.pdf
+summit bibiyana ii power company ltd,Summit Bibiyana II Power Company Ltd.,ipp,FY2021-22,2310625924.0,5996723144.0,,BPDB 2022-23.pdf
+summit bibiyana ii power company ltd,Summit Bibiyana II Power Company Ltd.,ipp,FY2022-23,2164952204.0,8769679402.0,Y,BPDB 2022-23.pdf
+summit bibiyana ii power company ltd,Summit Bibiyana II Power Company Ltd.,ipp,FY2023-24,2429621804.0,12618603167.0,Y,BPDC 2023-24.pdf
+summit bibiyana ii power company ltd,Summit Bibiyana II Power Company Ltd.,ipp,FY2024-25,2371373068.0,13703888304.0,Y,BPDB 2024-25.pdf
+summit gazipur ii power ltd - kodda (300mw),Summit Gazipur II Power Ltd. - Kodda (300MW),ipp,FY2019-20,365298295.0,5888119002.0,,BPDB 2020-21.pdf
+summit gazipur ii power ltd - kodda (300mw),Summit Gazipur II Power Ltd. - Kodda (300MW),ipp,FY2020-21,1280252848.0,13968072079.0,Y,BPDB 2020-21.pdf
+summit gazipur ii power ltd - kodda (300mw),Summit Gazipur II Power Ltd. - Kodda (300MW),ipp,FY2021-22,1421077329.0,24417833567.0,,BPDB 2022-23.pdf
+summit gazipur ii power ltd - kodda (300mw),Summit Gazipur II Power Ltd. - Kodda (300MW),ipp,FY2022-23,1137133799.0,23076784882.0,Y,BPDB 2022-23.pdf
+summit gazipur ii power ltd - kodda (300mw),Summit Gazipur II Power Ltd. - Kodda (300MW),ipp,FY2023-24,539129619.0,15239905376.0,Y,BPDC 2023-24.pdf
+summit gazipur ii power ltd - kodda (300mw),Summit Gazipur II Power Ltd. - Kodda (300MW),ipp,FY2024-25,495918306.0,15346349837.0,Y,BPDB 2024-25.pdf
+summit meghnaghat ii power company ltd,Summit Meghnaghat II Power Company Limited,ipp,FY2022-23,0.0,0.0,,BPDC 2023-24.pdf
+summit meghnaghat ii power company ltd,Summit Meghnaghat II Power Company Limited,ipp,FY2023-24,654162225.0,4307421035.0,Y,BPDC 2023-24.pdf
+summit meghnaghat ii power company ltd,Summit Meghnaghat II Power Company Limited,ipp,FY2024-25,1070153356.0,15177921528.0,Y,BPDB 2024-25.pdf
+summit meghnaghat power ltd,Summit Meghnaghat Power Ltd.,ipp,FY2019-20,1232984954.0,6261944337.0,,BPDB 2020-21.pdf
+summit meghnaghat power ltd,Summit Meghnaghat Power Ltd.,ipp,FY2020-21,1559093909.0,6547648630.0,Y,BPDB 2020-21.pdf
+summit meghnaghat power ltd,Summit Meghnaghat Power Ltd.,ipp,FY2021-22,1524542505.0,6428574957.0,,BPDB 2022-23.pdf
+summit meghnaghat power ltd,Summit Meghnaghat Power Ltd.,ipp,FY2022-23,1177688704.0,10009832413.0,Y,BPDB 2022-23.pdf
+summit meghnaghat power ltd,Summit Meghnaghat Power Ltd.,ipp,FY2023-24,1121910644.0,10523927364.0,Y,BPDC 2023-24.pdf
+summit meghnaghat power ltd,Summit Meghnaghat Power Ltd.,ipp,FY2024-25,1321276199.0,11784870095.0,Y,BPDB 2024-25.pdf
+summit narayangonj power ltd,SUMMIT NARAYANGONJ POWER LTD.,rental,FY2019-20,223216584.0,2658477107.0,,BPDB 2020-21.pdf
+summit narayangonj power ltd,SUMMIT NARAYANGONJ POWER LTD.,rental,FY2020-21,353336328.0,3436136533.0,Y,BPDB 2020-21.pdf
+summit narayangonj power ltd,Summit Narayangonj Power Ltd.,rental,FY2021-22,109319891.0,2100228103.0,,BPDB 2022-23.pdf
+summit narayangonj power ltd,Summit Narayangonj Power Ltd.,rental,FY2022-23,161573730.0,3275647932.0,Y,BPDB 2022-23.pdf
+summit narayangonj power ltd,Summit Narayangonj Power Ltd.,rental,FY2023-24,187637517.0,4000311556.0,Y,BPDC 2023-24.pdf
+summit narayangonj power ltd,Summit Narayangonj Power Ltd.,rental,FY2024-25,0.0,0.0,Y,BPDB 2024-25.pdf
+summit narayangonj power unit ii ltd,Summit Narayangonj Power Unit II Ltd.,ipp,FY2019-20,96817909.0,1397885741.0,,BPDB 2020-21.pdf
+summit narayangonj power unit ii ltd,Summit Narayangonj Power Unit II Ltd.,ipp,FY2020-21,259501715.0,2969690929.0,Y,BPDB 2020-21.pdf
+summit narayangonj power unit ii ltd,Summit Narayangonj Power Unit II Ltd.,ipp,FY2021-22,288604038.0,4990935236.0,,BPDB 2022-23.pdf
+summit narayangonj power unit ii ltd,Summit Narayangonj Power Unit II Ltd.,ipp,FY2022-23,250675040.0,4935475646.0,Y,BPDB 2022-23.pdf
+summit narayangonj power unit ii ltd,Summit Narayangonj Power Unit II Ltd.,ipp,FY2023-24,144961726.0,3609758884.0,Y,BPDC 2023-24.pdf
+summit narayangonj power unit ii ltd,Summit Narayangonj Power Unit II Ltd.,ipp,FY2024-25,126902069.0,3316490647.0,Y,BPDB 2024-25.pdf
+summit purbachal power ltd-jangalia,Summit Purbachal Power Ltd.-Jangalia,ipp,FY2019-20,208181905.0,732228346.0,,BPDB 2020-21.pdf
+summit purbachal power ltd-jangalia,Summit Purbachal Power Ltd.-Jangalia,ipp,FY2020-21,258257635.0,941362032.0,Y,BPDB 2020-21.pdf
+summit purbachal power ltd-jangalia,Summit Purbachal Power Ltd.-Jangalia,ipp,FY2021-22,232729909.0,945539654.0,,BPDB 2022-23.pdf
+summit purbachal power ltd-jangalia,Summit Purbachal Power Ltd.-Jangalia,ipp,FY2022-23,228536043.0,1149869368.0,Y,BPDB 2022-23.pdf
+summit purbachal power ltd-jangalia,Summit Purbachal Power Ltd.-Jangalia,ipp,FY2023-24,238576793.0,1445834652.0,Y,BPDC 2023-24.pdf
+summit purbachal power ltd-jangalia,Summit Purbachal Power Ltd.-Jangalia,ipp,FY2024-25,0.0,0.0,Y,BPDB 2024-25.pdf
+sympa solar power ltd,Sympa Solar Power Limited,ipp,FY2019-20,11029586.0,121571385.0,,BPDB 2020-21.pdf
+sympa solar power ltd,Sympa Solar Power Limited,ipp,FY2020-21,11268182.0,124366922.0,Y,BPDB 2020-21.pdf
+sympa solar power ltd,Sympa Solar Power Limited,ipp,FY2021-22,11994460.0,135093706.0,,BPDB 2022-23.pdf
+sympa solar power ltd,Sympa Solar Power Limited,ipp,FY2022-23,13315347.0,181349417.0,Y,BPDB 2022-23.pdf
+sympa solar power ltd,Sympa Solar Power Limited,ipp,FY2023-24,12536809.0,181582464.0,Y,BPDC 2023-24.pdf
+sympa solar power ltd,Sympa Solar Power Limited,ipp,FY2024-25,12685966.0,199718143.0,Y,BPDB 2024-25.pdf
+tangail palli power generation ltd (22mw),Tangail Palli Power Generation Ltd. (22MW),ipp,FY2021-22,149421480.0,2365086053.0,,BPDB 2022-23.pdf
+tangail palli power generation ltd (22mw),Tangail Palli Power Generation Ltd. (22MW),ipp,FY2022-23,95057230.0,1826227900.0,Y,BPDB 2022-23.pdf
+tangail palli power generation ltd (22mw),Tangail Palli Power Generation Ltd. (22MW),ipp,FY2023-24,58087039.0,1378954156.0,Y,BPDC 2023-24.pdf
+tangail palli power generation ltd (22mw),Tangail Palli Power Generation Ltd. (22MW),ipp,FY2024-25,70665852.0,1740368224.0,Y,BPDB 2024-25.pdf
+technaf solartech energy ltd (20mw),Technaf Solartech Energy Ltd. (20MW),ipp,FY2019-20,36027726.0,423055479.0,,BPDB 2020-21.pdf
+technaf solartech energy ltd (20mw),Technaf Solartech Energy Ltd. (20MW),ipp,FY2020-21,33438191.0,394598682.0,Y,BPDB 2020-21.pdf
+technaf solartech energy ltd (20mw),Technaf Solartech Energy Ltd. (20MW),ipp,FY2021-22,37555078.0,452146681.0,,BPDB 2022-23.pdf
+technaf solartech energy ltd (20mw),Technaf Solartech Energy Ltd. (20MW),ipp,FY2022-23,39239868.0,571767753.0,Y,BPDB 2022-23.pdf
+technaf solartech energy ltd (20mw),Technaf Solartech Energy Ltd. (20MW),ipp,FY2023-24,37231505.0,577125604.0,Y,BPDC 2023-24.pdf
+technaf solartech energy ltd (20mw),Technaf Solartech Energy Ltd. (20MW),ipp,FY2024-25,35974312.0,606530853.0,Y,BPDB 2024-25.pdf
+teesta solar ltd (200mw),Teesta Solar Ltd. (200MW),ipp,FY2022-23,167113644.0,2696250285.0,,BPDC 2023-24.pdf
+teesta solar ltd (200mw),Teesta Solar Ltd. (200MW),ipp,FY2023-24,351824453.0,5878785933.0,Y,BPDC 2023-24.pdf
+teesta solar ltd (200mw),Teesta Solar Ltd. (200MW),ipp,FY2024-25,352679854.0,6401698727.0,Y,BPDB 2024-25.pdf
+total import,Total Import,india,FY2019-20,6689207555.0,40171296679.0,,BPDB 2020-21.pdf
+total import,Total Import,india,FY2020-21,8128888573.0,47129144480.0,Y,BPDB 2020-21.pdf
+total import,Total Import,india,FY2021-22,7644355365.0,46732066500.0,,BPDB 2022-23.pdf
+total import,Total Import,india,FY2022-23,10515468206.0,92234115635.0,Y,BPDB 2022-23.pdf
+total public co. (code no. 616),Total Public Co. (Code No. 616),public,FY2019-20,17265860037.0,66716719282.0,,BPDB 2020-21.pdf
+total public co. (code no. 616),Total Public Co. (Code No. 616),public,FY2020-21,16106312544.0,69170328105.0,Y,BPDB 2020-21.pdf
+united - anawara (300mw),United - Anawara (300MW),ipp,FY2019-20,810582644.0,10113893939.0,,BPDB 2020-21.pdf
+united - anawara (300mw),United - Anawara (300MW),ipp,FY2020-21,1195998078.0,13588011751.0,Y,BPDB 2020-21.pdf
+united - anawara (300mw),United - Anawara (300MW),ipp,FY2021-22,1677406561.0,27943395632.0,,BPDB 2022-23.pdf
+united - anawara (300mw),United - Anawara (300MW),ipp,FY2022-23,1016880349.0,20242078979.0,Y,BPDB 2022-23.pdf
+united - anawara (300mw),United - Anawara (300MW),ipp,FY2023-24,503704266.0,13886459057.0,Y,BPDC 2023-24.pdf
+united - anawara (300mw),United - Anawara (300MW),ipp,FY2024-25,210585742.0,9694423347.0,Y,BPDB 2024-25.pdf
+united ashugang energy ltd,United Ashugang Energy Ltd.,ipp,FY2019-20,342066540.0,3482085887.0,,BPDB 2020-21.pdf
+united ashugang energy ltd,United Ashugang Energy Ltd.,ipp,FY2020-21,145638508.0,3206663461.0,Y,BPDB 2020-21.pdf
+united ashugang energy ltd,United Ashugang Energy Ltd.,ipp,FY2021-22,259236429.0,2895092642.0,,BPDB 2022-23.pdf
+united ashugang energy ltd,United Ashugang Energy Ltd.,ipp,FY2022-23,357464994.0,4532341541.0,Y,BPDB 2022-23.pdf
+united ashugang energy ltd,United Ashugang Energy Ltd.,ipp,FY2023-24,231047122.0,4680811174.0,Y,BPDC 2023-24.pdf
+united ashugang energy ltd,United Ashugang Energy Ltd.,ipp,FY2024-25,847620418.0,7716563862.0,Y,BPDB 2024-25.pdf
+united jamalpur 200mw,United Jamalpur 200MW,ipp,FY2019-20,435503268.0,5345969591.0,,BPDB 2020-21.pdf
+united jamalpur 200mw,United Jamalpur 200MW,ipp,FY2020-21,538471740.0,6669811635.0,Y,BPDB 2020-21.pdf
+united jamalpur 200mw,United Jamalpur 200MW,ipp,FY2021-22,627954216.0,10830596553.0,,BPDB 2022-23.pdf
+united jamalpur 200mw,United Jamalpur 200MW,ipp,FY2022-23,505753332.0,10034699996.0,Y,BPDB 2022-23.pdf
+united jamalpur 200mw,United Jamalpur 200MW,ipp,FY2023-24,343669680.0,8387156735.0,Y,BPDC 2023-24.pdf
+united jamalpur 200mw,United Jamalpur 200MW,ipp,FY2024-25,458543388.0,11013676146.0,Y,BPDB 2024-25.pdf
+united mymensingh power ltd (200mw),United Mymensingh Power Ltd. (200MW),ipp,FY2019-20,507801840.0,6075281810.0,,BPDB 2020-21.pdf
+united mymensingh power ltd (200mw),United Mymensingh Power Ltd. (200MW),ipp,FY2020-21,1019821200.0,11669327634.0,Y,BPDB 2020-21.pdf
+united mymensingh power ltd (200mw),United Mymensingh Power Ltd. (200MW),ipp,FY2021-22,1052002800.0,17447304343.0,,BPDB 2022-23.pdf
+united mymensingh power ltd (200mw),United Mymensingh Power Ltd. (200MW),ipp,FY2022-23,661459680.0,13813967008.0,Y,BPDB 2022-23.pdf
+united mymensingh power ltd (200mw),United Mymensingh Power Ltd. (200MW),ipp,FY2023-24,449295840.0,10951695534.0,Y,BPDC 2023-24.pdf
+united mymensingh power ltd (200mw),United Mymensingh Power Ltd. (200MW),ipp,FY2024-25,738108480.0,18416575451.0,Y,BPDB 2024-25.pdf
+united payra (150mw),United Payra (150MW),ipp,FY2021-22,76919436.0,2502197530.0,,BPDB 2022-23.pdf
+united payra (150mw),United Payra (150MW),ipp,FY2022-23,132521484.0,4652276044.0,Y,BPDB 2022-23.pdf
+united payra (150mw),United Payra (150MW),ipp,FY2023-24,142475832.0,4807878001.0,Y,BPDC 2023-24.pdf
+united payra (150mw),United Payra (150MW),ipp,FY2024-25,148774812.0,5018791789.0,Y,BPDB 2024-25.pdf
+united power generation & distribution,United Power Generation & Distribution,ipp,FY2019-20,220248960.0,733501951.0,,BPDB 2020-21.pdf
+united power generation & distribution,United Power Generation & Distribution,ipp,FY2020-21,205400640.0,671909952.0,Y,BPDB 2020-21.pdf
+united power generation & distribution,United Power Generation & Distribution,ipp,FY2021-22,193143360.0,642881762.0,,BPDB 2022-23.pdf
+united power generation & distribution,United Power Generation & Distribution,ipp,FY2022-23,156985440.0,456618481.0,Y,BPDB 2022-23.pdf
+united power generation & distribution,United Power Generation & Distribution,ipp,FY2023-24,172986000.0,607328738.0,Y,BPDC 2023-24.pdf
+united power generation & distribution,United Power Generation & Distribution,ipp,FY2024-25,184236960.0,1635276165.0,Y,BPDB 2024-25.pdf
+us-dk green energy (bd) ltd (60 mw),US-DK Green Energy (BD) Ltd. (60 MW),ipp,FY2022-23,0.0,0.0,,BPDC 2023-24.pdf
+us-dk green energy (bd) ltd (60 mw),US-DK Green Energy (BD) Ltd. (60 MW),ipp,FY2023-24,33568891.0,462373641.0,Y,BPDC 2023-24.pdf
+us-dk green energy (bd) ltd (60 mw),US-DK Green Energy (BD) Ltd. (60 MW),ipp,FY2024-25,98505557.0,1428661089.0,Y,BPDB 2024-25.pdf
+"venture energy, bhola","VENTURE ENERGY, BHOLA",rental,FY2019-20,172416822.0,684018417.0,,BPDB 2020-21.pdf
+"venture energy, bhola","VENTURE ENERGY, BHOLA",rental,FY2020-21,199537974.0,796370803.0,Y,BPDB 2020-21.pdf
+"venture energy, bhola","Venture Energy, Bhola",rental,FY2021-22,189564498.0,672491504.0,,BPDB 2022-23.pdf
+"venture energy, bhola","Venture Energy, Bhola",rental,FY2022-23,179066743.0,1107705570.0,Y,BPDB 2022-23.pdf
+"venture energy, bhola","Venture Energy, Bhola",rental,FY2023-24,122422442.0,915157765.0,Y,BPDC 2023-24.pdf
+"venture energy, bhola","Venture Energy, Bhola",rental,FY2024-25,58391534.0,391812274.0,Y,BPDB 2024-25.pdf
+zodiac power ctg. ltd,Zodiac Power Ctg. Ltd.,ipp,FY2019-20,36177063.0,922527587.0,,BPDB 2020-21.pdf
+zodiac power ctg. ltd,Zodiac Power Ctg. Ltd.,ipp,FY2020-21,276762524.0,3085394329.0,Y,BPDB 2020-21.pdf
+zodiac power ctg. ltd,Zodiac Power Ctg. Ltd.,ipp,FY2021-22,320369811.0,5029347420.0,,BPDB 2022-23.pdf
+zodiac power ctg. ltd,Zodiac Power Ctg. Ltd.,ipp,FY2022-23,240836106.0,4598778854.0,Y,BPDB 2022-23.pdf
+zodiac power ctg. ltd,Zodiac Power Ctg. Ltd.,ipp,FY2023-24,114576648.0,3112034306.0,Y,BPDC 2023-24.pdf
+zodiac power ctg. ltd,Zodiac Power Ctg. Ltd.,ipp,FY2024-25,79886598.0,2662699646.0,Y,BPDB 2024-25.pdf

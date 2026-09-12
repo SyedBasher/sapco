@@ -1,0 +1,5 @@
+data/raw/*.pdf
+__pycache__/
+*.pyc
+data/interim/
+.DS_Store

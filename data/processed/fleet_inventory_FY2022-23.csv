@@ -1,0 +1,139 @@
+fy,plant_name,sector,zone,fuel,fuel_raw,capacity_mw,generation_gwh,plant_factor,remark,retired,source_doc
+FY2022-23,Ghorasal Repowered CCPP Unit-3 (GT),PUBLIC,DHAKA ZONE,gas,Gas,260.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Ghorasal Repowered CCPP Unit-4,PUBLIC,DHAKA ZONE,gas,Gas,210.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Ghorasal TPP Unit-5,PUBLIC,DHAKA ZONE,gas,Gas,210.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Ghorasal 365 MW CCPP Unit-7,PUBLIC,DHAKA ZONE,gas,Gas,365.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Tongi 80 MW GTPP,PUBLIC,DHAKA ZONE,gas,Gas,105.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Haripur GTPP,PUBLIC,DHAKA ZONE,gas,Gas,32.0,,,,,BPDB 2022-23.pdf
+FY2022-23,210 MW Shiddirganj TPP,PUBLIC,DHAKA ZONE,gas,Gas,210.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Siddhirganj 2x120 MW GTPP,PUBLIC,DHAKA ZONE,gas,Gas,210.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Haripur 412 MW CCPP,PUBLIC,DHAKA ZONE,gas,Gas,412.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Siddhirganj 335 MW CCPP,PUBLIC,DHAKA ZONE,gas,Gas,335.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Gazipur 52 MW PP,PUBLIC,DHAKA ZONE,hfo,F.oil,52.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Gazipur 100 MW PP,PUBLIC,DHAKA ZONE,hfo,F.oil,105.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Kodda 150 MW PP,PUBLIC,DHAKA ZONE,hfo,F.oil,149.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Karnafuli Hydro,PUBLIC,CHATTOGRAM ZONE,hydro,Hydro,230.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Rauzan 210 MW /ST (1st),PUBLIC,CHATTOGRAM ZONE,gas,Gas,210.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Rauzan 210 MW /ST (2nd),PUBLIC,CHATTOGRAM ZONE,gas,Gas,210.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Hathazari 100 MW Peaking PP,PUBLIC,CHATTOGRAM ZONE,hfo,F.oil,98.0,,,,,BPDB 2022-23.pdf
+FY2022-23,"Sangu, Dohazari-kaliaish 100 MW PPP",PUBLIC,CHATTOGRAM ZONE,hfo,F.oil,102.0,,,,,BPDB 2022-23.pdf
+FY2022-23,RPCL Raozan 25 MW,PUBLIC,CHATTOGRAM ZONE,hfo,F.oil,25.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Kaptai Solar,PUBLIC,CHATTOGRAM ZONE,solar,Solar,7.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Ashuganj 50 MW PP,PUBLIC,CUMILLA ZONE,gas,Gas,53.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Ashuganj 225 MW CCPP,PUBLIC,CUMILLA ZONE,gas,Gas,221.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Ashuganj 450 MW CCPP (South),PUBLIC,CUMILLA ZONE,gas,Gas,360.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Ashuganj 450 MW CCPP (North),PUBLIC,CUMILLA ZONE,gas,Gas,360.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Ashuganj 450 MW CCPP (East),PUBLIC,CUMILLA ZONE,gas,Gas,400.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Chandpur 150 MW CCPP,PUBLIC,CUMILLA ZONE,gas,Gas,163.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Titas 50 MW Peaking PP,PUBLIC,CUMILLA ZONE,hfo,F.oil,52.0,,,,,BPDB 2022-23.pdf
+FY2022-23,"Shahjibazar 70 MW GT, Habiganj",PUBLIC,SYLHET ZONE,gas,Gas,70.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Shahjibazar 330 MW CCPP,PUBLIC,SYLHET ZONE,gas,Gas,330.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Fenchuganj C.C. (Unit #1),PUBLIC,SYLHET ZONE,gas,Gas,97.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Fenchuganj C.C. (Unit #2),PUBLIC,SYLHET ZONE,gas,Gas,104.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Sylhet 1x20 MW /GT,PUBLIC,SYLHET ZONE,gas,Gas,20.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Sylhet 225 MW CCPP,PUBLIC,SYLHET ZONE,gas,Gas,231.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Bibiana III 400 MW CCPP,PUBLIC,SYLHET ZONE,gas,Gas,400.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Shahazibazar 100 MW GT,PUBLIC,SYLHET ZONE,gas,Gas,100.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Bibiyana - South 383 MW CCPP,PUBLIC,SYLHET ZONE,gas,Gas,383.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Bheramara 3x20 MW /GT,PUBLIC,KHULNA ZONE,hsd,HSD,20.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Khulna 330,PUBLIC,KHULNA ZONE,hsd,HSD,220.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Faridpur 50 MW Peaking PP,PUBLIC,KHULNA ZONE,hfo,F.oil,54.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Gopalganj 100 MW Peaking PP,PUBLIC,KHULNA ZONE,hfo,F.oil,109.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Bheramara 360 MW CCPP (NWPGCL),PUBLIC,KHULNA ZONE,gas,Gas,410.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Khulna 225 MW (NWPGCL),PUBLIC,KHULNA ZONE,gas,Gas,230.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Modhumoti 105 MW NWPGCL,PUBLIC,KHULNA ZONE,hfo,F.oil,105.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Bhola 225 MW CCPP,PUBLIC,BARISHAL ZONE,gas,Gas,194.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Baghabari 71 MW /GT,PUBLIC,RAJSHAHI ZONE,gas,Gas,71.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Baghabari 100 MW /GT,PUBLIC,RAJSHAHI ZONE,gas,Gas,100.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Baghabari 50 MW Peaking RE,PUBLIC,RAJSHAHI ZONE,hfo,F.oil,52.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Bera 70 MW Peaking RE,PUBLIC,RAJSHAHI ZONE,hfo,F.oil,71.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Santahar 50 MW PP,PUBLIC,RAJSHAHI ZONE,hfo,F.oil,50.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Katakhali 50 MW PP,PUBLIC,RAJSHAHI ZONE,hfo,F.oil,50.0,,,,,BPDB 2022-23.pdf
+FY2022-23,"Chapainobabgonj Peaking Power Station 100 MW, Amnura",PUBLIC,RAJSHAHI ZONE,hfo,F.oil,104.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Sirajgonj 7.6 MW Solar Power Plant,PUBLIC,RAJSHAHI ZONE,solar,Solar,6.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Saidpur 20 MW /GT,PUBLIC,RANGPUR ZONE,hsd,HSD,20.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Rangpur 20 MW /GT,PUBLIC,RANGPUR ZONE,hsd,HSD,20.0,,,,,BPDB 2022-23.pdf
+FY2022-23,"Payra, Potuakhali 2x660 MW PP Phase 1",JOINT VENTURE,RANGPUR ZONE,coal_imported,Imported Coal,1244.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Maitree Super Thermal Coal Fired Power Plant (BIFPCL),JOINT VENTURE,RANGPUR ZONE,coal_imported,Imported Coal,617.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Midland Power Co. Ashuganj 51 MW,IPP,RANGPUR ZONE,gas,GAS,51.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Rural Power Company Ltd.(RPCL),IPP,RANGPUR ZONE,gas,GAS,210.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Haripur Power Ltd.,IPP,RANGPUR ZONE,gas,GAS,360.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Meghnaghat Power Ltd.,IPP,RANGPUR ZONE,gas,GAS,450.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Regent Energy & Power Ltd 108 MW,IPP,RANGPUR ZONE,gas,GAS,108.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Ashuganj United Power Co. Ltd.195 MW,IPP,RANGPUR ZONE,gas,GAS,195.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Summit Bibiyana - II Power Co Ltd. 341 MW,IPP,RANGPUR ZONE,gas,GAS,341.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Kushiara power Co. Ltd (163MW)CCPP Fenchuganj,IPP,RANGPUR ZONE,gas,GAS,163.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Sembcorp NWPGCL,IPP,RANGPUR ZONE,gas,GAS,414.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Summit Meghnaghat Power Co.Ltd.,IPP,RANGPUR ZONE,gas,GAS,335.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Nutan Biddyut 220MW Bhola,IPP,RANGPUR ZONE,gas,GAS,220.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Raj Lanka Power Gen.Com. Ltd.Nator 52 MW,IPP,RANGPUR ZONE,hfo,F.Oil,52.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Digital Power & Associates Gagnagar,IPP,RANGPUR ZONE,hfo,F.Oil,102.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Baraka Patenga,IPP,RANGPUR ZONE,hfo,F.Oil,50.0,,,,,BPDB 2022-23.pdf
+FY2022-23,ECPV Chattogram Limited 108 MW,IPP,RANGPUR ZONE,hfo,F.Oil,108.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Lakdhanvi lanka- Bangla Jangalia Cumilla 52MW,IPP,RANGPUR ZONE,hfo,F.Oil,52.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Sinha Peoples Energy Ltd.Katpatti 52.5 MW Exp,IPP,RANGPUR ZONE,hfo,F.Oil,51.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Summit Barishal (110 MW),IPP,RANGPUR ZONE,hfo,F.Oil,110.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Summit Narayangonj Power unit-2 Madangonj,IPP,RANGPUR ZONE,hfo,F.Oil,55.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Dhaka(Doreen) Northern Power Ltd. Manikgonj,IPP,RANGPUR ZONE,hfo,F.Oil,55.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Dhaka(Doreen) Southern Power Ltd. Nobabgonj,IPP,RANGPUR ZONE,hfo,F.Oil,55.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Powerpac Mutiara Jamalpur Power plant Ltd,IPP,RANGPUR ZONE,hfo,F.Oil,95.0,,,,,BPDB 2022-23.pdf
+FY2022-23,CLC Power Co. Ltd. 108 MW Bosila Keranigonj,IPP,RANGPUR ZONE,hfo,F.Oil,108.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Kamalaghat Banco Energy Generation,IPP,RANGPUR ZONE,hfo,F.Oil,54.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Kodda Gazipur 300MW Power Ltd. (unit-2 Summit),IPP,RANGPUR ZONE,hfo,F.Oil,300.0,,,,,BPDB 2022-23.pdf
+FY2022-23,United Mymensing Power (UMPL) 200MW Generation,IPP,RANGPUR ZONE,hfo,F.Oil,200.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Kodda Gazipur 149MW Power Ltd.(unit-1 Summit) ACE Alliance,IPP,RANGPUR ZONE,hfo,F.Oil,149.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Lobonchora Orion Power Rupsha Ltd. 105 MW,IPP,RANGPUR ZONE,hfo,F.Oil,105.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Desh Energy Chandpur 200 MW,IPP,RANGPUR ZONE,hfo,F.Oil,200.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Juldha Acorn 100 MW Unit-3,IPP,RANGPUR ZONE,hfo,F.Oil,100.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Ashugonj 150 MW (Midland East),IPP,RANGPUR ZONE,hfo,F.Oil,150.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Chandpur Power Generation Lid. 115MW,IPP,RANGPUR ZONE,hfo,F.Oil,115.0,,,,,BPDB 2022-23.pdf
+FY2022-23,United Jamalpur PPL,IPP,RANGPUR ZONE,hfo,F.Oil,115.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Confidence CPBL- 2 Bogura,IPP,RANGPUR ZONE,hfo,F.Oil,113.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Baraka Shikalbaha 105MW PS,IPP,RANGPUR ZONE,hfo,F.Oil,105.0,,,,,BPDB 2022-23.pdf
+FY2022-23,United Anwara 300MW PS,IPP,RANGPUR ZONE,hfo,F.Oil,300.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Confidence Power Ltd. 113MW Rangpur,IPP,RANGPUR ZONE,hfo,F.Oil,113.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Potia Jodiac Power,IPP,RANGPUR ZONE,hfo,F.Oil,54.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Shikolbaha Karnaphuli Power Ltd.,IPP,RANGPUR ZONE,hfo,F.Oil,110.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Feni Lanka (Lakdanavi) Power 114 MW PP,IPP,RANGPUR ZONE,hfo,F.Oil,114.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Bogra 113 MW PP (Confidence) Unit-1,IPP,RANGPUR ZONE,hfo,F.Oil,113.0,,,,,BPDB 2022-23.pdf
+FY2022-23,HF 113 MW Power Limited,IPP,RANGPUR ZONE,hfo,F.Oil,113.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Julda 100 MW Unit - 2 (Acorn ),IPP,RANGPUR ZONE,hfo,F.Oil,100.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Manikganj 162MW P0wer Generation,IPP,RANGPUR ZONE,hfo,F.Oil,162.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Orion Power Sonargaon Ltd.,IPP,RANGPUR ZONE,hfo,F.Oil,104.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Anlima Chattogram 116 MW,IPP,RANGPUR ZONE,hfo,F.Oil,116.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Tangail Polly Power 22 MW TPPGCl,IPP,RANGPUR ZONE,hfo,F.Oil,22.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Bhairab Power 54.5 MW,IPP,RANGPUR ZONE,hfo,F.Oil,54.0,,,,,BPDB 2022-23.pdf
+FY2022-23,United Payra PP Patuakhali Imp,IPP,RANGPUR ZONE,hfo,F.Oil,150.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Kanchan Purbachol 55 MW Power Generation,IPP,RANGPUR ZONE,hfo,F.Oil,55.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Energypac Thakurgaon,IPP,RANGPUR ZONE,hfo,F.Oil,115.0,,,,,BPDB 2022-23.pdf
+FY2022-23,APR Energy 300MW,IPP,RANGPUR ZONE,hsd,HSD,300.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Paramount Baghabari BanglaTrack,IPP,RANGPUR ZONE,hsd,HSD,200.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Sharishabari 3 MW Engreen Solar Power Plant,IPP,RANGPUR ZONE,solar,Solar,3.0,,,,,BPDB 2022-23.pdf
+FY2022-23,20 MW Solar Teknaf,IPP,RANGPUR ZONE,solar,Solar,20.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Sympa Solar Power 8 MW,IPP,RANGPUR ZONE,solar,Solar,8.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Sutiakhali 50 MW HDFC Solar Power Plant,IPP,RANGPUR ZONE,solar,Solar,50.0,,,,,BPDB 2022-23.pdf
+FY2022-23,ERBL Solar 100 MW Mongla,IPP,RANGPUR ZONE,solar,Solar,100.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Manikganj 35MW Spectra Solar Park Ltd.,IPP,RANGPUR ZONE,solar,Solar,35.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Intraco Solar Lalmonoirhat,IPP,RANGPUR ZONE,solar,Solar,30.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Teesta Solar Ltd 200MW,IPP,RANGPUR ZONE,solar,Solar,200.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Barishal Coal,IPP,RANGPUR ZONE,coal_imported,Imported Coal,307.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Bogra RPP (24MW) 15 yrs,IPP,RANGPUR ZONE,gas,GAS,22.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Tangail SIPP (22 MW) (Doreen Power Ltd.),IPP,RANGPUR ZONE,gas,GAS,22.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Feni SIPP (22 MW) (Doreen Power Ltd.),IPP,RANGPUR ZONE,gas,GAS,22.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Jangalia 33 MW (Summit Purbanchol Po. Co. Ltd.),IPP,RANGPUR ZONE,gas,GAS,33.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Ashugonj 55 MW 3Yrs Rental (Precision Energy),IPP,RANGPUR ZONE,gas,GAS,55.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Sahzibazar 86 MW RPP (15 yrs),IPP,RANGPUR ZONE,gas,GAS,86.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Kumargao 10 MW Desh Combridge (15 Yrs),IPP,RANGPUR ZONE,gas,GAS,10.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Fenchugonj 51 MW Rental (15 Yrs) (Barakatullah),IPP,RANGPUR ZONE,gas,GAS,51.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Fenchugonj 50 MW Rental (Energy Prima),IPP,RANGPUR ZONE,gas,GAS,50.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Barabkundu SIPP 22 MW (Regent Power),IPP,RANGPUR ZONE,gas,GAS,22.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Bhola 40 MW (Venture Energy Resources Ltd.),IPP,RANGPUR ZONE,gas,GAS,40.0,,,,,BPDB 2022-23.pdf
+FY2022-23,KPCL( 115 MW) U-2,IPP,RANGPUR ZONE,hfo,F.oil,115.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Khanjahan Ali Noapara 40 MW,IPP,RANGPUR ZONE,hfo,F.oil,40.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Summit Power Co. Ltd Madangonj (100 MW),IPP,RANGPUR ZONE,hfo,F.oil,102.0,,,,,BPDB 2022-23.pdf
+FY2022-23,"IEL, Meghnaghat 100 MW",IPP,RANGPUR ZONE,hfo,F.oil,100.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Shiddirganj Dutchbangla 100 MW,IPP,RANGPUR ZONE,hfo,F.oil,100.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Amnura 50MW Sinha Power,IPP,RANGPUR ZONE,hfo,F.oil,50.0,,,,,BPDB 2022-23.pdf
+FY2022-23,"Power Pac Mutiara,Keranigonj,100MW",IPP,RANGPUR ZONE,hfo,F.oil,100.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Julda Acorn Infra.service Ltd.100MW,IPP,RANGPUR ZONE,hfo,F.oil,100.0,,,,,BPDB 2022-23.pdf
+FY2022-23,Katakhali (Northern) Peaking,IPP,RANGPUR ZONE,hfo,F.oil,50.0,,,,,BPDB 2022-23.pdf

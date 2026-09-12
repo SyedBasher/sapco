@@ -1,0 +1,115 @@
+plant_name_raw|capacity_mw_raw|fuel_raw|owner_raw|commissioning_raw
+Shikalbaha 55 MW Rental Power Plant|55|HFO|Rental (BPDB)|6 May, 2010
+Ashuganj Rental Power Plant|50|Gas|Rental (BPDB)|7 April, 2010
+Thakurgaon, 3 Years Rental Khulna (Sponsor: Aggreko)|55|HFO|Rental (BPDB)|2 August, 2010
+Pagla, Narayaganj (Sponsor: DPAPGL)|55|Gas|Rental (BPDB)|23 August, 2010
+Bheramara 3 Years Rental|50|Diesel|Rental (BPDB)|10 August, 2010
+Ghorashal (Sponsor: Aggreko)|145|Diesel|Rental (BPDB)|24 November, 2010
+Shikalbaha 150 MW|150|HFO|BPDB|18 August, 2010
+Siddhirganj 2x120 MW GT|105|Gas|EGCB|14 October, 2010
+Ashuganj 50 MW Power Plant|53|Gas|APSCL|30 April, 2011
+Baghabari 50 MW Peaking PP|52|HFO|BPDB|29 August, 2011
+Fenchuganj 90 MW CC|104|Gas|BPDB|26 October, 2011
+Bera 70 MW Peaking PP|71|HFO|BPDB|28 October, 2011
+Titas, Doudkandi 50 MW Peaking PP|52|HFO|BPDB|29 October, 2011
+Siddhirganj 2x120 MW Peaking PP|105|Gas|EGCB|December, 2011
+Faridpur 50 MW Peaking PP|54|HFO|BPDB|November, 2011
+Gopalganj 100 MW Peaking PP|109|HFO|BPDB|29 September, 2011
+Sangu, Dohazari 100 MW Peaking PP|102|HFO|BPDB|30 December, 2011
+Hathazari 100 MW Peaking PP|98|HFO|BPDB|23 December, 2011
+Siddhirganj (Sponsor: Desh Energy)|100|Diesel|Rental (BPDB)|17 February, 2011
+B Baria (Sponsor: Aggreko)|70|Gas|Rental (BPDB)|06 March, 2011
+Modanganj (Sponsor: Summit Power)|102|HFO|Rental (BPDB)|01 April, 2011
+Meghnaghat (Sponsor: IEL)|100|HFO|Rental (BPDB)|08 May, 2011
+Ghorashal (Sponsor: Max Power)|78|Gas|Rental (BPDB)|27 May, 2011
+Noapara (Sponsor: Khan Jahan Ali)|40|HFO|Rental (BPDB)|28 May, 2011
+Ashuganj (Sponsor: Aggreko)|80|Gas|Rental (BPDB)|31 May, 2011
+Khulna (Sponsor: KPCL)|115|HFO|Rental (BPDB)|01 June, 2011
+Ashuganj (Sponsor: United Power)|53|Gas|Rental (BPDB)|22 June, 2011
+Siddhirganj (Sponsor: Dutch Bangla Power)|100|HFO|Rental (BPDB)|21 July, 2011
+Noapara, Jashore (5 Years Rental)|105|HFO|Rental (BPDB)|26 August, 2011
+Bogura 3 Years Rental (Sponsor: Energy Prima)|20|Gas|Rental (BPDB)|13 November, 2011
+Julda, Chattogram|50|HFO|Rental (BPDB)|13 January, 2012
+Keraniganj (Power Pack)|44|Gas|Rental (BPDB)|15 February, 2012
+Katakhali, Rajshahi (Sponsor: NPSL)|100|HFO|Rental (BPDB)|26 March, 2012
+Amnura, Chapainawabganj (Sponsor: Sinha Power)|100|HFO|Rental (BPDB)|27 March, 2012
+Fenchuganj 3 Years Rental (Sponsor: Energy Prime Ltd.)|50|HFO|Rental (BPDB)|23 May, 2012
+Sylhet 150 MW Power Plant|150|Gas|BPDB|28 March, 2012
+Gazipur 50 MW PP|52|Gas/HFO|RPCL|July, 2012
+Sirajganj 150 MW GT|150|Gas/HSD|NWPGCL|GT: March, 2012; CC: July 2012
+Santahar 50 MW Peaking Power Plant|50|HFO|BPDB|December, 2012
+Katakhali 50 MW Peaking Power Plant|50|HFO|BPDB|December, 2012
+Chandpur 150 MW CC Power Plant|163|Gas|BPDB|December, 2012
+Raujan 25 MW PP|25|Gas/HFO|RPCL|3 May, 2013
+Khulna 150 MW GT|150|Gas/HSD|NWPGCL|23 September, 2013
+Haripur 360 MW CCPP|412|Gas|EGCB|December, 2013
+Regional Import|500|Import|Import|5 October, 2013
+Ashuganj 51 MW PP|51|Gas|IPP|6 December, 2013
+Shajanullah Power Company|25|Gas|IPP|December, 2013
+Sirajganj 150 MW PP Conversion|68|Gas/HSD|NWPGCL|14 July, 2014
+Natore, Rajshahi 50 MW PP|52|HFO|IPP|UNPARSED
+Baraka-Patenga Chattogram 50 MW PP|50|HFO|IPP|24 January, 2014
+Meghnaghat 300-450 MW CCPP (2nd Unit Dual Fuel: SC GT Unit)|203|HFO/Gas|IPP|03 May, 2014
+Gogonnagar 100 MW PP|102|HFO|IPP|29 May, 2014
+Ghorashal, Narsindi 100 MW PP|108|Gas|IPP|03 June, 2014
+Cumilla (Jangalia) 50 MW PP|52|HFO|IPP|15 July, 2014
+Ashuganj 225 MW CCPP : SC GT Unit|142|Gas|APSCL|27 April, 2015
+Kodda, Gazipur 150 MW Power Plant|149|HFO/Gas|BPDB- RPCL JV|16 August, 2015
+Bhola 225 MW CCPP|194|Gas|BPDB|2 September, 2015
+Ashuganj 225 CCPP: ST Unit|75|Gas|APSCL|10 December, 2015
+Potiya, Chattogram 108 MW Power Plant|108|HFO|IPP|14 January, 2015
+Kathpotti, Munshigonj 50 MW Power Plant|51|HFO|IPP|20 February, 2015
+Ashuganj 195 MW Modular PP|195|Gas|IPP|8 May, 2015
+Meghnaghat 335 MW CCPP (2nd Unit) : ST Unit|102|Gas/HSD|IPP|1 June, 2015
+Bibiyana-(II) 341 MW CCPP (Summit): GT Unit|222|Gas|IPP|6 June, 2015
+Bibiyana-(II) 341 MW CCPP (Summit): ST Unit|119|Gas|IPP|26 December, 2015
+Up gradation of Khulna 150 MW to 225 MW|72|Gas/HSD|NWPGCL|28 June, 2016
+Ashuganj (South) 450 MW CCPP|373|Gas|APSCL|22 July, 2016
+Shahjibazar CCPP|330|Gas|BPDB|GT: 20 August, 2016; ST: 20 December, 2016
+Madangonj 55 MW Peaking Plant (Summit Power)|55|FO|IPP|29 February, 2016
+Barishal 110 MW PP (Summit Power)|110|FO|IPP|5 April, 2016
+Nababganj 55 MW PP|55|FO|IPP|17 Jun, 2016
+Manikganj 55 MW PP|55|FO|IPP|17 August, 2016
+Jamalpur 95 MW PP|95|Gas/FO|IPP|29 November, 2016
+Bheramara 360 MW CCPP|278|Gas/HSD|NWPGCL|GT: 9 May, 2017
+Ashuganj 450 MW CCPP (South)|360|Gas|APSCL|11 June, 2017
+Chapainawabganj 100 MW PP|104|HFO|BPDB|12 August, 2017
+Shikalbaha 225 MW CCPP|225|Gas/HSD|BPDB|8 November, 2017
+Bosila, Keraniganj 108 MW PP|108|HFO|IPP|22 February, 2017
+Kushiara 163 MW CCPP|109|Gas|IPP|25 July, 2017
+Shorishabari Solar plant|3|Solar|IPP|03 August, 2017
+Kamalaghat 50 MW PP|54|HFO|IPP|1 January, 2018
+Noapara 100 MW PP (Bangla Track)|100|HSD|IPP|18 April, 2018
+Kusiara 163 MW CCPP|54|Gas|IPP|27 April, 2018
+DaudKandi 200 MW PP|200|HSD|IPP|27 April, 2018
+Kodda, Gazipur 300 MW PP (Summit)|300|HFO|IPP|10 May, 2018
+Bheramara 360 MW CCPP (ST unit)|132|Gas/HSD|NWPGCL|1 January, 2018
+Barapukuria 275 MW (3rd Unit)|274|Coal|BPDB|1 January, 2018
+Ghorashal 365 MW CCPP|365|Gas|BPDB|05 February, 2018
+Sirajganj 225 MW CCPP (2nd Unit)|220|Gas/HSD|NWPGCL|05 February, 2018
+Siddhirganj 335 MW CCPP|217|Gas|EGCB|GT: 30 April, 2018
+Sirajganj 225 MW CCPP (3rd Unit)|141|Gas/HSD|NWPGCL|GT: 9 August, 2018
+Bramhongaon, Keraniganj 100 MW PP|100|HSD|IPP|30 May, 2018
+Mymensingh 200 MW PP|200|HFO|IPP|16 June, 2018
+Aowrahati, Keranigonj 100 MW (Aggreko)|100|HSD|IPP|29 June, 2018
+Kadda 149 MW PP|149|HFO|IPP|12 July, 2018
+Pangaon, keraniganj 300 MW PP (fast track)|300|HSD|IPP|10 August, 2018
+Power import (2nd HVDC)|500|Import|Import|10 September, 2018
+Teknaf, Coxsbazar 20 MW solar park|20|Solar|IPP|15 September, 2018
+Sirajganj 400±10 MW CCPP|282|Gas/HSD|IPP|GT: 04 October, 2018
+Rupsa, Khulna 105 MW PP|105|HFO|IPP|14 October, 2018
+Chandpur 200 MW PP|200|HFO|IPP|09 November, 2018
+Julda, CTG 100 MW PP (Unit-3)|100|HFO|IPP|09 November, 2018
+Ashuganj 150 MW PP (Midland)|150|HFO|IPP|27 November, 2018
+Baghabari 200 MW PP|200|HSD|IPP|16 February, 2019
+Jamalpur 115 MW Power Plant|115|HFO|IPP|19 February, 2019
+Sirajgonj 225 MW CCPP (3rd Unit) (ST Unit)|79|Gas/HSD|NWPGCL|20 January, 2019
+Bibiana #3 CCPP|400|Gas|BPDB|GT: 06 February, 2019; ST: 24 September, 2019
+Modumoti, Bagerhat 100 MW PP|105|HFO|NWPGCL|15 April, 2019
+Gazipur 100 MW PP|105|HFO|RPCL|25 May, 2019
+Kaptai Solar Power Plant|7|Solar|BPDB|28 May, 2019
+Siddirganj 335 MW CCPP ST Unit|118|Gas|EGCB|ST: 9 September, 2019
+Julda, Chattogram 100 MW PP (Accorn Inf) (Unit-2)|100|HFO|IPP|20 March, 2020
+Meghnaghat 104 MW Power Plant|104|HFO|IPP|30 June, 2020
+Sylhet 150 MW PP Conversion|87|Gas|BPDB|14 March, 2020
+Payra, Potuakhali 1320 Coal Fired Power Plant (1st Unit)|622|Imported Coal|BCPCL (NWPGCL)|15 May, 2020

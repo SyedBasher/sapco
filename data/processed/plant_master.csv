@@ -1,0 +1,115 @@
+plant_id,plant_name,location,capacity_mw,fuel,fuel_raw,ownership_class,owning_entity,sponsor,commissioning_date,date_precision,commissioning_note,source_doc
+bd-shikalbaha-55-mw-rental-power-plant-2010,Shikalbaha 55 MW Rental Power Plant,Shikalbaha,55.0,hfo,HFO,rental,BPDB,,2010-05-06,day,,bpdb_ar2019_20_commissioning
+bd-ashuganj-rental-power-plant-2010,Ashuganj Rental Power Plant,Ashuganj,50.0,gas,Gas,rental,BPDB,,2010-04-07,day,,bpdb_ar2019_20_commissioning
+bd-thakurgaon-3-years-rental-khulna-sponsor-aggreko-2010,"Thakurgaon, 3 Years Rental Khulna (Sponsor: Aggreko)",Thakurgaon,55.0,hfo,HFO,rental,BPDB,Aggreko,2010-08-02,day,,bpdb_ar2019_20_commissioning
+bd-pagla-narayaganj-sponsor-dpapgl-2010,"Pagla, Narayaganj (Sponsor: DPAPGL)",Pagla,55.0,gas,Gas,rental,BPDB,DPAPGL,2010-08-23,day,,bpdb_ar2019_20_commissioning
+bd-bheramara-3-years-rental-2010,Bheramara 3 Years Rental,Bheramara,50.0,hsd,Diesel,rental,BPDB,,2010-08-10,day,,bpdb_ar2019_20_commissioning
+bd-ghorashal-sponsor-aggreko-2010,Ghorashal (Sponsor: Aggreko),Ghorashal,145.0,hsd,Diesel,rental,BPDB,Aggreko,2010-11-24,day,,bpdb_ar2019_20_commissioning
+bd-shikalbaha-150-mw-2010,Shikalbaha 150 MW,Shikalbaha,150.0,hfo,HFO,public,BPDB,,2010-08-18,day,,bpdb_ar2019_20_commissioning
+bd-siddhirganj-2x120-mw-gt-2010,Siddhirganj 2x120 MW GT,Siddhirganj,105.0,gas,Gas,public,EGCB,,2010-10-14,day,,bpdb_ar2019_20_commissioning
+bd-ashuganj-50-mw-power-plant-2011,Ashuganj 50 MW Power Plant,Ashuganj,53.0,gas,Gas,public,APSCL,,2011-04-30,day,,bpdb_ar2019_20_commissioning
+bd-baghabari-50-mw-peaking-pp-2011,Baghabari 50 MW Peaking PP,Baghabari,52.0,hfo,HFO,public,BPDB,,2011-08-29,day,,bpdb_ar2019_20_commissioning
+bd-fenchuganj-90-mw-cc-2011,Fenchuganj 90 MW CC,Fenchuganj,104.0,gas,Gas,public,BPDB,,2011-10-26,day,,bpdb_ar2019_20_commissioning
+bd-bera-70-mw-peaking-pp-2011,Bera 70 MW Peaking PP,Bera,71.0,hfo,HFO,public,BPDB,,2011-10-28,day,,bpdb_ar2019_20_commissioning
+bd-titas-doudkandi-50-mw-peaking-pp-2011,"Titas, Doudkandi 50 MW Peaking PP",Titas,52.0,hfo,HFO,public,BPDB,,2011-10-29,day,,bpdb_ar2019_20_commissioning
+bd-siddhirganj-2x120-mw-peaking-pp-2011,Siddhirganj 2x120 MW Peaking PP,Siddhirganj,105.0,gas,Gas,public,EGCB,,2011-12-01,month,,bpdb_ar2019_20_commissioning
+bd-faridpur-50-mw-peaking-pp-2011,Faridpur 50 MW Peaking PP,Faridpur,54.0,hfo,HFO,public,BPDB,,2011-11-01,month,,bpdb_ar2019_20_commissioning
+bd-gopalganj-100-mw-peaking-pp-2011,Gopalganj 100 MW Peaking PP,Gopalganj,109.0,hfo,HFO,public,BPDB,,2011-09-29,day,,bpdb_ar2019_20_commissioning
+bd-sangu-dohazari-100-mw-peaking-pp-2011,"Sangu, Dohazari 100 MW Peaking PP",Sangu,102.0,hfo,HFO,public,BPDB,,2011-12-30,day,,bpdb_ar2019_20_commissioning
+bd-hathazari-100-mw-peaking-pp-2011,Hathazari 100 MW Peaking PP,Hathazari,98.0,hfo,HFO,public,BPDB,,2011-12-23,day,,bpdb_ar2019_20_commissioning
+bd-siddhirganj-sponsor-desh-energy-2011,Siddhirganj (Sponsor: Desh Energy),Siddhirganj,100.0,hsd,Diesel,rental,BPDB,Desh Energy,2011-02-17,day,,bpdb_ar2019_20_commissioning
+bd-b-baria-sponsor-aggreko-2011,B Baria (Sponsor: Aggreko),B,70.0,gas,Gas,rental,BPDB,Aggreko,2011-03-06,day,,bpdb_ar2019_20_commissioning
+bd-modanganj-sponsor-summit-power-2011,Modanganj (Sponsor: Summit Power),Modanganj,102.0,hfo,HFO,rental,BPDB,Summit Power,2011-04-01,day,,bpdb_ar2019_20_commissioning
+bd-meghnaghat-sponsor-iel-2011,Meghnaghat (Sponsor: IEL),Meghnaghat,100.0,hfo,HFO,rental,BPDB,IEL,2011-05-08,day,,bpdb_ar2019_20_commissioning
+bd-ghorashal-sponsor-max-power-2011,Ghorashal (Sponsor: Max Power),Ghorashal,78.0,gas,Gas,rental,BPDB,Max Power,2011-05-27,day,,bpdb_ar2019_20_commissioning
+bd-noapara-sponsor-khan-jahan-ali-2011,Noapara (Sponsor: Khan Jahan Ali),Noapara,40.0,hfo,HFO,rental,BPDB,Khan Jahan Ali,2011-05-28,day,,bpdb_ar2019_20_commissioning
+bd-ashuganj-sponsor-aggreko-2011,Ashuganj (Sponsor: Aggreko),Ashuganj,80.0,gas,Gas,rental,BPDB,Aggreko,2011-05-31,day,,bpdb_ar2019_20_commissioning
+bd-khulna-sponsor-kpcl-2011,Khulna (Sponsor: KPCL),Khulna,115.0,hfo,HFO,rental,BPDB,KPCL,2011-06-01,day,,bpdb_ar2019_20_commissioning
+bd-ashuganj-sponsor-united-power-2011,Ashuganj (Sponsor: United Power),Ashuganj,53.0,gas,Gas,rental,BPDB,United Power,2011-06-22,day,,bpdb_ar2019_20_commissioning
+bd-siddhirganj-sponsor-dutch-bangla-power-2011,Siddhirganj (Sponsor: Dutch Bangla Power),Siddhirganj,100.0,hfo,HFO,rental,BPDB,Dutch Bangla Power,2011-07-21,day,,bpdb_ar2019_20_commissioning
+bd-noapara-jashore-5-years-rental-2011,"Noapara, Jashore (5 Years Rental)",Noapara,105.0,hfo,HFO,rental,BPDB,,2011-08-26,day,,bpdb_ar2019_20_commissioning
+bd-bogura-3-years-rental-sponsor-energy-prima-2011,Bogura 3 Years Rental (Sponsor: Energy Prima),Bogura,20.0,gas,Gas,rental,BPDB,Energy Prima,2011-11-13,day,,bpdb_ar2019_20_commissioning
+bd-julda-chattogram-2012,"Julda, Chattogram",Julda,50.0,hfo,HFO,rental,BPDB,,2012-01-13,day,,bpdb_ar2019_20_commissioning
+bd-keraniganj-power-pack-2012,Keraniganj (Power Pack),Keraniganj,44.0,gas,Gas,rental,BPDB,Power Pack,2012-02-15,day,,bpdb_ar2019_20_commissioning
+bd-katakhali-rajshahi-sponsor-npsl-2012,"Katakhali, Rajshahi (Sponsor: NPSL)",Katakhali,100.0,hfo,HFO,rental,BPDB,NPSL,2012-03-26,day,,bpdb_ar2019_20_commissioning
+bd-amnura-chapainawabganj-sponsor-sinha-power-2012,"Amnura, Chapainawabganj (Sponsor: Sinha Power)",Amnura,100.0,hfo,HFO,rental,BPDB,Sinha Power,2012-03-27,day,,bpdb_ar2019_20_commissioning
+bd-fenchuganj-3-years-rental-sponsor-energy-prime-l-2012,Fenchuganj 3 Years Rental (Sponsor: Energy Prime Ltd.),Fenchuganj,50.0,hfo,HFO,rental,BPDB,Energy Prime Ltd,2012-05-23,day,,bpdb_ar2019_20_commissioning
+bd-sylhet-150-mw-power-plant-2012,Sylhet 150 MW Power Plant,Sylhet,150.0,gas,Gas,public,BPDB,,2012-03-28,day,,bpdb_ar2019_20_commissioning
+bd-gazipur-50-mw-pp-2012,Gazipur 50 MW PP,Gazipur,52.0,gas_hfo_dual,Gas/HFO,public,RPCL,,2012-07-01,month,,bpdb_ar2019_20_commissioning
+bd-sirajganj-150-mw-gt-2012,Sirajganj 150 MW GT,Sirajganj,150.0,gas_hsd_dual,Gas/HSD,public,NWPGCL,,2012-03-01,month,"GT: March, 2012; CC: July 2012",bpdb_ar2019_20_commissioning
+bd-santahar-50-mw-peaking-power-plant-2012,Santahar 50 MW Peaking Power Plant,Santahar,50.0,hfo,HFO,public,BPDB,,2012-12-01,month,,bpdb_ar2019_20_commissioning
+bd-katakhali-50-mw-peaking-power-plant-2012,Katakhali 50 MW Peaking Power Plant,Katakhali,50.0,hfo,HFO,public,BPDB,,2012-12-01,month,,bpdb_ar2019_20_commissioning
+bd-chandpur-150-mw-cc-power-plant-2012,Chandpur 150 MW CC Power Plant,Chandpur,163.0,gas,Gas,public,BPDB,,2012-12-01,month,,bpdb_ar2019_20_commissioning
+bd-raujan-25-mw-pp-2013,Raujan 25 MW PP,Raujan,25.0,gas_hfo_dual,Gas/HFO,public,RPCL,,2013-05-03,day,,bpdb_ar2019_20_commissioning
+bd-khulna-150-mw-gt-2013,Khulna 150 MW GT,Khulna,150.0,gas_hsd_dual,Gas/HSD,public,NWPGCL,,2013-09-23,day,,bpdb_ar2019_20_commissioning
+bd-haripur-360-mw-ccpp-2013,Haripur 360 MW CCPP,Haripur,412.0,gas,Gas,public,EGCB,,2013-12-01,month,,bpdb_ar2019_20_commissioning
+bd-regional-import-2013,Regional Import,Regional,500.0,import,Import,import,BPDB,,2013-10-05,day,,bpdb_ar2019_20_commissioning
+bd-ashuganj-51-mw-pp-2013,Ashuganj 51 MW PP,Ashuganj,51.0,gas,Gas,ipp,,,2013-12-06,day,,bpdb_ar2019_20_commissioning
+bd-shajanullah-power-company-2013,Shajanullah Power Company,Shajanullah,25.0,gas,Gas,ipp,,,2013-12-01,month,,bpdb_ar2019_20_commissioning
+bd-sirajganj-150-mw-pp-conversion-2014,Sirajganj 150 MW PP Conversion,Sirajganj,68.0,gas_hsd_dual,Gas/HSD,public,NWPGCL,,2014-07-14,day,,bpdb_ar2019_20_commissioning
+bd-natore-rajshahi-50-mw-pp-na,"Natore, Rajshahi 50 MW PP",Natore,52.0,hfo,HFO,ipp,,,,none,UNPARSED,bpdb_ar2019_20_commissioning
+bd-baraka-patenga-chattogram-50-mw-pp-2014,Baraka-Patenga Chattogram 50 MW PP,Baraka-Patenga,50.0,hfo,HFO,ipp,,,2014-01-24,day,,bpdb_ar2019_20_commissioning
+bd-meghnaghat-300-450-mw-ccpp-2nd-unit-dual-fuel-sc-2014,Meghnaghat 300-450 MW CCPP (2nd Unit Dual Fuel: SC GT Unit),Meghnaghat,203.0,gas_hfo_dual,HFO/Gas,ipp,,,2014-05-03,day,,bpdb_ar2019_20_commissioning
+bd-gogonnagar-100-mw-pp-2014,Gogonnagar 100 MW PP,Gogonnagar,102.0,hfo,HFO,ipp,,,2014-05-29,day,,bpdb_ar2019_20_commissioning
+bd-ghorashal-narsindi-100-mw-pp-2014,"Ghorashal, Narsindi 100 MW PP",Ghorashal,108.0,gas,Gas,ipp,,,2014-06-03,day,,bpdb_ar2019_20_commissioning
+bd-cumilla-jangalia-50-mw-pp-2014,Cumilla (Jangalia) 50 MW PP,Cumilla,52.0,hfo,HFO,ipp,,,2014-07-15,day,,bpdb_ar2019_20_commissioning
+bd-ashuganj-225-mw-ccpp-sc-gt-unit-2015,Ashuganj 225 MW CCPP : SC GT Unit,Ashuganj,142.0,gas,Gas,public,APSCL,,2015-04-27,day,,bpdb_ar2019_20_commissioning
+bd-kodda-gazipur-150-mw-power-plant-2015,"Kodda, Gazipur 150 MW Power Plant",Kodda,149.0,gas_hfo_dual,HFO/Gas,jv,BPDB- RPCL,,2015-08-16,day,,bpdb_ar2019_20_commissioning
+bd-bhola-225-mw-ccpp-2015,Bhola 225 MW CCPP,Bhola,194.0,gas,Gas,public,BPDB,,2015-09-02,day,,bpdb_ar2019_20_commissioning
+bd-ashuganj-225-ccpp-st-unit-2015,Ashuganj 225 CCPP: ST Unit,Ashuganj,75.0,gas,Gas,public,APSCL,,2015-12-10,day,,bpdb_ar2019_20_commissioning
+bd-potiya-chattogram-108-mw-power-plant-2015,"Potiya, Chattogram 108 MW Power Plant",Potiya,108.0,hfo,HFO,ipp,,,2015-01-14,day,,bpdb_ar2019_20_commissioning
+bd-kathpotti-munshigonj-50-mw-power-plant-2015,"Kathpotti, Munshigonj 50 MW Power Plant",Kathpotti,51.0,hfo,HFO,ipp,,,2015-02-20,day,,bpdb_ar2019_20_commissioning
+bd-ashuganj-195-mw-modular-pp-2015,Ashuganj 195 MW Modular PP,Ashuganj,195.0,gas,Gas,ipp,,,2015-05-08,day,,bpdb_ar2019_20_commissioning
+bd-meghnaghat-335-mw-ccpp-2nd-unit-st-unit-2015,Meghnaghat 335 MW CCPP (2nd Unit) : ST Unit,Meghnaghat,102.0,gas_hsd_dual,Gas/HSD,ipp,,,2015-06-01,day,,bpdb_ar2019_20_commissioning
+bd-bibiyana-ii-341-mw-ccpp-summit-gt-unit-2015,Bibiyana-(II) 341 MW CCPP (Summit): GT Unit,Bibiyana-,222.0,gas,Gas,ipp,,,2015-06-06,day,,bpdb_ar2019_20_commissioning
+bd-bibiyana-ii-341-mw-ccpp-summit-st-unit-2015,Bibiyana-(II) 341 MW CCPP (Summit): ST Unit,Bibiyana-,119.0,gas,Gas,ipp,,,2015-12-26,day,,bpdb_ar2019_20_commissioning
+bd-up-gradation-of-khulna-150-mw-to-225-mw-2016,Up gradation of Khulna 150 MW to 225 MW,Up,72.0,gas_hsd_dual,Gas/HSD,public,NWPGCL,,2016-06-28,day,,bpdb_ar2019_20_commissioning
+bd-ashuganj-south-450-mw-ccpp-2016,Ashuganj (South) 450 MW CCPP,Ashuganj,373.0,gas,Gas,public,APSCL,,2016-07-22,day,,bpdb_ar2019_20_commissioning
+bd-shahjibazar-ccpp-2016,Shahjibazar CCPP,Shahjibazar,330.0,gas,Gas,public,BPDB,,2016-08-20,day,"GT: 20 August, 2016; ST: 20 December, 2016",bpdb_ar2019_20_commissioning
+bd-madangonj-55-mw-peaking-plant-summit-power-2016,Madangonj 55 MW Peaking Plant (Summit Power),Madangonj,55.0,hfo,FO,ipp,Summit Power,Summit Power,2016-02-29,day,,bpdb_ar2019_20_commissioning
+bd-barishal-110-mw-pp-summit-power-2016,Barishal 110 MW PP (Summit Power),Barishal,110.0,hfo,FO,ipp,Summit Power,Summit Power,2016-04-05,day,,bpdb_ar2019_20_commissioning
+bd-nababganj-55-mw-pp-2016,Nababganj 55 MW PP,Nababganj,55.0,hfo,FO,ipp,,,2016-06-17,day,,bpdb_ar2019_20_commissioning
+bd-manikganj-55-mw-pp-2016,Manikganj 55 MW PP,Manikganj,55.0,hfo,FO,ipp,,,2016-08-17,day,,bpdb_ar2019_20_commissioning
+bd-jamalpur-95-mw-pp-2016,Jamalpur 95 MW PP,Jamalpur,95.0,gas_hfo_dual,Gas/FO,ipp,,,2016-11-29,day,,bpdb_ar2019_20_commissioning
+bd-bheramara-360-mw-ccpp-2017,Bheramara 360 MW CCPP,Bheramara,278.0,gas_hsd_dual,Gas/HSD,public,NWPGCL,,2017-05-09,day,"GT: 9 May, 2017",bpdb_ar2019_20_commissioning
+bd-ashuganj-450-mw-ccpp-south-2017,Ashuganj 450 MW CCPP (South),Ashuganj,360.0,gas,Gas,public,APSCL,,2017-06-11,day,,bpdb_ar2019_20_commissioning
+bd-chapainawabganj-100-mw-pp-2017,Chapainawabganj 100 MW PP,Chapainawabganj,104.0,hfo,HFO,public,BPDB,,2017-08-12,day,,bpdb_ar2019_20_commissioning
+bd-shikalbaha-225-mw-ccpp-2017,Shikalbaha 225 MW CCPP,Shikalbaha,225.0,gas_hsd_dual,Gas/HSD,public,BPDB,,2017-11-08,day,,bpdb_ar2019_20_commissioning
+bd-bosila-keraniganj-108-mw-pp-2017,"Bosila, Keraniganj 108 MW PP",Bosila,108.0,hfo,HFO,ipp,,,2017-02-22,day,,bpdb_ar2019_20_commissioning
+bd-kushiara-163-mw-ccpp-2017,Kushiara 163 MW CCPP,Kushiara,109.0,gas,Gas,ipp,,,2017-07-25,day,,bpdb_ar2019_20_commissioning
+bd-shorishabari-solar-plant-2017,Shorishabari Solar plant,Shorishabari,3.0,solar,Solar,ipp,,,2017-08-03,day,,bpdb_ar2019_20_commissioning
+bd-kamalaghat-50-mw-pp-2018,Kamalaghat 50 MW PP,Kamalaghat,54.0,hfo,HFO,ipp,,,2018-01-01,day,,bpdb_ar2019_20_commissioning
+bd-noapara-100-mw-pp-bangla-track-2018,Noapara 100 MW PP (Bangla Track),Noapara,100.0,hsd,HSD,ipp,Bangla Track,Bangla Track,2018-04-18,day,,bpdb_ar2019_20_commissioning
+bd-kusiara-163-mw-ccpp-2018,Kusiara 163 MW CCPP,Kusiara,54.0,gas,Gas,ipp,,,2018-04-27,day,,bpdb_ar2019_20_commissioning
+bd-daudkandi-200-mw-pp-2018,DaudKandi 200 MW PP,DaudKandi,200.0,hsd,HSD,ipp,,,2018-04-27,day,,bpdb_ar2019_20_commissioning
+bd-kodda-gazipur-300-mw-pp-summit-2018,"Kodda, Gazipur 300 MW PP (Summit)",Kodda,300.0,hfo,HFO,ipp,Summit,Summit,2018-05-10,day,,bpdb_ar2019_20_commissioning
+bd-bheramara-360-mw-ccpp-st-unit-2018,Bheramara 360 MW CCPP (ST unit),Bheramara,132.0,gas_hsd_dual,Gas/HSD,public,NWPGCL,,2018-01-01,day,,bpdb_ar2019_20_commissioning
+bd-barapukuria-275-mw-3rd-unit-2018,Barapukuria 275 MW (3rd Unit),Barapukuria,274.0,coal_domestic,Coal,public,BPDB,,2018-01-01,day,,bpdb_ar2019_20_commissioning
+bd-ghorashal-365-mw-ccpp-2018,Ghorashal 365 MW CCPP,Ghorashal,365.0,gas,Gas,public,BPDB,,2018-02-05,day,,bpdb_ar2019_20_commissioning
+bd-sirajganj-225-mw-ccpp-2nd-unit-2018,Sirajganj 225 MW CCPP (2nd Unit),Sirajganj,220.0,gas_hsd_dual,Gas/HSD,public,NWPGCL,,2018-02-05,day,,bpdb_ar2019_20_commissioning
+bd-siddhirganj-335-mw-ccpp-2018,Siddhirganj 335 MW CCPP,Siddhirganj,217.0,gas,Gas,public,EGCB,,2018-04-30,day,"GT: 30 April, 2018",bpdb_ar2019_20_commissioning
+bd-sirajganj-225-mw-ccpp-3rd-unit-2018,Sirajganj 225 MW CCPP (3rd Unit),Sirajganj,141.0,gas_hsd_dual,Gas/HSD,public,NWPGCL,,2018-08-09,day,"GT: 9 August, 2018",bpdb_ar2019_20_commissioning
+bd-bramhongaon-keraniganj-100-mw-pp-2018,"Bramhongaon, Keraniganj 100 MW PP",Bramhongaon,100.0,hsd,HSD,ipp,,,2018-05-30,day,,bpdb_ar2019_20_commissioning
+bd-mymensingh-200-mw-pp-2018,Mymensingh 200 MW PP,Mymensingh,200.0,hfo,HFO,ipp,,,2018-06-16,day,,bpdb_ar2019_20_commissioning
+bd-aowrahati-keranigonj-100-mw-aggreko-2018,"Aowrahati, Keranigonj 100 MW (Aggreko)",Aowrahati,100.0,hsd,HSD,ipp,Aggreko,Aggreko,2018-06-29,day,,bpdb_ar2019_20_commissioning
+bd-kadda-149-mw-pp-2018,Kadda 149 MW PP,Kadda,149.0,hfo,HFO,ipp,,,2018-07-12,day,,bpdb_ar2019_20_commissioning
+bd-pangaon-keraniganj-300-mw-pp-fast-track-2018,"Pangaon, keraniganj 300 MW PP (fast track)",Pangaon,300.0,hsd,HSD,ipp,,,2018-08-10,day,,bpdb_ar2019_20_commissioning
+bd-power-import-2nd-hvdc-2018,Power import (2nd HVDC),Power,500.0,import,Import,import,BPDB,,2018-09-10,day,,bpdb_ar2019_20_commissioning
+bd-teknaf-coxsbazar-20-mw-solar-park-2018,"Teknaf, Coxsbazar 20 MW solar park",Teknaf,20.0,solar,Solar,ipp,,,2018-09-15,day,,bpdb_ar2019_20_commissioning
+bd-sirajganj-40010-mw-ccpp-2018,Sirajganj 400±10 MW CCPP,Sirajganj,282.0,gas_hsd_dual,Gas/HSD,ipp,,,2018-10-04,day,"GT: 04 October, 2018",bpdb_ar2019_20_commissioning
+bd-rupsa-khulna-105-mw-pp-2018,"Rupsa, Khulna 105 MW PP",Rupsa,105.0,hfo,HFO,ipp,,,2018-10-14,day,,bpdb_ar2019_20_commissioning
+bd-chandpur-200-mw-pp-2018,Chandpur 200 MW PP,Chandpur,200.0,hfo,HFO,ipp,,,2018-11-09,day,,bpdb_ar2019_20_commissioning
+bd-julda-ctg-100-mw-pp-unit-3-2018,"Julda, CTG 100 MW PP (Unit-3)",Julda,100.0,hfo,HFO,ipp,,,2018-11-09,day,,bpdb_ar2019_20_commissioning
+bd-ashuganj-150-mw-pp-midland-2018,Ashuganj 150 MW PP (Midland),Ashuganj,150.0,hfo,HFO,ipp,Midland,Midland,2018-11-27,day,,bpdb_ar2019_20_commissioning
+bd-baghabari-200-mw-pp-2019,Baghabari 200 MW PP,Baghabari,200.0,hsd,HSD,ipp,,,2019-02-16,day,,bpdb_ar2019_20_commissioning
+bd-jamalpur-115-mw-power-plant-2019,Jamalpur 115 MW Power Plant,Jamalpur,115.0,hfo,HFO,ipp,,,2019-02-19,day,,bpdb_ar2019_20_commissioning
+bd-sirajgonj-225-mw-ccpp-3rd-unit-st-unit-2019,Sirajgonj 225 MW CCPP (3rd Unit) (ST Unit),Sirajgonj,79.0,gas_hsd_dual,Gas/HSD,public,NWPGCL,,2019-01-20,day,,bpdb_ar2019_20_commissioning
+bd-bibiana-3-ccpp-2019,Bibiana #3 CCPP,Bibiana,400.0,gas,Gas,public,BPDB,,2019-02-06,day,"GT: 06 February, 2019; ST: 24 September, 2019",bpdb_ar2019_20_commissioning
+bd-modumoti-bagerhat-100-mw-pp-2019,"Modumoti, Bagerhat 100 MW PP",Modumoti,105.0,hfo,HFO,public,NWPGCL,,2019-04-15,day,,bpdb_ar2019_20_commissioning
+bd-gazipur-100-mw-pp-2019,Gazipur 100 MW PP,Gazipur,105.0,hfo,HFO,public,RPCL,,2019-05-25,day,,bpdb_ar2019_20_commissioning
+bd-kaptai-solar-power-plant-2019,Kaptai Solar Power Plant,Kaptai,7.0,solar,Solar,public,BPDB,,2019-05-28,day,,bpdb_ar2019_20_commissioning
+bd-siddirganj-335-mw-ccpp-st-unit-2019,Siddirganj 335 MW CCPP ST Unit,Siddirganj,118.0,gas,Gas,public,EGCB,,2019-09-09,day,"ST: 9 September, 2019",bpdb_ar2019_20_commissioning
+bd-julda-chattogram-100-mw-pp-accorn-inf-unit-2-2020,"Julda, Chattogram 100 MW PP (Accorn Inf) (Unit-2)",Julda,100.0,hfo,HFO,ipp,,,2020-03-20,day,,bpdb_ar2019_20_commissioning
+bd-meghnaghat-104-mw-power-plant-2020,Meghnaghat 104 MW Power Plant,Meghnaghat,104.0,hfo,HFO,ipp,,,2020-06-30,day,,bpdb_ar2019_20_commissioning
+bd-sylhet-150-mw-pp-conversion-2020,Sylhet 150 MW PP Conversion,Sylhet,87.0,gas,Gas,public,BPDB,,2020-03-14,day,,bpdb_ar2019_20_commissioning
+bd-payra-potuakhali-1320-coal-fired-power-plant-1st-2020,"Payra, Potuakhali 1320 Coal Fired Power Plant (1st Unit)",Payra,622.0,coal_imported,Imported Coal,public,NWPGCL,,2020-05-15,day,,bpdb_ar2019_20_commissioning
