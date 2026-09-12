@@ -238,3 +238,58 @@ they can rule an estimate out but never confirm one, and four of the five do not
 bind at all. Tk 7,851 crore remains a figure resting on 47 plants of a larger
 fleet, and confirming the level rather than bounding it still requires a
 disclosed capacity rate, which none of the four sponsors examined publishes.
+
+## The forward obligation curve (12 September 2026)
+
+With fixed payments estimated and bounded, the remaining step is to date each
+one. The obligation owed in year y is
+
+    O_y = sum_i CP_i * 1{ COD_i <= y < expiry_i }
+
+with a part-year weight in the year of expiry and no discounting, since an
+undiscounted path is what a fiscal framework needs.
+
+Expiry needs a commissioning date and a tenure. Commissioning dates come from
+BPDB's own tables through 2020 and from Global Energy Monitor's start year
+thereafter. Tenure is where the FY2020-21 retirement schedule earns its keep:
+it lists COD and retirement date together for 51 plants, so realised contract
+length is computable rather than assumed, and across the 36 private plants the
+median is 15.0 years — the same figure Doreen discloses for its own PPAs, from
+an entirely separate source. Public plants in that table run a median of 34.7
+years, but those are asset lifetimes rather than contracts and none enters this
+curve.
+
+Of the 46 plants with a positive estimated fixed payment, 34 could be dated,
+covering Tk 6,415 crore of the Tk 7,851 crore annual total, or 82 per cent by
+value. Five have a disclosed retirement date, 18 take a BPDB commissioning date
+and 11 a GEM start year; 12 could not be dated and are excluded rather than
+guessed at.
+
+The resulting path, in Tk crore a year:
+
+    2026  5,982    2030  5,166    2034  1,992
+    2027  5,859    2031  4,905    2035  1,219
+    2028  5,457    2032  4,593    2036    383
+    2029  5,344    2033  3,192
+
+That is Tk 44,093 crore undiscounted, or Tk 30,397 crore in present value at 9
+per cent — roughly US$2.5 billion at 122 taka. The shape is the finding: the
+obligation holds near Tk 5,000 crore a year to 2032 and then falls away sharply,
+because the 2016-2021 IPP build-out reaches its fifteenth year in a cluster.
+
+That cliff is an artefact of the tenure assumption as much as of the contracts,
+and the sensitivity is large enough to state plainly:
+
+    tenure    total undiscounted    runs to
+    12 years      Tk 26,796 cr        2033
+    15 years      Tk 44,093 cr        2036
+    18 years      Tk 62,527 cr        2039
+    22 years      Tk 87,239 cr        2043
+
+A three-year error in the median tenure moves the total by roughly Tk 18,000
+crore. The 15-year figure is the best available estimate and rests on two
+independent sources, but it is a median over a range running from 5 to 22 years,
+and applying a median plant by plant is exactly the step that produces a cliff
+where the truth is probably a slope. Recovering actual PPA tenures — plant by
+plant, from prospectuses or rating rationales — would do more for this curve
+than any further work on the payments themselves.

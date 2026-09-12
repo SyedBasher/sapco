@@ -1,0 +1,35 @@
+producer,fuel,annual_fixed_payment_bdt,cod,expiry,expiry_basis
+United Mymensingh Power Ltd. (200MW),gas,11113909257.0,2018-06-16,2033-06-16,assumed_15y_from_bpdb_cod
+Summit Meghnaghat Power Ltd.,gas,4993948684.0,2020-06-30,2035-06-30,assumed_15y_from_bpdb_cod
+United - Anawara (300MW),hfo,4817161904.0,2021-07-01,2036-07-01,assumed_15y_from_gem_start_year
+Summit Gazipur II Power Ltd. - Kodda (300MW),hfo,4782380131.0,2018-05-10,2033-05-10,assumed_15y_from_bpdb_cod
+Desh Energy Chandpur Power Company Ltd.,hfo,2989033370.0,2012-12-01,2027-12-01,assumed_15y_from_bpdb_cod
+Summit Bibiyana II Power Company Ltd.,gas,2261669411.0,2015-06-06,2030-06-06,assumed_15y_from_bpdb_cod
+Midland East Power Company Ltd.,hfo,2243654234.0,2018-07-01,2033-07-01,assumed_15y_from_gem_start_year
+United Jamalpur 200MW,hfo,2216013319.0,2016-11-29,2031-11-29,assumed_15y_from_bpdb_cod
+ACE Alliance Power Ltd. (149MW) (Summit Gazipur),hfo,2162625545.0,2018-05-10,2033-05-10,assumed_15y_from_bpdb_cod
+Meghnaghat Power Ltd.,gas,2101360842.0,2020-06-30,2035-06-30,assumed_15y_from_bpdb_cod
+United Payra (150MW),hfo,2045721480.0,2021-07-01,2036-07-01,assumed_15y_from_gem_start_year
+RPCL - Gazipur (105MW),hfo,1883281578.0,2019-05-25,2034-05-25,assumed_15y_from_bpdb_cod
+Confidence Power Ltd. - Rangpur (113MW),hfo,1754470513.0,1988-08-16,2023-06-30,disclosed_retirement_date
+Summit Barishal Power Ltd.,hfo,1722875811.0,2016-04-05,2031-04-05,assumed_15y_from_bpdb_cod
+Kushiara Power Company Ltd.,gas,1653807851.0,2017-07-25,2032-07-25,assumed_15y_from_bpdb_cod
+Orion Power Rupsha Ltd. - Khulna (105MW),hfo,1628490319.0,2018-07-01,2033-07-01,assumed_15y_from_gem_start_year
+Anlima Energy Limited (116MW),hfo,1571630723.0,2020-07-01,2035-07-01,assumed_15y_from_gem_start_year
+Lanka Power Limited - Feni,hfo,1566866720.0,2020-07-01,2035-07-01,assumed_15y_from_gem_start_year
+Baraka Shikalbaha Power Ltd. (105MW),hfo,1502576041.0,2010-05-06,2025-05-06,assumed_15y_from_bpdb_cod
+Karnaphuli Power Ltd.,hfo,1444863926.0,2019-07-01,2034-07-01,assumed_15y_from_gem_start_year
+Orion Power Sonargaon Ltd.,hfo,1342346827.0,2019-07-01,2034-07-01,assumed_15y_from_gem_start_year
+Regent Energy & Power Ltd.,gas,935113745.0,2014-07-01,2029-07-01,assumed_15y_from_gem_start_year
+Summit Narayangonj Power Unit II Ltd.,hfo,919219011.0,2011-07-01,2026-07-01,assumed_15y_from_gem_start_year
+Chandpur Power Generation Lttd. (115MW),hfo,904937604.0,2012-12-01,2027-12-01,assumed_15y_from_bpdb_cod
+RPCL 52MW Gazipur,hfo,892579247.0,2012-07-01,2027-07-01,assumed_15y_from_bpdb_cod
+Bhairab Power Limited (54.50MW),hfo,806344572.0,2021-07-01,2036-07-01,assumed_15y_from_gem_start_year
+Baraka Patenga Power Limited,hfo,658495795.0,2014-01-24,2029-01-24,assumed_15y_from_bpdb_cod
+Midland Power Company Ltd.,gas,560501041.0,2018-11-27,2033-11-27,assumed_15y_from_bpdb_cod
+Regent Power Ltd.,gas,215658431.0,2009-05-23,2024-05-22,disclosed_retirement_date
+Doreen Power Generation & System Ltd.- Tangail,gas,170429043.0,2008-11-12,2023-11-11,disclosed_retirement_date
+Doreen Power Generation & System Ltd.-Feni,gas,159781672.0,2009-02-16,2024-02-15,disclosed_retirement_date
+Summit Purbachal Power Ltd.-Jangalia,gas,70406328.0,2009-06-25,2024-06-24,disclosed_retirement_date
+Spectra Solar Park,solar,56650732.0,2017-08-03,2032-08-03,assumed_15y_from_bpdb_cod
+Sympa Solar Power Limited,solar,1090919.0,2019-05-28,2034-05-28,assumed_15y_from_bpdb_cod
