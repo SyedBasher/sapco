@@ -297,10 +297,20 @@ than any further work on the payments themselves.
 ## The exposure note (12 September 2026)
 
 `src/exposure_note.py` renders a one-page contracted-exposure note for any
-sponsor group: the fixed payment owed this year, the plant-by-plant detail with
-commissioning and expiry, the run-off profile, and the present value of what
-remains. It is a print document rather than a dashboard, because the reader is
-a credit committee and it will travel as a PDF.
+sponsor group. It opens by saying what it is, what it is for and what it is
+not, because a document that arrives without a stated purpose gets read as a
+pitch. Below that: the fixed payment owed this year, a stacked column chart of
+the obligation by year and plant, the plant-by-plant detail with commissioning
+and expiry, and the present value of what remains.
+
+The chart is stacked by plant rather than showing the total alone. The total
+answers "how much"; only the split answers "which contract falls away, and
+when", which is the question a reader who knows these plants will actually
+ask. Bands take the categorical palette in fixed order, never cycled, and a
+ninth plant would fold into "Other" rather than generate a new hue.
+
+It is a print document rather than a dashboard, because the reader is a credit
+committee and it will travel as a PDF. Every note fits one page.
 
 Eighteen sponsor groups can be generated from the current data. The two that
 matter commercially are United, with four plants and Tk 2,019 crore owed in
@@ -339,3 +349,21 @@ agree on. Its note now says so rather than printing an empty chart.
 Neither error was visible in the fleet totals. Both appeared the moment the
 data was put on a page for a named counterparty, which is an argument for
 building the presentation layer earlier than feels efficient.
+
+## An error the note's method statement was hiding (12 September 2026)
+
+Writing the method paragraph in a form a reader could check turned up an
+overstatement. It said the fixed component was "bounded above by the non-fuel
+revenue sponsors report in their own accounts", which describes five Summit
+plants and no others. On United's note — where no sponsor ceiling exists at
+all — the same sentence would have claimed a discipline the estimates do not
+have. It now says the cap applies where a sponsor reports revenue net of fuel,
+and that none of the sponsors examined publishes a capacity rate, so the
+component is bounded where a cap exists and never confirmed.
+
+The note also carries a short sensitivity line, since the tenure assumption is
+the largest single uncertainty in it and a reader who knows the real contract
+lengths can substitute them. For Summit: Tk 11,745 crore remaining on the
+fifteen-year basis, Tk 6,922 crore at twelve years, Tk 16,798 crore at
+eighteen, Tk 23,535 crore at twenty-two. Disclosed expiry dates are held fixed
+throughout, so only what is actually assumed moves.

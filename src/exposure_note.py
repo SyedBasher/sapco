@@ -31,6 +31,7 @@ OUT = ROOT / "notes"
 
 DISCOUNT = 0.09
 CRORE = 1e7
+USD = 122.0   # Tk per US$, spot; stated on the page
 
 # Sponsor group -> pattern matching the producer names BPDB uses.
 GROUPS = {
@@ -61,9 +62,9 @@ FUEL_LABEL = {"gas": "Gas", "hfo": "HFO", "hsd": "HSD", "solar": "Solar",
               "wind": "Wind", "hydro": "Hydro"}
 
 BASIS_LABEL = {
-    "disclosed_retirement_date": "disclosed",
-    "assumed_15y_from_bpdb_cod": "assumed",
-    "assumed_15y_from_gem_start_year": "assumed",
+    "disclosed_retirement_date": "BPDB schedule",
+    "assumed_15y_from_bpdb_cod": "COD + 15 yrs",
+    "assumed_15y_from_gem_start_year": "COD + 15 yrs",
 }
 
 
@@ -99,6 +100,22 @@ def yearly_path(plants: list[dict], horizon: int = 2045) -> dict[int, float]:
     return {y: v for y, v in path.items() if v > 0}
 
 
+# Categorical slots in fixed order (validated for adjacent pairs, which is the
+# stacked-bar case). Never cycled: past eight, plants fold into "Other".
+SERIES = ["#2a78d6", "#eb6834", "#1baf7a", "#eda100",
+          "#e87ba4", "#008300", "#4a3aa7", "#e34948"]
+OTHER = "#8a8983"
+
+
+def short_name(producer: str) -> str:
+    """A legend-length label: the part that distinguishes this plant."""
+    s = re.sub(r"\b(Power|Generation|Energy|Company|Co|Ltd|Limited|Pvt|"
+               r"Private|Plant|Systems?|Services?|Infra\w*)\b\.?", " ", producer)
+    s = re.sub(r"\s*[-–]\s*", " ", s)
+    s = re.sub(r"\s{2,}", " ", s).strip(" .,-")
+    return s or producer
+
+
 def chart_story(path: dict[int, float], plants: list[dict]) -> tuple[str, str]:
     """Return (action title, figure note), both stated from the data."""
     years = sorted(path)
@@ -116,8 +133,6 @@ def chart_story(path: dict[int, float], plants: list[dict]) -> tuple[str, str]:
         title = (f"A single PPA carries Tk {base/CRORE:,.0f} crore a year "
                  f"and expires in {last}")
     else:
-        # The year the obligation has halved says more than the steepest
-        # single step, which on a run-off is always the final year.
         half = next((y for y in years if path[y] <= 0.5 * base), last)
         if half < last:
             gone = sum(1 for r in plants if first < int(r["expiry"][:4]) <= half)
@@ -127,56 +142,174 @@ def chart_story(path: dict[int, float], plants: list[dict]) -> tuple[str, str]:
             title = (f"Contracted fixed payments hold near Tk {base/CRORE:,.0f} "
                      f"crore until {last}, when the last PPA expires")
 
-    note = (f"Each bar is the fixed payment owed in that year under contracts "
-            f"already signed, in Tk crore. The obligation runs from "
-            f"Tk {base/CRORE:,.0f} crore in {first} to "
-            f"Tk {path[last]/CRORE:,.0f} crore in {last}, after which nothing "
-            f"further is owed on the present contracts. Expiry dates marked "
-            f"\u2018assumed\u2019 in the table below carry the median realised "
-            f"contract length rather than a disclosed date, so the timing of "
-            f"each step is indicative while its size is not.")
+    note = ("Each column shows the fixed payment owed that year under contracts "
+            "already signed, in Tk crore, broken down by plant. A band "
+            "disappears when that plant\u2019s contract expires, on the date given "
+            "in the table below. Where that date is our own estimate rather than "
+            "a disclosed one, the band may end a year or two early or late, "
+            "though its height does not depend on it.")
     return title, note
 
 
-def bar_chart(path: dict[int, float]) -> str:
-    """
-    Single series, value-labelled, no axis.
+def plant_path(r: dict, years: list[int]) -> dict[int, float]:
+    cp = float(r["annual_fixed_payment_bdt"])
+    cod = date.fromisoformat(r["cod"])
+    exp = date.fromisoformat(r["expiry"])
+    out = {}
+    for y in years:
+        if cod.year <= y < exp.year:
+            out[y] = cp
+        elif y == exp.year:
+            out[y] = cp * (exp.month - 1) / 12
+        else:
+            out[y] = 0.0
+    return out
 
-    Every bar carries its number and the y-axis is removed entirely, which is
-    the consulting convention and is defensible here: with the axis gone the
-    labels are the scale rather than a duplicate of it. Ten bars at four
-    significant figures stay legible at print size; beyond about fifteen this
-    would have to revert to a labelled axis and selective callouts.
+
+def path_at_tenure(plants: list[dict], years_tenure: float,
+                   horizon: int = 2050) -> dict[int, float]:
+    """
+    Recompute the obligation path with a different contract length.
+
+    Disclosed retirement dates are left alone; only plants whose expiry rests
+    on the median-tenure assumption move. That is the whole point of showing
+    the sensitivity — it separates what is known from what is assumed.
+    """
+    path = {y: 0.0 for y in range(2026, horizon + 1)}
+    for r in plants:
+        cp = float(r["annual_fixed_payment_bdt"])
+        cod = date.fromisoformat(r["cod"])
+        if r["expiry_basis"] == "disclosed_retirement_date":
+            exp = date.fromisoformat(r["expiry"])
+        else:
+            exp = date(cod.year + int(years_tenure), cod.month, cod.day)
+        for y in path:
+            if cod.year <= y < exp.year:
+                path[y] += cp
+            elif y == exp.year:
+                path[y] += cp * (exp.month - 1) / 12
+    return {y: v for y, v in path.items() if v > 0}
+
+
+def sensitivity_block(plants: list[dict]) -> str:
+    """
+    How much of the total rests on the tenure assumption, in one sentence.
+
+    Disclosed retirement dates are held fixed; only the assumed expiries move,
+    which is the point — it separates what is known from what is supposed.
+    """
+    if not any(r["expiry_basis"] != "disclosed_retirement_date" for r in plants):
+        return ""
+    out = {}
+    for yrs in (12, 18, 22):
+        pth = path_at_tenure(plants, yrs)
+        if pth:
+            out[yrs] = (sum(pth.values()), max(pth))
+    if not out:
+        return ""
+    verbs = {12: "Shortening it to twelve years leaves",
+             18: "stretching it to eighteen gives",
+             22: "and to twenty-two"}
+    clauses = "; ".join(
+        f"{verbs.get(y, f'at {y} years')} Tk {v/CRORE:,.0f} crore "
+        f"outstanding to {last}"
+        for y, (v, last) in out.items())
+    return (
+        '<p class="sens"><b>If the contracts run longer or shorter.</b> '
+        'The fifteen-year contract length used here is the median implied by '
+        'BPDB\'s own retirement schedule, where plants ran anywhere from five '
+        f'years to twenty-two. {clauses}. If you know what the contracts '
+        'actually say, read the line that matches — the annual payments are '
+        'unaffected either way.</p>')
+
+
+def nice_ticks(peak: float, n: int = 4) -> list[float]:
+    """Round tick values at or just above the peak, in crore."""
+    raw = peak / CRORE / n
+    mag = 10 ** (len(f"{int(raw)}") - 1) if raw >= 1 else 1
+    for mult in (1, 2, 2.5, 5, 10):
+        step = mult * mag
+        if step * n >= peak / CRORE:
+            return [step * i for i in range(n + 1)]
+    return [raw * i for i in range(n + 1)]
+
+
+def bar_chart(path: dict[int, float], plants: list[dict]) -> str:
+    """
+    Stacked columns, one band per plant, on a gridded plot.
+
+    The stack shows which contract falls away in which year rather than only
+    the total. Bands take the categorical palette in fixed order, never
+    cycled; a ninth plant folds into "Other". Gridlines and the frame are
+    drawn in the rule colour so they stay behind the data, and the legend is
+    always present because there is more than one series.
     """
     if not path:
         return ""
     years = sorted(path)
     peak = max(path.values())
-    W, H = 640, 168
-    pad_b, pad_t = 18, 18
-    n = len(years)
-    slot = W / n
-    bw = min(30.0, max(10.0, slot - 10))
-    plot_h = H - pad_b
+    ticks = nice_ticks(peak)
+    top = ticks[-1] * CRORE
 
-    out = [f'<line x1="0" y1="{plot_h}" x2="{W}" y2="{plot_h}" class="axis"/>']
+    W, H = 640, 156
+    pad_l, pad_b, pad_t = 34, 18, 8
+    n = len(years)
+    plot_w = W - pad_l
+    plot_h = H - pad_b - pad_t
+    slot = plot_w / n
+    bw = min(34.0, max(10.0, slot - 12))
+
+    def y_of(v: float) -> float:
+        return pad_t + plot_h * (1 - v / top)
+
+    out = []
+    for tv in ticks:
+        y = y_of(tv * CRORE)
+        out.append(f'<line x1="{pad_l}" y1="{y:.1f}" x2="{W}" y2="{y:.1f}" '
+                   f'class="grid"/>')
+        out.append(f'<text x="{pad_l - 6}" y="{y + 3:.1f}" text-anchor="end" '
+                   f'class="tick">{tv:,.0f}</text>')
+    out.append(f'<rect x="{pad_l}" y="{pad_t}" width="{plot_w}" '
+               f'height="{plot_h:.1f}" class="frame"/>')
+
+    ranked = sorted(plants, key=lambda r: -float(r["annual_fixed_payment_bdt"]))
+    # A plant whose contract ended before the window contributes no band, so
+    # giving it a legend key would label something the reader cannot see.
+    ranked = [r for r in ranked if sum(plant_path(r, years).values()) > 0]
+    shown, folded = ranked[:8], ranked[8:]
+    series = [(short_name(r["producer"]), SERIES[i], plant_path(r, years))
+              for i, r in enumerate(shown)]
+    if folded:
+        merged = {y: sum(plant_path(r, years)[y] for r in folded) for y in years}
+        series.append((f"Other ({len(folded)})", OTHER, merged))
+
+    base_y = y_of(0)
     for i, y in enumerate(years):
-        h = max(2.0, (plot_h - pad_t) * path[y] / peak)
-        x = pad_l = i * slot + (slot - bw) / 2
-        cx = x + bw / 2
+        x = pad_l + i * slot + (slot - bw) / 2
+        cursor = base_y
+        for _, colour, pp in series:
+            v = pp[y]
+            if v <= 0:
+                continue
+            h = plot_h * v / top
+            out.append(
+                f'<rect x="{x:.1f}" y="{cursor - h:.1f}" width="{bw:.1f}" '
+                f'height="{max(1.0, h - 2):.1f}" fill="{colour}"/>')
+            cursor -= h
         out.append(
-            f'<rect x="{x:.1f}" y="{plot_h - h:.1f}" width="{bw:.1f}" '
-            f'height="{h:.1f}" rx="3" fill="var(--series-1)"/>')
+            f'<text x="{x + bw/2:.1f}" y="{cursor - 6:.1f}" '
+            f'text-anchor="middle" class="vlabel">{path[y]/CRORE:,.0f}</text>')
         out.append(
-            f'<text x="{cx:.1f}" y="{plot_h - h - 5:.1f}" text-anchor="middle" '
-            f'class="vlabel">{path[y]/CRORE:,.0f}</text>')
-        out.append(
-            f'<text x="{cx:.1f}" y="{H - 5}" text-anchor="middle" '
+            f'<text x="{x + bw/2:.1f}" y="{H - 5}" text-anchor="middle" '
             f'class="tick">{y}</text>')
 
-    return (f'<svg viewBox="0 0 {W} {H}" width="100%" height="{H}" '
-            f'role="img" aria-label="Contracted fixed payment by year, Tk crore">'
-            + "".join(out) + "</svg>")
+    svg = (f'<svg viewBox="0 0 {W} {H}" width="100%" height="{H}" '
+           f'role="img" aria-label="Contracted fixed payment by year and plant, '
+           f'Tk crore">' + "".join(out) + "</svg>")
+    legend = "".join(
+        f'<span class="key"><i style="background:{c}"></i>{html.escape(nm)}</span>'
+        for nm, c, _ in series)
+    return svg + f'<div class="legend">{legend}</div>'
 
 
 CSS = """
@@ -184,42 +317,64 @@ CSS = """
 --series-1:#2a78d6;--rule:#e3e2dd}
 *{box-sizing:border-box}
 body{margin:0;background:#f3f2ee;color:var(--ink);
-font:13px/1.5 "Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif}
-.page{width:210mm;min-height:297mm;margin:0 auto;padding:18mm 16mm;
+font:12px/1.45 Cambria,Caladea,Georgia,"Times New Roman",serif;
+--sans:Calibri,Carlito,"Segoe UI",system-ui,sans-serif;
+-webkit-font-smoothing:antialiased}
+.page{width:210mm;min-height:297mm;margin:0 auto;padding:13mm 16mm;
 background:var(--surface-1)}
-h1{font-size:20px;margin:0 0 2px;letter-spacing:-.01em}
-.sub{color:var(--ink-2);margin:0 0 18px;font-size:12px}
+h1{font-size:18px;margin:0 0 2px;letter-spacing:-.01em}
+.sub{color:var(--ink-2);margin:0 0 12px;font-size:11.5px}
 .kpis{display:flex;gap:22px;border-top:1px solid var(--rule);
-border-bottom:1px solid var(--rule);padding:12px 0;margin-bottom:18px}
+border-bottom:1px solid var(--rule);padding:9px 0;margin-bottom:10px}
 .kpi{flex:1}
-.kpi .v{font-size:22px;font-variant-numeric:tabular-nums;letter-spacing:-.02em}
-.kpi .l{font-size:10.5px;color:var(--ink-2);text-transform:uppercase;
-letter-spacing:.06em;margin-top:2px}
-h2{font-size:12px;text-transform:uppercase;letter-spacing:.07em;
-color:var(--ink-2);margin:20px 0 8px;font-weight:600}
-.fig-title{font-size:14px;font-weight:600;margin:16px 0 2px;line-height:1.35;
+.kpi .v{font-family:var(--sans);font-size:21px;font-weight:600;
+font-variant-numeric:tabular-nums;letter-spacing:-.02em;line-height:1.15}
+.kpi .l{font-family:var(--sans);font-size:10px;color:var(--ink-2);
+text-transform:uppercase;letter-spacing:.06em;margin-top:3px}
+.kpi .alt{font-family:var(--sans);font-size:10.5px;color:var(--ink-3);
+font-variant-numeric:tabular-nums;margin-top:1px}
+h2{font-size:11.5px;text-transform:uppercase;letter-spacing:.07em;
+color:var(--ink-2);margin:11px 0 5px;font-weight:600}
+.fig-title{font-size:13.5px;font-weight:600;margin:10px 0 2px;line-height:1.35;
 letter-spacing:-.005em}
 .fig-sub{font-size:10.5px;color:var(--ink-2);margin:0 0 6px}
-.fig-note{font-size:10.5px;color:var(--ink-2);line-height:1.5;margin:2px 0 0}
+.fig-note{font-size:10px;color:var(--ink-2);line-height:1.45;margin:2px 0 0}
+.legend{display:flex;flex-wrap:wrap;gap:3px 14px;margin:5px 0 0;
+font-family:var(--sans);font-size:10px;color:var(--ink-2)}
+.key{display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
+.key i{width:9px;height:9px;border-radius:2px;display:inline-block;flex:none}
+.purpose{border-left:2px solid var(--series-1);padding:2px 0 2px 11px;
+margin:0 0 9px;font-size:11px;line-height:1.48;color:var(--ink-2)}
+.purpose b{color:var(--ink);font-weight:600}
 table{width:100%;border-collapse:collapse;font-size:12px}
-th{text-align:left;font-weight:600;color:var(--ink-2);font-size:10.5px;
+th{text-align:left;font-family:var(--sans);font-weight:600;
+color:var(--ink-2);font-size:10px;
 text-transform:uppercase;letter-spacing:.05em;padding:0 8px 5px 0;
 border-bottom:1px solid var(--rule)}
-td{padding:5px 8px 5px 0;border-bottom:1px solid #f0efea}
-.num{text-align:right;font-variant-numeric:tabular-nums}
+td{padding:3px 8px 3px 0;border-bottom:1px solid #f0efea}
+.num{text-align:right;font-family:var(--sans);
+font-variant-numeric:tabular-nums;font-size:11.5px}
 .muted{color:var(--ink-3);font-size:11px}
-.axis{stroke:var(--rule);stroke-width:1}
-.tick{fill:var(--ink-3);font-size:9.5px;font-family:inherit}
-.vlabel{fill:var(--ink);font-size:10.5px;font-variant-numeric:tabular-nums;
-font-family:inherit}
+.grid{stroke:#eeede8;stroke-width:1}
+.frame{fill:none;stroke:#b9b8b1;stroke-width:1.1}
+.tick{fill:var(--ink-3);font-size:9.5px;font-family:Calibri,Carlito,sans-serif}
+.vlabel{fill:var(--ink);font-size:10.5px;font-weight:600;
+font-variant-numeric:tabular-nums;font-family:Calibri,Carlito,sans-serif}
 .years{width:100%;font-size:10.5px;color:var(--ink-2);margin-top:4px;
 font-variant-numeric:tabular-nums}
 .years td{border:0;padding:1px 0;text-align:center}
-.note{margin-top:22px;padding-top:10px;border-top:1px solid var(--rule);
-font-size:10.5px;color:var(--ink-2);line-height:1.55}
+.note{margin-top:9px;padding-top:7px;border-top:1px solid var(--rule);
+font-size:9.5px;color:var(--ink-2);line-height:1.45}
 .note b{color:var(--ink);font-weight:600}
-@media print{body{background:#fff}.page{width:auto;min-height:0;padding:0}}
-@page{size:A4;margin:16mm}
+p.sens{margin:8px 0 0;font-size:9.5px;color:var(--ink-2);
+line-height:1.5}
+p.sens b{color:var(--ink);font-weight:600}
+.contact{margin-top:6px;font-family:var(--sans);font-size:10px;
+color:var(--ink-2)}
+.contact a{color:var(--ink-2)}
+@media print{body{background:#fff}.page{width:auto;min-height:0;padding:0}
+.note,.contact,p.sens{break-inside:avoid;page-break-inside:avoid}}
+@page{size:A4;margin:14mm 16mm}
 """
 
 
@@ -236,28 +391,33 @@ def render(sponsor: str, plants: list[dict]) -> str:
 
     body = [
         f'<h1>{html.escape(sponsor)} — contracted capacity-payment exposure</h1>',
-        f'<p class="sub">Estimated fixed payments from BPDB and their expiry '
-        f'profile · prepared {date.today():%d %B %Y}</p>',
+        f'<p class="sub">Prepared {date.today():%d %B %Y} · '
+        f'SAPCO, South Asia Power Contracts Observatory</p>',
+        '<p class="purpose">Part of what BPDB pays a power producer is fixed — owed whether or not the plant runs. This note works out how much that is, plant by plant, and when each contract ends. The contracts themselves are not public, so everything here is drawn from published accounts, BPDB\'s and the sponsors\' own. The aim is to spare a lender or a counterparty the days of reading annual reports it would otherwise take. Every figure is an estimate, and the table shows what each is based on; none of it is a valuation or advice.</p>',
         '<div class="kpis">',
         f'<div class="kpi"><div class="v">{annual/CRORE:,.0f}</div>'
-        f'<div class="l">Tk crore owed in 2026</div></div>',
+        f'<div class="l">Tk crore owed in 2026</div>'
+        f'<div class="alt">US$ {annual/USD/1e6:,.0f}m</div></div>',
         f'<div class="kpi"><div class="v">{len(plants)}</div>'
-        f'<div class="l">plants</div></div>',
+        f'<div class="l">plants under contract</div>'
+        f'<div class="alt">&nbsp;</div></div>',
         f'<div class="kpi"><div class="v">{total/CRORE:,.0f}</div>'
-        f'<div class="l">Tk crore remaining</div></div>',
+        f'<div class="l">Tk crore remaining</div>'
+        f'<div class="alt">US$ {total/USD/1e9:,.2f}bn</div></div>',
         f'<div class="kpi"><div class="v">{pv/CRORE:,.0f}</div>'
-        f'<div class="l">Tk crore, PV at 9%</div></div>',
+        f'<div class="l">Tk crore, PV at 9%</div>'
+        f'<div class="alt">US$ {pv/USD/1e9:,.2f}bn</div></div>',
         '</div>',
         f'<p class="fig-title">{html.escape(fig_title)}</p>',
-        ('<p class="fig-sub">Contracted fixed payment by year, Tk crore</p>'
+        ('<p class="fig-sub">Contracted fixed payment by year and plant, Tk crore</p>'
          if path else ''),
-        bar_chart(path),
+        bar_chart(path, plants),
         f'<p class="fig-note">{fig_note}</p>' if fig_note else '',
         '<h2>Plants</h2>',
         '<table><thead><tr><th>Plant</th><th>Fuel</th>'
         '<th class="num">Fixed payment<br>Tk crore/yr</th>'
         '<th class="num">COD</th><th class="num">Expiry</th>'
-        '<th>Basis</th></tr></thead><tbody>',
+        '<th>Expiry basis</th></tr></thead><tbody>',
     ]
     for r in plants:
         body.append(
@@ -274,6 +434,7 @@ def render(sponsor: str, plants: list[dict]) -> str:
         f'<td colspan="3"></td></tr></tbody></table>'
     )
 
+    body.append(sensitivity_block(plants))
     body.append(
         '<div class="note">'
         '<b>Method.</b> Fixed payments are estimated from BPDB\'s audited '
@@ -282,18 +443,30 @@ def render(sponsor: str, plants: list[dict]) -> str:
         '<i>P<sub>it</sub> = CP<sub>i</sub> + v<sub>f,t</sub> E<sub>it</sub></i>, '
         'with a plant-specific fixed component and an energy rate common to '
         'plants of the same fuel in the same year, estimated over FY2019-20 to '
-        'FY2024-25 and bounded above by the non-fuel revenue sponsors report in '
-        'their own accounts. '
-        f'<b>Limitations.</b> Of the plants above, {assumed} carry an expiry '
+        'FY2024-25. Where a sponsor reports revenue net of fuel for a plant, '
+        'that figure caps its fixed component, since the capacity payment has '
+        'to be paid out of it; no fixed component is allowed to be negative. '
+        f'<b>Limitations.</b> Of the {len(plants)} plants above, {assumed} carry '
+        f'an expiry '
         'assumed at 15 years from commissioning — the median realised contract '
         'length in BPDB\'s retirement schedule — rather than a disclosed date, '
-        'so the run-off profile is indicative. The fixed component is bounded '
-        'by disclosure but not confirmed by it: no sponsor publishes a capacity '
-        'rate. Figures are nominal and undiscounted except where stated. '
+        'so the run-off profile is indicative. The estimate is held down '
+        'where such a cap exists, but nothing confirms it: none of the sponsors '
+        'examined publishes a capacity rate. Figures are nominal '
+        'and undiscounted except where stated. '
+        f'Dollar equivalents convert at Tk {USD:.0f} = US$1 and are indicative '
+        'only: the currency in which each contract is denominated is not '
+        'disclosed, and applying one spot rate to payments running to the '
+        '2030s understates that uncertainty. '
         '<b>Sources.</b> BPDB annual reports FY2019-20 to FY2024-25; sponsor '
         'audited financial statements; Global Energy Monitor Integrated Power '
         'Tracker, August 2026.'
         '</div>'
+    )
+    body.append(
+        '<div class="contact">For corrections or comments, please contact '
+        'Syed Basher at '
+        '<a href="mailto:syed.basher@gmail.com">syed.basher@gmail.com</a>.</div>'
     )
 
     return (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
