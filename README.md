@@ -154,3 +154,44 @@ a dozen plants, against which the estimator can be calibrated and the rest
 checked. That is the contract layer from the listed IPPs' notes to accounts —
 the step deprioritised when the BPDB payment data turned out to be disclosed.
 It is now the critical path, not an optional enrichment.
+
+## An external anchor, and what it decides (12 September 2026)
+
+The sponsors' own audited accounts supply the anchor the purchase panel could
+not. Summit Power's note 31 reports revenue plant by plant, separated into
+"Sales revenue - Electricity" and "Sales revenue - HFO", with the IFRS 16
+straight-lining adjustment on a third line. The HFO line is the fuel
+pass-through, so whatever the capacity payment is, it must be paid out of the
+electricity line. That gives a hard restriction from outside the estimator:
+
+    CP_i <= R^elec_i
+
+Two results follow, and the first is the more important.
+
+BPDB's recorded payments reconcile against Summit's own revenue. Rupatoli
+Tk 377 crore against 365, Madanganj Unit-2 332 against 353, Kodda Unit-1 1,393
+against 1,351, Kodda Unit-2 1,535 against 1,599 — gaps of three to six per
+cent, consistent with accrual timing, between two entirely independent
+accounts of the same transactions. The purchase panel is not an artefact of
+how BPDB keeps its books.
+
+The ceiling then decides between the two specifications. Of the five Summit
+plants that can be tested, the per-plant regression breaches the ceiling on
+four, claiming a capacity payment larger than the plant's entire non-fuel
+revenue — which cannot be true. The fuel-controlled panel breaches it on one,
+Jangalia, and that plant stopped generating during the sample, so its
+intercept is fitted on years when it was still running and BPDB paid it nothing
+in FY2024-25.
+
+The fuel-controlled estimates are therefore the ones to carry forward, not
+because their R-squared is higher but because they satisfy a restriction
+imposed by evidence the estimator never saw. The natural next step is to impose
+the ceiling as a constraint rather than checking it after the fact, and to
+widen the anchor set: United Power discloses the split more finely still —
+capacity payment, fuel payment, O&M payment, energy payment, supplemental and
+true-up bills — though at group rather than plant level.
+
+Doreen and Baraka were also examined. Doreen reports plant-level revenue and
+units but does not separate the capacity component; Baraka does not disclose
+the split at all. Coverage of the anchor is therefore uneven across sponsors,
+which is itself worth recording.
