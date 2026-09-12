@@ -260,20 +260,20 @@ years, but those are asset lifetimes rather than contracts and none enters this
 curve.
 
 Of the 46 plants with a positive estimated fixed payment, 34 could be dated,
-covering Tk 6,415 crore of the Tk 7,851 crore annual total, or 82 per cent by
-value. Five have a disclosed retirement date, 18 take a BPDB commissioning date
-and 11 a GEM start year; 12 could not be dated and are excluded rather than
+covering 82 per cent of the Tk 7,851 crore annual total by value. Four have a
+disclosed retirement date, 18 take a BPDB commissioning date and 12 a GEM
+start year; 12 could not be dated and are excluded rather than
 guessed at.
 
 The resulting path, in Tk crore a year:
 
-    2026  5,982    2030  5,166    2034  1,992
-    2027  5,859    2031  4,905    2035  1,219
-    2028  5,457    2032  4,593    2036    383
-    2029  5,344    2033  3,192
+    2026  6,157    2030  5,341    2034  2,080
+    2027  6,034    2031  5,081    2035  1,219
+    2028  5,633    2032  4,768    2036    383
+    2029  5,520    2033  3,368
 
-That is Tk 44,093 crore undiscounted, or Tk 30,397 crore in present value at 9
-per cent — roughly US$2.5 billion at 122 taka. The shape is the finding: the
+That is Tk 45,585 crore undiscounted, or Tk 31,408 crore in present value at 9
+per cent — roughly US$2.6 billion at 122 taka. The shape is the finding: the
 obligation holds near Tk 5,000 crore a year to 2032 and then falls away sharply,
 because the 2016-2021 IPP build-out reaches its fifteenth year in a cluster.
 
@@ -293,3 +293,49 @@ and applying a median plant by plant is exactly the step that produces a cliff
 where the truth is probably a slope. Recovering actual PPA tenures — plant by
 plant, from prospectuses or rating rationales — would do more for this curve
 than any further work on the payments themselves.
+
+## The exposure note (12 September 2026)
+
+`src/exposure_note.py` renders a one-page contracted-exposure note for any
+sponsor group: the fixed payment owed this year, the plant-by-plant detail with
+commissioning and expiry, the run-off profile, and the present value of what
+remains. It is a print document rather than a dashboard, because the reader is
+a credit committee and it will travel as a PDF.
+
+Eighteen sponsor groups can be generated from the current data. The two that
+matter commercially are United, with four plants and Tk 2,019 crore owed in
+2026 against Tk 16,742 crore remaining, and Summit, with seven plants and
+Tk 1,684 crore owed in 2026 against Tk 11,745 crore remaining.
+
+The note states its own limitations on the page rather than in a footnote:
+which expiries are disclosed and which assumed, that the fixed component is
+bounded by sponsor disclosure but not confirmed by it, and what the sources
+are. A reader who wants to argue with the numbers is given what they need to
+do it, which is the only way a number from an independent source survives a
+credit committee.
+
+Generated notes are not tracked; run the script to produce them.
+
+    python3 src/exposure_note.py            # list sponsor groups
+    python3 src/exposure_note.py "Summit"   # one note
+    python3 src/exposure_note.py --all      # all of them
+
+
+## Two corrections found while building the note (12 September 2026)
+
+Rendering the notes surfaced two errors that the aggregate numbers had hidden.
+
+Confidence Power's Rangpur plant was being matched to a 1988 public unit at
+Rangpur in the retirement schedule, giving it an expiry of 2023 rather than
+2034. Every plant carrying an estimated fixed payment is an IPP, so a match
+against a public row in that schedule is a false positive by construction, and
+the matcher now refuses them. The corrected obligation path is Tk 45,585 crore
+undiscounted rather than Tk 44,093 crore.
+
+Doreen's two remaining plants genuinely have expired — Tangail in November 2023
+and Feni in February 2024 — which BPDB's schedule and Doreen's own accounts
+agree on. Its note now says so rather than printing an empty chart.
+
+Neither error was visible in the fleet totals. Both appeared the moment the
+data was put on a page for a named counterparty, which is an argument for
+building the presentation layer earlier than feels efficient.

@@ -87,7 +87,12 @@ def main() -> None:
 
     spine_idx = [(tokens(r["plant_name"]), r["plant_name"], r)
                  for r in spine if r["commissioning_date"]]
-    retire_idx = [(tokens(k), k, v) for k, v in retire.items()]
+    # Every plant with an estimated fixed payment is an IPP, so a match against
+    # a public plant in the retirement schedule is a false positive by
+    # construction. Confidence Rangpur matching a 1988 public unit at Rangpur is
+    # what this guard exists to stop.
+    retire_idx = [(tokens(k), k, v) for k, v in retire.items()
+                  if v.get("ownership") == "private"]
     gem_idx = [(tokens(r["Plant / Project name"]), r["Plant / Project name"], r)
                for r in gem]
 
